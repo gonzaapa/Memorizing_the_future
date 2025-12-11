@@ -1,0 +1,2371 @@
+"","id","gender","age","platform","trial","file","showBefore","type","success","reactionTime"
+"1",30624629,"Men",24,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.4311432
+"2",30624629,"Men",24,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.4009386
+"3",30624629,"Men",24,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.3566942
+"4",30624629,"Men",24,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.1102275
+"5",30624629,"Men",24,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.1927612
+"6",30624629,"Men",24,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,1.69351
+"7",30624629,"Men",24,"Matlab",9,"Stim_Choque_3","New","Collision",1,3.8765831
+"8",30624629,"Men",24,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.1454365
+"9",30624629,"Men",24,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.0304917
+"10",30624629,"Men",24,"Matlab",12,"Stim_Choque_1","New","Collision",1,3.488374
+"11",66815231,"Men",27,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.8680354
+"12",66815231,"Men",27,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.5967699
+"13",66815231,"Men",27,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,2.0044132
+"14",66815231,"Men",27,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.052612
+"15",66815231,"Men",27,"Matlab",7,"Stim_Choque_6","Old","Collision",1,2.0400134
+"16",66815231,"Men",27,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.7635599
+"17",66815231,"Men",27,"Matlab",9,"Stim_Choque_3","New","Collision",1,2.0421367
+"18",66815231,"Men",27,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.7512843
+"19",66815231,"Men",27,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,4.0477125
+"20",66815231,"Men",27,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.5446012
+"21",85667231,"Women",24,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.3242414
+"22",85667231,"Women",24,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.1525445
+"23",85667231,"Women",24,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.865083
+"24",85667231,"Women",24,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,2.0735869
+"25",85667231,"Women",24,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.6951373
+"26",85667231,"Women",24,"Matlab",8,"Stim_Choque_4","Old","Collision",0,1.381998
+"27",85667231,"Women",24,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.4226894
+"28",85667231,"Women",24,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.1977067
+"29",85667231,"Women",24,"Matlab",11,"Stim_Choque_6","Old","Collision",0,1.2200418
+"30",85667231,"Women",24,"Matlab",12,"Stim_Choque_2","Old","Collision",0,1.295073
+"31",44093407,"Women",26,"Matlab",3,"Stim_Choque_2","Old","Collision",1,1.3962848
+"32",44093407,"Women",26,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",0,1.3800831
+"33",44093407,"Women",26,"Matlab",5,"Stim_NO_Choque_6","Old","No collision",1,3.8285472
+"34",44093407,"Women",26,"Matlab",6,"Stim_Choque_1","New","Collision",1,1.5294544
+"35",44093407,"Women",26,"Matlab",7,"Stim_NO_Choque_7","New","No collision",1,1.4141535
+"36",44093407,"Women",26,"Matlab",8,"Stim_NO_Choque_5","New","No collision",1,7.3546422
+"37",44093407,"Women",26,"Matlab",9,"Stim_Choque_5","New","Collision",0,2.8156282
+"38",44093407,"Women",26,"Matlab",10,"Stim_Choque_7","New","Collision",1,1.5998995
+"39",44093407,"Women",26,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.8141413
+"40",44093407,"Women",26,"Matlab",12,"Stim_Choque_8","Old","Collision",1,1.4362599
+"41",33202274,"Men",26,"Matlab",3,"Stim_Choque_2","Old","Collision",1,1.3027046
+"42",33202274,"Men",26,"Matlab",4,"Stim_Choque_8","Old","Collision",1,1.4946501
+"43",33202274,"Men",26,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.4124965
+"44",33202274,"Men",26,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",1,1.1864367
+"45",33202274,"Men",26,"Matlab",7,"Stim_Choque_5","New","Collision",1,1.8008119
+"46",33202274,"Men",26,"Matlab",8,"Stim_NO_Choque_6","Old","No collision",1,1.2557442
+"47",33202274,"Men",26,"Matlab",9,"Stim_Choque_6","Old","Collision",1,1.0994155
+"48",33202274,"Men",26,"Matlab",10,"Stim_NO_Choque_7","New","No collision",1,1.0789681
+"49",33202274,"Men",26,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,1.4186875
+"50",33202274,"Men",26,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.6214751
+"51",66751347,"Women",26,"Matlab",3,"Stim_NO_Choque_4","Old","No collision",1,1.4906036
+"52",66751347,"Women",26,"Matlab",4,"Stim_NO_Choque_7","New","No collision",1,1.0947111
+"53",66751347,"Women",26,"Matlab",5,"Stim_Choque_8","Old","Collision",1,1.3506059
+"54",66751347,"Women",26,"Matlab",6,"Stim_Choque_3","New","Collision",1,1.3117273
+"55",66751347,"Women",26,"Matlab",7,"Stim_NO_Choque_8","Old","No collision",1,1.3141871
+"56",66751347,"Women",26,"Matlab",8,"Stim_Choque_6","Old","Collision",1,1.2681963
+"57",66751347,"Women",26,"Matlab",9,"Stim_NO_Choque_5","New","No collision",0,1.2161435
+"58",66751347,"Women",26,"Matlab",10,"Stim_NO_Choque_3","New","No collision",1,1.1069755
+"59",66751347,"Women",26,"Matlab",11,"Stim_NO_Choque_6","Old","No collision",1,1.1540948
+"60",66751347,"Women",26,"Matlab",12,"Stim_Choque_5","New","Collision",0,1.2602032
+"61",83321396,"Men",26,"Matlab",3,"Stim_NO_Choque_8","Old","No collision",1,1.2313599
+"62",83321396,"Men",26,"Matlab",4,"Stim_NO_Choque_3","New","No collision",1,1.3170032
+"63",83321396,"Men",26,"Matlab",5,"Stim_NO_Choque_7","New","No collision",1,1.0149978
+"64",83321396,"Men",26,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.280179
+"65",83321396,"Men",26,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.2010565
+"66",83321396,"Men",26,"Matlab",8,"Stim_Choque_8","Old","Collision",1,1.2596594
+"67",83321396,"Men",26,"Matlab",9,"Stim_Choque_7","New","Collision",1,1.0460356
+"68",83321396,"Men",26,"Matlab",10,"Stim_Choque_6","Old","Collision",1,4.2722702
+"69",83321396,"Men",26,"Matlab",11,"Stim_NO_Choque_5","New","No collision",1,1.2157737
+"70",83321396,"Men",26,"Matlab",12,"Stim_Choque_3","New","Collision",1,1.3900291
+"71",47381040,"Women",31,"Matlab",3,"Stim_Choque_3","New","Collision",1,1.5113968
+"72",47381040,"Women",31,"Matlab",4,"Stim_Choque_4","Old","Collision",1,8.7367232
+"73",47381040,"Women",31,"Matlab",5,"Stim_Choque_1","New","Collision",0,1.8640192
+"74",47381040,"Women",31,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",0,2.1560242
+"75",47381040,"Women",31,"Matlab",7,"Stim_NO_Choque_3","New","No collision",0,9.2021979
+"76",47381040,"Women",31,"Matlab",8,"Stim_NO_Choque_7","New","No collision",1,1.4420217
+"77",47381040,"Women",31,"Matlab",9,"Stim_Choque_8","Old","Collision",1,1.2496493
+"78",47381040,"Women",31,"Matlab",10,"Stim_Choque_2","Old","Collision",1,1.2531268
+"79",47381040,"Women",31,"Matlab",11,"Stim_Choque_7","New","Collision",1,1.3058157
+"80",47381040,"Women",31,"Matlab",12,"Stim_NO_Choque_4","Old","No collision",1,12.4485255
+"81",10895179,"Women",23,"Matlab",3,"Stim_NO_Choque_2","Old","No collision",1,1.6779562
+"82",10895179,"Women",23,"Matlab",4,"Stim_Choque_6","Old","Collision",1,1.4900016
+"83",10895179,"Women",23,"Matlab",5,"Stim_Choque_8","Old","Collision",1,2.0462774
+"84",10895179,"Women",23,"Matlab",6,"Stim_NO_Choque_7","New","No collision",1,1.474011
+"85",10895179,"Women",23,"Matlab",7,"Stim_Choque_5","New","Collision",1,1.8919456
+"86",10895179,"Women",23,"Matlab",8,"Stim_Choque_1","New","Collision",1,1.3267479
+"87",10895179,"Women",23,"Matlab",9,"Stim_NO_Choque_5","New","No collision",1,1.3593585
+"88",10895179,"Women",23,"Matlab",10,"Stim_NO_Choque_1","New","No collision",1,1.8244932
+"89",10895179,"Women",23,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,1.877896
+"90",10895179,"Women",23,"Matlab",12,"Stim_Choque_2","Old","Collision",1,1.6004217
+"91",83421356,"Women",26,"Matlab",3,"Stim_Choque_4","Old","Collision",1,1.2171192
+"92",83421356,"Women",26,"Matlab",4,"Stim_Choque_5","New","Collision",1,1.1533603
+"93",83421356,"Women",26,"Matlab",5,"Stim_NO_Choque_3","New","No collision",1,1.2505256
+"94",83421356,"Women",26,"Matlab",6,"Stim_Choque_6","Old","Collision",1,1.3382995
+"95",83421356,"Women",26,"Matlab",7,"Stim_Choque_3","New","Collision",1,1.2996366
+"96",83421356,"Women",26,"Matlab",8,"Stim_NO_Choque_8","Old","No collision",0,1.9399537
+"97",83421356,"Women",26,"Matlab",9,"Stim_NO_Choque_7","New","No collision",1,1.2162234
+"98",83421356,"Women",26,"Matlab",10,"Stim_Choque_7","New","Collision",1,0.971154
+"99",83421356,"Women",26,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,0.9245405
+"100",83421356,"Women",26,"Matlab",12,"Stim_NO_Choque_6","Old","No collision",1,2.5813411
+"101",53919813,"Women",26,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.5882468
+"102",53919813,"Women",26,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.4770316
+"103",53919813,"Women",26,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,2.0430353
+"104",53919813,"Women",26,"Matlab",6,"Stim_Choque_5","New","Collision",1,11.1627074
+"105",53919813,"Women",26,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.3355229
+"106",53919813,"Women",26,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.6037229
+"107",53919813,"Women",26,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.240069
+"108",53919813,"Women",26,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.5366176
+"109",53919813,"Women",26,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,12.6482411
+"110",53919813,"Women",26,"Matlab",12,"Stim_Choque_1","New","Collision",1,11.4658132
+"111",92825332,"Women",24,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.3207431
+"112",92825332,"Women",24,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.6059576
+"113",92825332,"Women",24,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.5480928
+"114",92825332,"Women",24,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.304234
+"115",92825332,"Women",24,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.7691166
+"116",92825332,"Women",24,"Matlab",8,"Stim_Choque_4","Old","Collision",1,1.5632639
+"117",92825332,"Women",24,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.3040103
+"118",92825332,"Women",24,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,4.0362974
+"119",92825332,"Women",24,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.2975072
+"120",92825332,"Women",24,"Matlab",12,"Stim_Choque_2","Old","Collision",0,1.303884
+"121",96633663,"Men",30,"Matlab",3,"Stim_Choque_2","Old","Collision",1,2.1201637
+"122",96633663,"Men",30,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",1,1.4736679
+"123",96633663,"Men",30,"Matlab",5,"Stim_NO_Choque_6","Old","No collision",1,1.6508249
+"124",96633663,"Men",30,"Matlab",6,"Stim_Choque_1","New","Collision",1,1.5398672
+"125",96633663,"Men",30,"Matlab",7,"Stim_NO_Choque_7","New","No collision",1,1.8211076
+"126",96633663,"Men",30,"Matlab",8,"Stim_NO_Choque_5","New","No collision",1,1.9221265
+"127",96633663,"Men",30,"Matlab",9,"Stim_Choque_5","New","Collision",0,1.7930669
+"128",96633663,"Men",30,"Matlab",10,"Stim_Choque_7","New","Collision",0,1.3926443
+"129",96633663,"Men",30,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.3584843
+"130",96633663,"Men",30,"Matlab",12,"Stim_Choque_8","Old","Collision",1,1.8653905
+"131",55897020,"Women",28,"Matlab",3,"Stim_Choque_2","Old","Collision",1,1.3386591
+"132",55897020,"Women",28,"Matlab",4,"Stim_Choque_8","Old","Collision",1,1.3000902
+"133",55897020,"Women",28,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2929704
+"134",55897020,"Women",28,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",0,3.1963153
+"135",55897020,"Women",28,"Matlab",7,"Stim_Choque_5","New","Collision",1,1.527758
+"136",55897020,"Women",28,"Matlab",8,"Stim_NO_Choque_6","Old","No collision",1,5.8219194
+"137",55897020,"Women",28,"Matlab",9,"Stim_Choque_6","Old","Collision",1,1.7370406
+"138",55897020,"Women",28,"Matlab",10,"Stim_NO_Choque_7","New","No collision",1,1.3870468
+"139",55897020,"Women",28,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,7.6375871
+"140",55897020,"Women",28,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0575129
+"141",93114937,"Women",27,"Matlab",3,"Stim_NO_Choque_4","Old","No collision",1,1.9403835
+"142",93114937,"Women",27,"Matlab",4,"Stim_NO_Choque_7","New","No collision",1,1.9188032
+"143",93114937,"Women",27,"Matlab",5,"Stim_Choque_8","Old","Collision",1,3.2338811
+"144",93114937,"Women",27,"Matlab",6,"Stim_Choque_3","New","Collision",1,1.5958968
+"145",93114937,"Women",27,"Matlab",7,"Stim_NO_Choque_8","Old","No collision",1,2.415912
+"146",93114937,"Women",27,"Matlab",8,"Stim_Choque_6","Old","Collision",1,2.1375239
+"147",93114937,"Women",27,"Matlab",9,"Stim_NO_Choque_5","New","No collision",1,1.4683429
+"148",93114937,"Women",27,"Matlab",10,"Stim_NO_Choque_3","New","No collision",1,1.5349707
+"149",93114937,"Women",27,"Matlab",11,"Stim_NO_Choque_6","Old","No collision",1,1.6016324
+"150",93114937,"Women",27,"Matlab",12,"Stim_Choque_5","New","Collision",1,1.635705
+"151",49119315,"Men",31,"Matlab",3,"Stim_NO_Choque_8","Old","No collision",1,3.6367677
+"152",49119315,"Men",31,"Matlab",4,"Stim_NO_Choque_3","New","No collision",1,6.0039145
+"153",49119315,"Men",31,"Matlab",5,"Stim_NO_Choque_7","New","No collision",1,1.5445074
+"154",49119315,"Men",31,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.4227046
+"155",49119315,"Men",31,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.6786547
+"156",49119315,"Men",31,"Matlab",8,"Stim_Choque_8","Old","Collision",1,2.2995204
+"157",49119315,"Men",31,"Matlab",9,"Stim_Choque_7","New","Collision",1,2.3488706
+"158",49119315,"Men",31,"Matlab",10,"Stim_Choque_6","Old","Collision",1,2.1826378
+"159",49119315,"Men",31,"Matlab",11,"Stim_NO_Choque_5","New","No collision",1,3.2939378
+"160",49119315,"Men",31,"Matlab",12,"Stim_Choque_3","New","Collision",1,2.1091368
+"161",81790355,"Men",28,"Matlab",3,"Stim_Choque_3","New","Collision",1,3.5945574
+"162",81790355,"Men",28,"Matlab",4,"Stim_Choque_4","Old","Collision",1,2.7541635
+"163",81790355,"Men",28,"Matlab",5,"Stim_Choque_1","New","Collision",1,3.3946863
+"164",81790355,"Men",28,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",1,1.8179814
+"165",81790355,"Men",28,"Matlab",7,"Stim_NO_Choque_3","New","No collision",1,3.2828765
+"166",81790355,"Men",28,"Matlab",8,"Stim_NO_Choque_7","New","No collision",1,2.2482145
+"167",81790355,"Men",28,"Matlab",9,"Stim_Choque_8","Old","Collision",1,2.4241305
+"168",81790355,"Men",28,"Matlab",10,"Stim_Choque_2","Old","Collision",1,2.0547436
+"169",81790355,"Men",28,"Matlab",11,"Stim_Choque_7","New","Collision",1,3.0109817
+"170",81790355,"Men",28,"Matlab",12,"Stim_NO_Choque_4","Old","No collision",1,2.2083464
+"171",74473254,"Women",23,"Matlab",3,"Stim_NO_Choque_2","Old","No collision",1,2.2958305
+"172",74473254,"Women",23,"Matlab",4,"Stim_Choque_6","Old","Collision",1,1.8634388
+"173",74473254,"Women",23,"Matlab",5,"Stim_Choque_8","Old","Collision",1,2.0653503
+"174",74473254,"Women",23,"Matlab",6,"Stim_NO_Choque_7","New","No collision",1,1.4839849
+"175",74473254,"Women",23,"Matlab",7,"Stim_Choque_5","New","Collision",1,1.5354584
+"176",74473254,"Women",23,"Matlab",8,"Stim_Choque_1","New","Collision",1,1.9461507
+"177",74473254,"Women",23,"Matlab",9,"Stim_NO_Choque_5","New","No collision",1,2.6284718
+"178",74473254,"Women",23,"Matlab",10,"Stim_NO_Choque_1","New","No collision",1,2.4544677
+"179",74473254,"Women",23,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,2.0084985
+"180",74473254,"Women",23,"Matlab",12,"Stim_Choque_2","Old","Collision",1,1.7498865
+"181",24194329,"Women",37,"Matlab",3,"Stim_Choque_4","Old","Collision",1,2.0798092
+"182",24194329,"Women",37,"Matlab",4,"Stim_Choque_5","New","Collision",0,5.838598
+"183",24194329,"Women",37,"Matlab",5,"Stim_NO_Choque_3","New","No collision",1,1.8557587
+"184",24194329,"Women",37,"Matlab",6,"Stim_Choque_6","Old","Collision",1,7.0406823
+"185",24194329,"Women",37,"Matlab",7,"Stim_Choque_3","New","Collision",1,2.3799128
+"186",24194329,"Women",37,"Matlab",8,"Stim_NO_Choque_8","Old","No collision",1,3.1369615
+"187",24194329,"Women",37,"Matlab",9,"Stim_NO_Choque_7","New","No collision",1,2.980275
+"188",24194329,"Women",37,"Matlab",10,"Stim_Choque_7","New","Collision",1,3.2416956
+"189",24194329,"Women",37,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.3571178
+"190",24194329,"Women",37,"Matlab",12,"Stim_NO_Choque_6","Old","No collision",1,4.4302822
+"191",18965983,"Women",27,"Matlab",3,"Stim_Choque_8","Old","Collision",1,2.4643585
+"192",18965983,"Women",27,"Matlab",4,"Stim_Choque_7","New","Collision",1,3.9237446
+"193",18965983,"Women",27,"Matlab",5,"Stim_NO_Choque_2","Old","No collision",1,1.3563069
+"194",18965983,"Women",27,"Matlab",6,"Stim_NO_Choque_6","Old","No collision",1,1.1102236
+"195",18965983,"Women",27,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.1880779
+"196",18965983,"Women",27,"Matlab",8,"Stim_NO_Choque_7","New","No collision",1,1.3380192
+"197",18965983,"Women",27,"Matlab",9,"Stim_NO_Choque_1","New","No collision",0,1.6548278
+"198",18965983,"Women",27,"Matlab",10,"Stim_NO_Choque_5","New","No collision",1,4.0455935
+"199",18965983,"Women",27,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,1.3030668
+"200",18965983,"Women",27,"Matlab",12,"Stim_Choque_2","Old","Collision",0,1.179383
+"201",79533264,"Men",23,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.4717852
+"202",79533264,"Men",23,"Matlab",4,"Stim_Choque_6","Old","Collision",1,2.0468817
+"203",79533264,"Men",23,"Matlab",5,"Stim_Choque_7","New","Collision",1,1.47249
+"204",79533264,"Men",23,"Matlab",6,"Stim_NO_Choque_1","New","No collision",1,1.6471066
+"205",79533264,"Men",23,"Matlab",7,"Stim_Choque_5","New","Collision",1,1.8029589
+"206",79533264,"Men",23,"Matlab",8,"Stim_NO_Choque_7","New","No collision",1,1.4100971
+"207",79533264,"Men",23,"Matlab",9,"Stim_Choque_8","Old","Collision",1,1.5374282
+"208",79533264,"Men",23,"Matlab",10,"Stim_Choque_1","New","Collision",1,1.2747709
+"209",79533264,"Men",23,"Matlab",11,"Stim_NO_Choque_2","Old","No collision",1,1.8763441
+"210",79533264,"Men",23,"Matlab",12,"Stim_NO_Choque_8","Old","No collision",1,1.8525806
+"211",91939993,"Men",21,"Matlab",3,"Stim_Choque_5","New","Collision",1,2.2836649
+"212",91939993,"Men",21,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.74842
+"213",91939993,"Men",21,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.7727787
+"214",91939993,"Men",21,"Matlab",6,"Stim_Choque_2","Old","Collision",1,1.4928647
+"215",91939993,"Men",21,"Matlab",7,"Stim_NO_Choque_4","Old","No collision",1,1.4639648
+"216",91939993,"Men",21,"Matlab",8,"Stim_Choque_1","New","Collision",1,1.4203163
+"217",91939993,"Men",21,"Matlab",9,"Stim_NO_Choque_6","Old","No collision",1,1.6792732
+"218",91939993,"Men",21,"Matlab",10,"Stim_NO_Choque_5","New","No collision",1,1.6346263
+"219",91939993,"Men",21,"Matlab",11,"Stim_NO_Choque_2","Old","No collision",1,1.330612
+"220",91939993,"Men",21,"Matlab",12,"Stim_Choque_6","Old","Collision",1,1.4142219
+"221",44140412,"Women",31,"Matlab",3,"Stim_Choque_5","New","Collision",1,2.108303
+"222",44140412,"Women",31,"Matlab",4,"Stim_NO_Choque_5","New","No collision",0,1.5907856
+"223",44140412,"Women",31,"Matlab",5,"Stim_Choque_7","New","Collision",1,1.3580882
+"224",44140412,"Women",31,"Matlab",6,"Stim_Choque_6","Old","Collision",1,1.6045466
+"225",44140412,"Women",31,"Matlab",7,"Stim_NO_Choque_8","Old","No collision",1,1.8652324
+"226",44140412,"Women",31,"Matlab",8,"Stim_NO_Choque_3","New","No collision",1,1.227042
+"227",44140412,"Women",31,"Matlab",9,"Stim_NO_Choque_7","New","No collision",1,1.4855858
+"228",44140412,"Women",31,"Matlab",10,"Stim_NO_Choque_4","Old","No collision",1,1.2254461
+"229",44140412,"Women",31,"Matlab",11,"Stim_Choque_4","Old","Collision",1,1.5711466
+"230",44140412,"Women",31,"Matlab",12,"Stim_NO_Choque_6","Old","No collision",1,1.5801502
+"231",77301321,"Men",24,"Matlab",3,"Stim_NO_Choque_3","New","No collision",1,1.721637
+"232",77301321,"Men",24,"Matlab",4,"Stim_Choque_8","Old","Collision",1,1.8200964
+"233",77301321,"Men",24,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.4759348
+"234",77301321,"Men",24,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.7102761
+"235",77301321,"Men",24,"Matlab",7,"Stim_Choque_4","Old","Collision",1,1.5774361
+"236",77301321,"Men",24,"Matlab",8,"Stim_Choque_7","New","Collision",1,1.4048427
+"237",77301321,"Men",24,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2190368
+"238",77301321,"Men",24,"Matlab",10,"Stim_NO_Choque_4","Old","No collision",1,1.19405
+"239",77301321,"Men",24,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,1.7465675
+"240",77301321,"Men",24,"Matlab",12,"Stim_NO_Choque_7","New","No collision",1,1.4271726
+"241",28077633,"Women",26,"Matlab",3,"Stim_NO_Choque_7","New","No collision",1,1.6050369
+"242",28077633,"Women",26,"Matlab",4,"Stim_Choque_7","New","Collision",1,2.1817923
+"243",28077633,"Women",26,"Matlab",5,"Stim_NO_Choque_3","New","No collision",1,2.0848672
+"244",28077633,"Women",26,"Matlab",6,"Stim_Choque_6","Old","Collision",1,1.5522024
+"245",28077633,"Women",26,"Matlab",7,"Stim_Choque_4","Old","Collision",1,2.0673275
+"246",28077633,"Women",26,"Matlab",8,"Stim_NO_Choque_5","New","No collision",0,1.900781
+"247",28077633,"Women",26,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.547922
+"248",28077633,"Women",26,"Matlab",10,"Stim_NO_Choque_6","Old","No collision",1,1.6862701
+"249",28077633,"Women",26,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",0,1.899862
+"250",28077633,"Women",26,"Matlab",12,"Stim_Choque_8","Old","Collision",1,1.7122103
+"251",47767084,"Women",26,"Matlab",3,"Stim_Choque_8","Old","Collision",0,2.8302993
+"252",47767084,"Women",26,"Matlab",4,"Stim_Choque_7","New","Collision",1,2.3572239
+"253",47767084,"Women",26,"Matlab",5,"Stim_Choque_3","New","Collision",1,2.4350753
+"254",47767084,"Women",26,"Matlab",6,"Stim_NO_Choque_3","New","No collision",1,2.3683186
+"255",47767084,"Women",26,"Matlab",7,"Stim_NO_Choque_7","New","No collision",1,2.7611766
+"256",47767084,"Women",26,"Matlab",8,"Stim_NO_Choque_2","Old","No collision",1,2.8637178
+"257",47767084,"Women",26,"Matlab",9,"Stim_Choque_1","New","Collision",1,2.5478029
+"258",47767084,"Women",26,"Matlab",10,"Stim_Choque_4","Old","Collision",1,1.5509257
+"259",47767084,"Women",26,"Matlab",11,"Stim_Choque_2","Old","Collision",1,2.5386623
+"260",47767084,"Women",26,"Matlab",12,"Stim_NO_Choque_1","New","No collision",1,2.3298409
+"261",78893077,"Men",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,1.2703262
+"262",78893077,"Men",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9097483
+"263",78893077,"Men",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9443197
+"264",78893077,"Men",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.9434527
+"265",78893077,"Men",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.9267635
+"266",78893077,"Men",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0507367
+"267",78893077,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,3.5506976
+"268",78893077,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,1.0478395
+"269",78893077,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,1.2940273
+"270",78893077,"Men",19,"Matlab",12,"Stim_Choque_1","New","Collision",0,0.9419106
+"271",82349052,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.7142515
+"272",82349052,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.4880218
+"273",82349052,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",0,1.5382375
+"274",82349052,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.484242
+"275",82349052,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,3.2202966
+"276",82349052,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.7791856
+"277",82349052,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.6091955
+"278",82349052,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,4.1407359
+"279",82349052,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.1154425
+"280",82349052,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.2769468
+"281",53774940,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,1.5995234
+"282",53774940,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.1377785
+"283",53774940,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2662108
+"284",53774940,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.2160058
+"285",53774940,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8740132
+"286",53774940,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.9776077
+"287",53774940,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.1016088
+"288",53774940,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.229524
+"289",53774940,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,1.6637487
+"290",53774940,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.2470515
+"291",54789137,"Men",20,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.8940353
+"292",54789137,"Men",20,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.8376184
+"293",54789137,"Men",20,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9502711
+"294",54789137,"Men",20,"Matlab",6,"Stim_Choque_5","New","Collision",1,3.3964141
+"295",54789137,"Men",20,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8718965
+"296",54789137,"Men",20,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.998216
+"297",54789137,"Men",20,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2462914
+"298",54789137,"Men",20,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.2241205
+"299",54789137,"Men",20,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.6222173
+"300",54789137,"Men",20,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.7047762
+"301",50764593,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.5290461
+"302",50764593,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,3.09744
+"303",50764593,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.4642229
+"304",50764593,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.5492615
+"305",50764593,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.5822131
+"306",50764593,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.3674349
+"307",50764593,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2532071
+"308",50764593,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.4711942
+"309",50764593,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.2962885
+"310",50764593,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.5187743
+"311",11108523,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,2.3274368
+"312",11108523,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0100406
+"313",11108523,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,2.3927871
+"314",11108523,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",0,1.7981688
+"315",11108523,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8075882
+"316",11108523,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8415733
+"317",11108523,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8911991
+"318",11108523,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.2548902
+"319",11108523,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,0.8344557
+"320",11108523,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.1584338
+"321",56676873,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,2.1408255
+"322",56676873,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0784795
+"323",56676873,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.155854
+"324",56676873,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.5333552
+"325",56676873,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.217618
+"326",56676873,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0137549
+"327",56676873,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.7574211
+"328",56676873,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.6180065
+"329",56676873,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,2.0264555
+"330",56676873,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",0,1.568302
+"331",37529197,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,1.1996356
+"332",37529197,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.5646907
+"333",37529197,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2140096
+"334",37529197,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.938676
+"335",37529197,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",0,1.5458267
+"336",37529197,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.2173554
+"337",37529197,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.8317931
+"338",37529197,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8434589
+"339",37529197,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.2076783
+"340",37529197,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.3994654
+"341",10067064,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.2722817
+"342",10067064,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0606686
+"343",10067064,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2471651
+"344",10067064,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.1619285
+"345",10067064,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,2.1214873
+"346",10067064,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8373321
+"347",10067064,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.17534
+"348",10067064,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8226557
+"349",10067064,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,1.0532739
+"350",10067064,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.2503799
+"351",82473614,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.1683508
+"352",82473614,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,2.7150213
+"353",82473614,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.8141051
+"354",82473614,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3206192
+"355",82473614,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.2048335
+"356",82473614,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.2339826
+"357",82473614,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2858127
+"358",82473614,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.2780541
+"359",82473614,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.3192697
+"360",82473614,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.4851187
+"361",90349576,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.0112928
+"362",90349576,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0815039
+"363",90349576,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.8207387
+"364",90349576,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3788468
+"365",90349576,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.4334795
+"366",90349576,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.3752133
+"367",90349576,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.3771819
+"368",90349576,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.1642838
+"369",90349576,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.5970039
+"370",90349576,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0383024
+"371",23689722,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.3259334
+"372",23689722,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.16004
+"373",23689722,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9425937
+"374",23689722,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.2042607
+"375",23689722,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",0,4.4423784
+"376",23689722,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0569328
+"377",23689722,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0572841
+"378",23689722,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8571156
+"379",23689722,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.7689243
+"380",23689722,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.3093003
+"381",30415145,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,2.5041912
+"382",30415145,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9269843
+"383",30415145,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.8517366
+"384",30415145,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.6936478
+"385",30415145,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.899838
+"386",30415145,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,2.5958675
+"387",30415145,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",0,0.7182534
+"388",30415145,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,1.0558722
+"389",30415145,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,1.4551749
+"390",30415145,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",0,0.9588404
+"391",81273691,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,2.2204435
+"392",81273691,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0376861
+"393",81273691,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9801089
+"394",81273691,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.892116
+"395",81273691,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.7801142
+"396",81273691,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0895966
+"397",81273691,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8921136
+"398",81273691,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.3883971
+"399",81273691,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.034997
+"400",81273691,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.7607359
+"401",55731645,"Women",18,"Matlab",3,"Stim_Choque_4","Old","Collision",1,1.1227446
+"402",55731645,"Women",18,"Matlab",4,"Stim_NO_Choque_5","New","No collision",1,1.0095027
+"403",55731645,"Women",18,"Matlab",5,"Stim_Choque_5","New","Collision",1,0.8926817
+"404",55731645,"Women",18,"Matlab",6,"Stim_Choque_6","Old","Collision",1,1.0146147
+"405",55731645,"Women",18,"Matlab",7,"Stim_Choque_7","New","Collision",1,1.1438537
+"406",55731645,"Women",18,"Matlab",8,"Stim_NO_Choque_7","New","No collision",1,0.9509627
+"407",55731645,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,2.2899669
+"408",55731645,"Women",18,"Matlab",10,"Stim_Choque_8","Old","Collision",1,0.7648207
+"409",55731645,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.8029132
+"410",55731645,"Women",18,"Matlab",12,"Stim_NO_Choque_8","Old","No collision",0,1.6844962
+"411",68095992,"Women",21,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.0422099
+"412",68095992,"Women",21,"Matlab",4,"Stim_Choque_1","New","Collision",1,0.7889771
+"413",68095992,"Women",21,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,0.9513728
+"414",68095992,"Women",21,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,0.9318597
+"415",68095992,"Women",21,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.8702856
+"416",68095992,"Women",21,"Matlab",8,"Stim_Choque_4","Old","Collision",1,2.2327126
+"417",68095992,"Women",21,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.9243779
+"418",68095992,"Women",21,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9603458
+"419",68095992,"Women",21,"Matlab",11,"Stim_Choque_6","Old","Collision",1,0.854042
+"420",68095992,"Women",21,"Matlab",12,"Stim_Choque_2","Old","Collision",0,0.8495474
+"421",41987608,"Women",18,"Matlab",3,"Stim_NO_Choque_3","New","No collision",0,1.6313009
+"422",41987608,"Women",18,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",1,1.1253665
+"423",41987608,"Women",18,"Matlab",5,"Stim_Choque_7","New","Collision",0,1.890053
+"424",41987608,"Women",18,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",1,1.2237792
+"425",41987608,"Women",18,"Matlab",7,"Stim_NO_Choque_4","Old","No collision",1,1.3315227
+"426",41987608,"Women",18,"Matlab",8,"Stim_Choque_2","Old","Collision",1,1.1522048
+"427",41987608,"Women",18,"Matlab",9,"Stim_Choque_1","New","Collision",1,1.4511126
+"428",41987608,"Women",18,"Matlab",10,"Stim_Choque_8","Old","Collision",1,1.3492602
+"429",41987608,"Women",18,"Matlab",11,"Stim_Choque_4","Old","Collision",1,1.4415397
+"430",41987608,"Women",18,"Matlab",12,"Stim_NO_Choque_7","New","No collision",1,2.1523117
+"431",45516287,"Men",20,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,0.6946822
+"432",45516287,"Men",20,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.0520094
+"433",45516287,"Men",20,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.0254795
+"434",45516287,"Men",20,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,0.6157558
+"435",45516287,"Men",20,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.9374995
+"436",45516287,"Men",20,"Matlab",8,"Stim_Choque_4","Old","Collision",1,0.6954722
+"437",45516287,"Men",20,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.6663784
+"438",45516287,"Men",20,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8467381
+"439",45516287,"Men",20,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.661003
+"440",45516287,"Men",20,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.8474011
+"441",16139294,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.8855972
+"442",16139294,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9348936
+"443",16139294,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.765474
+"444",16139294,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.8286469
+"445",16139294,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.771789
+"446",16139294,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8685486
+"447",16139294,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8997577
+"448",16139294,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8681172
+"449",16139294,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.0129585
+"450",16139294,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.7847344
+"451",52422324,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,2.4951453
+"452",52422324,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.8253406
+"453",52422324,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.8320879
+"454",52422324,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9293186
+"455",52422324,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8271208
+"456",52422324,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,1.6942886
+"457",52422324,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8747745
+"458",52422324,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8482882
+"459",52422324,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.0792759
+"460",52422324,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,3.8732115
+"461",12435800,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.0734912
+"462",12435800,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.2515177
+"463",12435800,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.888146
+"464",12435800,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.2410372
+"465",12435800,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.9009073
+"466",12435800,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.5560226
+"467",12435800,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.974368
+"468",12435800,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8430439
+"469",12435800,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.1357464
+"470",12435800,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0217497
+"471",11419000,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.6541713
+"472",11419000,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.2010154
+"473",11419000,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.7965288
+"474",11419000,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",0,1.3902573
+"475",11419000,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",0,1.4176837
+"476",11419000,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,2.4237021
+"477",11419000,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8319137
+"478",11419000,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.959836
+"479",11419000,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,1.1415861
+"480",11419000,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.8532637
+"481",23791097,"Men",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.0832471
+"482",23791097,"Men",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9259581
+"483",23791097,"Men",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.6748013
+"484",23791097,"Men",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.8791442
+"485",23791097,"Men",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8330616
+"486",23791097,"Men",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.9306565
+"487",23791097,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8405584
+"488",23791097,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9075037
+"489",23791097,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.9516464
+"490",23791097,"Men",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.7665992
+"491",39571659,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.3696756
+"492",39571659,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.5112487
+"493",39571659,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.3111656
+"494",39571659,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,3.5719774
+"495",39571659,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.4647157
+"496",39571659,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,1.7506501
+"497",39571659,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.5201913
+"498",39571659,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.0976247
+"499",39571659,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.2445863
+"500",39571659,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.4245149
+"501",56915979,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.4963553
+"502",56915979,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",0,2.0679394
+"503",56915979,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.8065037
+"504",56915979,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.1995814
+"505",56915979,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.6757819
+"506",56915979,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.1074596
+"507",56915979,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.9326961
+"508",56915979,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,2.8916721
+"509",56915979,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.4305282
+"510",56915979,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.057944
+"511",61636035,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.333312
+"512",61636035,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0801388
+"513",61636035,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.1690753
+"514",61636035,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.0757976
+"515",61636035,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0306265
+"516",61636035,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0931031
+"517",61636035,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.1975364
+"518",61636035,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,1.9443291
+"519",61636035,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.235581
+"520",61636035,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0825874
+"521",55783352,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,6.3236984
+"522",55783352,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",0,2.9807029
+"523",55783352,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.3088196
+"524",55783352,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",0,3.0355296
+"525",55783352,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0337298
+"526",55783352,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,3.7759257
+"527",55783352,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.9063898
+"528",55783352,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9011636
+"529",55783352,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,3.0252524
+"530",55783352,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0399009
+"531",19223722,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.4685776
+"532",19223722,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.4198911
+"533",19223722,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.129471
+"534",19223722,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.262754
+"535",19223722,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0675993
+"536",19223722,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0122155
+"537",19223722,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.4894134
+"538",19223722,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8906644
+"539",19223722,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.9527153
+"540",19223722,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0675302
+"541",31167366,"Women",21,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.8854314
+"542",31167366,"Women",21,"Matlab",4,"Stim_Choque_4","Old","Collision",0,2.8935376
+"543",31167366,"Women",21,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2391275
+"544",31167366,"Women",21,"Matlab",6,"Stim_Choque_5","New","Collision",1,3.9334789
+"545",31167366,"Women",21,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.106676
+"546",31167366,"Women",21,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.7112256
+"547",31167366,"Women",21,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.1071043
+"548",31167366,"Women",21,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,2.2810014
+"549",31167366,"Women",21,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,2.3949115
+"550",31167366,"Women",21,"Matlab",12,"Stim_Choque_1","New","Collision",0,1.5850345
+"551",76572814,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,2.5867158
+"552",76572814,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.982378
+"553",76572814,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.7746482
+"554",76572814,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.7487383
+"555",76572814,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.5014959
+"556",76572814,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0634833
+"557",76572814,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2633521
+"558",76572814,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8491895
+"559",76572814,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,2.3255619
+"560",76572814,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.3868059
+"561",19612271,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.1886042
+"562",19612271,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.3255079
+"563",19612271,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.0136347
+"564",19612271,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9435324
+"565",19612271,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,2.4600999
+"566",19612271,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.9849552
+"567",19612271,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2194082
+"568",19612271,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.7454979
+"569",19612271,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.8844169
+"570",19612271,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.9865189
+"571",15358373,"Men",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.2406608
+"572",15358373,"Men",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9320287
+"573",15358373,"Men",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2976752
+"574",15358373,"Men",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3537975
+"575",15358373,"Men",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.907015
+"576",15358373,"Men",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0123089
+"577",15358373,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2004533
+"578",15358373,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,4.4133529
+"579",15358373,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,0.8300961
+"580",15358373,"Men",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.7982697
+"581",85513869,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.0573383
+"582",85513869,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",0,4.2602203
+"583",85513869,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.8915846
+"584",85513869,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9769146
+"585",85513869,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.9854813
+"586",85513869,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8885087
+"587",85513869,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.097037
+"588",85513869,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9447866
+"589",85513869,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.0308242
+"590",85513869,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0297994
+"591",75667635,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,2.1644626
+"592",75667635,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.091076
+"593",75667635,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.1518839
+"594",75667635,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.0828654
+"595",75667635,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8510151
+"596",75667635,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.5163651
+"597",75667635,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2116983
+"598",75667635,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,6.1961818
+"599",75667635,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.816469
+"600",75667635,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.8051776
+"601",82817458,"Women",18,"Matlab",3,"Stim_NO_Choque_5","New","No collision",0,2.4252352
+"602",82817458,"Women",18,"Matlab",4,"Stim_Choque_1","New","Collision",0,0.9212385
+"603",82817458,"Women",18,"Matlab",5,"Stim_NO_Choque_1","New","No collision",0,1.4577254
+"604",82817458,"Women",18,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.241611
+"605",82817458,"Women",18,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.1004022
+"606",82817458,"Women",18,"Matlab",8,"Stim_Choque_4","Old","Collision",1,1.2049469
+"607",82817458,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8237124
+"608",82817458,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.1443117
+"609",82817458,"Women",18,"Matlab",11,"Stim_Choque_6","Old","Collision",1,0.8929389
+"610",82817458,"Women",18,"Matlab",12,"Stim_Choque_2","Old","Collision",1,1.0147271
+"611",84200167,"Men",20,"Matlab",3,"Stim_Choque_2","Old","Collision",1,2.6933453
+"612",84200167,"Men",20,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",1,2.0278884
+"613",84200167,"Men",20,"Matlab",5,"Stim_NO_Choque_6","Old","No collision",0,0.8827314
+"614",84200167,"Men",20,"Matlab",6,"Stim_Choque_1","New","Collision",1,1.0772504
+"615",84200167,"Men",20,"Matlab",7,"Stim_NO_Choque_7","New","No collision",1,0.8705482
+"616",84200167,"Men",20,"Matlab",8,"Stim_NO_Choque_5","New","No collision",1,0.9740138
+"617",84200167,"Men",20,"Matlab",9,"Stim_Choque_5","New","Collision",1,0.8506155
+"618",84200167,"Men",20,"Matlab",10,"Stim_Choque_7","New","Collision",1,0.7687455
+"619",84200167,"Men",20,"Matlab",11,"Stim_Choque_6","Old","Collision",1,0.8394201
+"620",84200167,"Men",20,"Matlab",12,"Stim_Choque_8","Old","Collision",1,0.8818876
+"621",77388676,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.0120567
+"622",77388676,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",0,1.137371
+"623",77388676,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.0250175
+"624",77388676,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9540332
+"625",77388676,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0300666
+"626",77388676,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,2.3754472
+"627",77388676,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.3399216
+"628",77388676,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.0455902
+"629",77388676,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.2848786
+"630",77388676,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.3706481
+"631",42729849,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.3594606
+"632",42729849,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0022749
+"633",42729849,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9950783
+"634",42729849,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9826305
+"635",42729849,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8761571
+"636",42729849,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8546733
+"637",42729849,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2566037
+"638",42729849,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8872448
+"639",42729849,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.8886198
+"640",42729849,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.8663412
+"641",23166183,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.1351819
+"642",23166183,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9063122
+"643",23166183,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.8890825
+"644",23166183,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3932206
+"645",23166183,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.7914953
+"646",23166183,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,1.1260499
+"647",23166183,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.6802786
+"648",23166183,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.0557809
+"649",23166183,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.9918201
+"650",23166183,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.997629
+"651",96799878,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,6.7662144
+"652",96799878,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9244103
+"653",96799878,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.1855973
+"654",96799878,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.9477855
+"655",96799878,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0996538
+"656",96799878,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.9974383
+"657",96799878,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.3189121
+"658",96799878,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.202102
+"659",96799878,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,2.1855746
+"660",96799878,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.2629262
+"661",61220486,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.0738458
+"662",61220486,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.236071
+"663",61220486,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.69709
+"664",61220486,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3475811
+"665",61220486,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.1966709
+"666",61220486,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0228113
+"667",61220486,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,2.7973038
+"668",61220486,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,2.8293778
+"669",61220486,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.1594659
+"670",61220486,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.9067215
+"671",73576367,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.2004084
+"672",73576367,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,2.8172797
+"673",73576367,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.5775631
+"674",73576367,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.4947482
+"675",73576367,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.6192011
+"676",73576367,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.4438593
+"677",73576367,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0575959
+"678",73576367,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.3008879
+"679",73576367,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,4.1012971
+"680",73576367,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.1065374
+"681",29545028,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,3.8953741
+"682",29545028,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.002337
+"683",29545028,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.134954
+"684",29545028,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.0324887
+"685",29545028,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.2697799
+"686",29545028,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.1039064
+"687",29545028,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,15.0703325
+"688",29545028,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,2.8812949
+"689",29545028,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.9224135
+"690",29545028,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",0,3.0382002
+"691",21195070,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.6009448
+"692",21195070,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.5407453
+"693",21195070,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.4040509
+"694",21195070,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.9955273
+"695",21195070,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.732099
+"696",21195070,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,2.1530241
+"697",21195070,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.1021443
+"698",21195070,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,2.1019802
+"699",21195070,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.7877321
+"700",21195070,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.8775632
+"701",25957440,"Women",18,"Matlab",3,"Stim_Choque_4","Old","Collision",1,1.733299
+"702",25957440,"Women",18,"Matlab",4,"Stim_NO_Choque_5","New","No collision",1,1.1377692
+"703",25957440,"Women",18,"Matlab",5,"Stim_Choque_5","New","Collision",1,1.5047146
+"704",25957440,"Women",18,"Matlab",6,"Stim_Choque_6","Old","Collision",1,0.9764308
+"705",25957440,"Women",18,"Matlab",7,"Stim_Choque_7","New","Collision",1,1.0780166
+"706",25957440,"Women",18,"Matlab",8,"Stim_NO_Choque_7","New","No collision",1,1.4415847
+"707",25957440,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.4336943
+"708",25957440,"Women",18,"Matlab",10,"Stim_Choque_8","Old","Collision",1,1.6000048
+"709",25957440,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,0.8925447
+"710",25957440,"Women",18,"Matlab",12,"Stim_NO_Choque_8","Old","No collision",1,1.1849323
+"711",72235792,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.9411712
+"712",72235792,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9411795
+"713",72235792,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.7617407
+"714",72235792,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9269081
+"715",72235792,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.7649946
+"716",72235792,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.1055748
+"717",72235792,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.7853641
+"718",72235792,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8227427
+"719",72235792,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.2401425
+"720",72235792,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.6996731
+"721",43851597,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.0197273
+"722",43851597,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0471791
+"723",43851597,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9938587
+"724",43851597,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.7990553
+"725",43851597,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0656171
+"726",43851597,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.9787603
+"727",43851597,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.961031
+"728",43851597,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.4357099
+"729",43851597,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.0605031
+"730",43851597,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.5889124
+"731",81240279,"Men",19,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.1399709
+"732",81240279,"Men",19,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.0447184
+"733",81240279,"Men",19,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.3094877
+"734",81240279,"Men",19,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.0459482
+"735",81240279,"Men",19,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.9484452
+"736",81240279,"Men",19,"Matlab",8,"Stim_Choque_4","Old","Collision",1,1.1511147
+"737",81240279,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.6448128
+"738",81240279,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9151723
+"739",81240279,"Men",19,"Matlab",11,"Stim_Choque_6","Old","Collision",1,0.934151
+"740",81240279,"Men",19,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.7548438
+"741",26285156,"Men",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.914055
+"742",26285156,"Men",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9656471
+"743",26285156,"Men",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.3759917
+"744",26285156,"Men",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3582269
+"745",26285156,"Men",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0377068
+"746",26285156,"Men",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.9502216
+"747",26285156,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0574946
+"748",26285156,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8265797
+"749",26285156,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.8007317
+"750",26285156,"Men",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.9927493
+"751",64161460,"Men",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.9849371
+"752",64161460,"Men",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.9222133
+"753",64161460,"Men",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.716424
+"754",64161460,"Men",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.6628194
+"755",64161460,"Men",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.6680085
+"756",64161460,"Men",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.9143673
+"757",64161460,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.9813468
+"758",64161460,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.7685285
+"759",64161460,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.7127977
+"760",64161460,"Men",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.8309296
+"761",10536498,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.5176567
+"762",10536498,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.300206
+"763",10536498,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.4723726
+"764",10536498,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.1344647
+"765",10536498,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.9622152
+"766",10536498,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,3.553553
+"767",10536498,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.3704333
+"768",10536498,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.1010282
+"769",10536498,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.839157
+"770",10536498,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.1395879
+"771",44088245,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,2.6561679
+"772",44088245,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.2758575
+"773",44088245,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2884876
+"774",44088245,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.1342376
+"775",44088245,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.2723442
+"776",44088245,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.657009
+"777",44088245,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.7514417
+"778",44088245,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.0133133
+"779",44088245,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.7796665
+"780",44088245,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.8552978
+"781",16050059,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,2.0392399
+"782",16050059,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.6444405
+"783",16050059,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.4148467
+"784",16050059,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.754106
+"785",16050059,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.9382958
+"786",16050059,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.5828073
+"787",16050059,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",0,1.7618285
+"788",16050059,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.5868268
+"789",16050059,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.1414541
+"790",16050059,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",0,1.4100468
+"791",70654999,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.7290883
+"792",70654999,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.4497448
+"793",70654999,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9394207
+"794",70654999,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3486634
+"795",70654999,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.3861631
+"796",70654999,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,2.0698055
+"797",70654999,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.893444
+"798",70654999,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.7767414
+"799",70654999,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.0723433
+"800",70654999,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0926407
+"801",77413813,"Women",18,"Matlab",3,"Stim_Choque_2","Old","Collision",1,1.0953772
+"802",77413813,"Women",18,"Matlab",4,"Stim_Choque_8","Old","Collision",1,2.0001781
+"803",77413813,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9655513
+"804",77413813,"Women",18,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",1,1.563974
+"805",77413813,"Women",18,"Matlab",7,"Stim_Choque_5","New","Collision",1,1.4576313
+"806",77413813,"Women",18,"Matlab",8,"Stim_NO_Choque_6","Old","No collision",1,1.4501299
+"807",77413813,"Women",18,"Matlab",9,"Stim_Choque_6","Old","Collision",1,1.1166762
+"808",77413813,"Women",18,"Matlab",10,"Stim_NO_Choque_7","New","No collision",1,1.4015538
+"809",77413813,"Women",18,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,1.1538018
+"810",77413813,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0297715
+"811",27685283,"Men",18,"Matlab",3,"Stim_NO_Choque_3","New","No collision",1,1.0686697
+"812",27685283,"Men",18,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",1,1.2732804
+"813",27685283,"Men",18,"Matlab",5,"Stim_Choque_7","New","Collision",1,1.2375357
+"814",27685283,"Men",18,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",1,1.3373736
+"815",27685283,"Men",18,"Matlab",7,"Stim_NO_Choque_4","Old","No collision",1,1.1244184
+"816",27685283,"Men",18,"Matlab",8,"Stim_Choque_2","Old","Collision",1,1.2623906
+"817",27685283,"Men",18,"Matlab",9,"Stim_Choque_1","New","Collision",1,1.2418868
+"818",27685283,"Men",18,"Matlab",10,"Stim_Choque_8","Old","Collision",1,1.1103415
+"819",27685283,"Men",18,"Matlab",11,"Stim_Choque_4","Old","Collision",1,1.0541337
+"820",27685283,"Men",18,"Matlab",12,"Stim_NO_Choque_7","New","No collision",1,1.0778846
+"821",15058492,"Men",20,"Matlab",3,"Stim_NO_Choque_5","New","No collision",0,0.8447977
+"822",15058492,"Men",20,"Matlab",4,"Stim_Choque_1","New","Collision",0,0.8379592
+"823",15058492,"Men",20,"Matlab",5,"Stim_NO_Choque_1","New","No collision",0,0.7577607
+"824",15058492,"Men",20,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",0,0.9019503
+"825",15058492,"Men",20,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.2775434
+"826",15058492,"Men",20,"Matlab",8,"Stim_Choque_4","Old","Collision",0,1.0222596
+"827",15058492,"Men",20,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.1864675
+"828",15058492,"Men",20,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.5873548
+"829",15058492,"Men",20,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.005013
+"830",15058492,"Men",20,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.8386238
+"831",76859100,"Women",18,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.473204
+"832",76859100,"Women",18,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.9213165
+"833",76859100,"Women",18,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,0.9733011
+"834",76859100,"Women",18,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,0.9330681
+"835",76859100,"Women",18,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.1226623
+"836",76859100,"Women",18,"Matlab",8,"Stim_Choque_4","Old","Collision",1,0.8850222
+"837",76859100,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0806347
+"838",76859100,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.1220641
+"839",76859100,"Women",18,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.0775004
+"840",76859100,"Women",18,"Matlab",12,"Stim_Choque_2","Old","Collision",0,1.2913908
+"841",60939906,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.9596002
+"842",60939906,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.980039
+"843",60939906,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.3316651
+"844",60939906,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.0284103
+"845",60939906,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.2031046
+"846",60939906,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8269569
+"847",60939906,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2330063
+"848",60939906,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9411368
+"849",60939906,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.9957077
+"850",60939906,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,2.270329
+"851",16651260,"Women",24,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,2.4769606
+"852",16651260,"Women",24,"Matlab",4,"Stim_Choque_1","New","Collision",0,0.9386596
+"853",16651260,"Women",24,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,2.7053336
+"854",16651260,"Women",24,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.0660333
+"855",16651260,"Women",24,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.8351728
+"856",16651260,"Women",24,"Matlab",8,"Stim_Choque_4","Old","Collision",1,0.8207954
+"857",16651260,"Women",24,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8005789
+"858",16651260,"Women",24,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.7831371
+"859",16651260,"Women",24,"Matlab",11,"Stim_Choque_6","Old","Collision",1,0.9519219
+"860",16651260,"Women",24,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.798368
+"861",38758602,"Men",20,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.5278705
+"862",38758602,"Men",20,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.3567684
+"863",38758602,"Men",20,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.8973763
+"864",38758602,"Men",20,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.9311175
+"865",38758602,"Men",20,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.9838442
+"866",38758602,"Men",20,"Matlab",8,"Stim_Choque_4","Old","Collision",1,1.5804078
+"867",38758602,"Men",20,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2726188
+"868",38758602,"Men",20,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9324233
+"869",38758602,"Men",20,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.0699359
+"870",38758602,"Men",20,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.8199808
+"871",41498342,"Women",20,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.8808311
+"872",41498342,"Women",20,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.2391708
+"873",41498342,"Women",20,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.3329845
+"874",41498342,"Women",20,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.471922
+"875",41498342,"Women",20,"Matlab",7,"Stim_Choque_6","Old","Collision",0,1.1650689
+"876",41498342,"Women",20,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,1.4485475
+"877",41498342,"Women",20,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2798116
+"878",41498342,"Women",20,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9098475
+"879",41498342,"Women",20,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.1406514
+"880",41498342,"Women",20,"Matlab",12,"Stim_Choque_1","New","Collision",0,1.2577343
+"881",72048012,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.5935245
+"882",72048012,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.118467
+"883",72048012,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.2362131
+"884",72048012,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.6702859
+"885",72048012,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.4546909
+"886",72048012,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,2.1254892
+"887",72048012,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.283659
+"888",72048012,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8087046
+"889",72048012,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.9586569
+"890",72048012,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.1219806
+"891",65524045,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.8830667
+"892",65524045,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,0.8637002
+"893",65524045,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.050857
+"894",65524045,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9158452
+"895",65524045,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.5784551
+"896",65524045,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.0307246
+"897",65524045,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.7885594
+"898",65524045,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,1.6325263
+"899",65524045,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.9582876
+"900",65524045,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.9423325
+"901",22666702,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.8124181
+"902",22666702,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",0,1.9439168
+"903",22666702,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.1401802
+"904",22666702,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",0,0.9931665
+"905",22666702,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8470535
+"906",22666702,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",0,0.7304788
+"907",22666702,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0390159
+"908",22666702,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.7173086
+"909",22666702,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.0250855
+"910",22666702,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.7902801
+"911",32734259,"Women",18,"Matlab",3,"Stim_NO_Choque_5","New","No collision",0,1.1452371
+"912",32734259,"Women",18,"Matlab",4,"Stim_Choque_1","New","Collision",1,0.95636
+"913",32734259,"Women",18,"Matlab",5,"Stim_NO_Choque_1","New","No collision",0,1.0477522
+"914",32734259,"Women",18,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.3403799
+"915",32734259,"Women",18,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.8433274
+"916",32734259,"Women",18,"Matlab",8,"Stim_Choque_4","Old","Collision",0,2.0175629
+"917",32734259,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.9029271
+"918",32734259,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8240618
+"919",32734259,"Women",18,"Matlab",11,"Stim_Choque_6","Old","Collision",0,2.548057
+"920",32734259,"Women",18,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.8256503
+"921",82335488,"Women",18,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,0.8290881
+"922",82335488,"Women",18,"Matlab",4,"Stim_Choque_1","New","Collision",1,0.9342978
+"923",82335488,"Women",18,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,0.9777708
+"924",82335488,"Women",18,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.1066797
+"925",82335488,"Women",18,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.1786564
+"926",82335488,"Women",18,"Matlab",8,"Stim_Choque_4","Old","Collision",1,1.1835531
+"927",82335488,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8958781
+"928",82335488,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9971883
+"929",82335488,"Women",18,"Matlab",11,"Stim_Choque_6","Old","Collision",0,1.103557
+"930",82335488,"Women",18,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.839261
+"931",23739333,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.1541199
+"932",23739333,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.089339
+"933",23739333,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.1108011
+"934",23739333,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.7685973
+"935",23739333,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.1029594
+"936",23739333,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.3429802
+"937",23739333,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.6525504
+"938",23739333,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8567364
+"939",23739333,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.2255663
+"940",23739333,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,2.7729672
+"941",17241191,"Men",19,"Matlab",3,"Stim_Choque_4","Old","Collision",1,2.5966921
+"942",17241191,"Men",19,"Matlab",4,"Stim_NO_Choque_5","New","No collision",1,1.2249529
+"943",17241191,"Men",19,"Matlab",5,"Stim_Choque_5","New","Collision",1,1.5555052
+"944",17241191,"Men",19,"Matlab",6,"Stim_Choque_6","Old","Collision",1,1.1960538
+"945",17241191,"Men",19,"Matlab",7,"Stim_Choque_7","New","Collision",1,3.4868689
+"946",17241191,"Men",19,"Matlab",8,"Stim_NO_Choque_7","New","No collision",0,1.2232003
+"947",17241191,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0902644
+"948",17241191,"Men",19,"Matlab",10,"Stim_Choque_8","Old","Collision",1,1.0167122
+"949",17241191,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,2.0129441
+"950",17241191,"Men",19,"Matlab",12,"Stim_NO_Choque_8","Old","No collision",1,0.8907188
+"951",44346614,"Men",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.8863717
+"952",44346614,"Men",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.1875453
+"953",44346614,"Men",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9520066
+"954",44346614,"Men",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.9051232
+"955",44346614,"Men",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.858368
+"956",44346614,"Men",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8161718
+"957",44346614,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.2116702
+"958",44346614,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,2.5634494
+"959",44346614,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.79921
+"960",44346614,"Men",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.6514714
+"961",80798496,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.946289
+"962",80798496,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,14.7248446
+"963",80798496,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.9167534
+"964",80798496,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.8099118
+"965",80798496,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.8971419
+"966",80798496,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.8037774
+"967",80798496,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8713911
+"968",80798496,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8069584
+"969",80798496,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.7134242
+"970",80798496,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,0.8234249
+"971",60396414,"Men",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,1.1776925
+"972",60396414,"Men",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.006098
+"973",60396414,"Men",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.1872557
+"974",60396414,"Men",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.1316636
+"975",60396414,"Men",19,"Matlab",7,"Stim_Choque_6","Old","Collision",0,1.6072975
+"976",60396414,"Men",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.2275458
+"977",60396414,"Men",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.7021923
+"978",60396414,"Men",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.9492615
+"979",60396414,"Men",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,1.6273282
+"980",60396414,"Men",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,2.7922734
+"981",38538441,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.3303114
+"982",38538441,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.2539853
+"983",38538441,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",0,1.1373631
+"984",38538441,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",0,2.9777786
+"985",38538441,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,2.2392047
+"986",38538441,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.1313816
+"987",38538441,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0084144
+"988",38538441,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,1.0294425
+"989",38538441,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.7794873
+"990",38538441,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.265839
+"991",73446145,"Women",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.7682193
+"992",73446145,"Women",18,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.2127203
+"993",73446145,"Women",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.7680831
+"994",73446145,"Women",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.3748319
+"995",73446145,"Women",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.0504969
+"996",73446145,"Women",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.9240231
+"997",73446145,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.0185564
+"998",73446145,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,3.399951
+"999",73446145,"Women",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.8959301
+"1000",73446145,"Women",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.0815378
+"1001",87347997,"Men",18,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,0.7424058
+"1002",87347997,"Men",18,"Matlab",4,"Stim_Choque_4","Old","Collision",0,0.8708399
+"1003",87347997,"Men",18,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,0.6759224
+"1004",87347997,"Men",18,"Matlab",6,"Stim_Choque_5","New","Collision",1,0.7615843
+"1005",87347997,"Men",18,"Matlab",7,"Stim_Choque_6","Old","Collision",1,2.090297
+"1006",87347997,"Men",18,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,0.7849531
+"1007",87347997,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.9361519
+"1008",87347997,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.8423134
+"1009",87347997,"Men",18,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,0.8378374
+"1010",87347997,"Men",18,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.5851684
+"1011",36162576,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,6.8909877
+"1012",36162576,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,3.5821796
+"1013",36162576,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.7465137
+"1014",36162576,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.9531215
+"1015",36162576,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,3.1582075
+"1016",36162576,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,19.6465238
+"1017",36162576,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.7753145
+"1018",36162576,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.7805275
+"1019",36162576,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.1486799
+"1020",36162576,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.2058933
+"1021",39462460,"Women",19,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,0.9829662
+"1022",39462460,"Women",19,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.0221404
+"1023",39462460,"Women",19,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,8.3607776
+"1024",39462460,"Women",19,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.6956616
+"1025",39462460,"Women",19,"Matlab",7,"Stim_Choque_6","Old","Collision",1,0.9212363
+"1026",39462460,"Women",19,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,2.5268928
+"1027",39462460,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8757612
+"1028",39462460,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.8635585
+"1029",39462460,"Women",19,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,0.8449993
+"1030",39462460,"Women",19,"Matlab",12,"Stim_Choque_1","New","Collision",0,1.7483704
+"1031",87308455,"Women",18,"Matlab",3,"Stim_NO_Choque_5","New","No collision",0,0.8608123
+"1032",87308455,"Women",18,"Matlab",4,"Stim_Choque_1","New","Collision",1,6.2974741
+"1033",87308455,"Women",18,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,0.8838833
+"1034",87308455,"Women",18,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,0.7892796
+"1035",87308455,"Women",18,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.9742665
+"1036",87308455,"Women",18,"Matlab",8,"Stim_Choque_4","Old","Collision",1,0.7497443
+"1037",87308455,"Women",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.8398913
+"1038",87308455,"Women",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,0.840735
+"1039",87308455,"Women",18,"Matlab",11,"Stim_Choque_6","Old","Collision",1,0.7270709
+"1040",87308455,"Women",18,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.615383
+"1041",20213734,"Women",19,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,5.7983423
+"1042",20213734,"Women",19,"Matlab",4,"Stim_Choque_1","New","Collision",0,1.153547
+"1043",20213734,"Women",19,"Matlab",5,"Stim_NO_Choque_1","New","No collision",0,1.2028841
+"1044",20213734,"Women",19,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,0.9450911
+"1045",20213734,"Women",19,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,0.9506444
+"1046",20213734,"Women",19,"Matlab",8,"Stim_Choque_4","Old","Collision",1,0.9422222
+"1047",20213734,"Women",19,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.6100948
+"1048",20213734,"Women",19,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.0248812
+"1049",20213734,"Women",19,"Matlab",11,"Stim_Choque_6","Old","Collision",1,4.4005149
+"1050",20213734,"Women",19,"Matlab",12,"Stim_Choque_2","Old","Collision",1,2.3651093
+"1051",73488175,"Men",18,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.2959771
+"1052",73488175,"Men",18,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.0967135
+"1053",73488175,"Men",18,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,0.8919142
+"1054",73488175,"Men",18,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,0.9897845
+"1055",73488175,"Men",18,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,2.0897095
+"1056",73488175,"Men",18,"Matlab",8,"Stim_Choque_4","Old","Collision",1,0.746385
+"1057",73488175,"Men",18,"Matlab",9,"Stim_Choque_3","New","Collision",1,0.887691
+"1058",73488175,"Men",18,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.0510556
+"1059",73488175,"Men",18,"Matlab",11,"Stim_Choque_6","Old","Collision",1,0.9637031
+"1060",73488175,"Men",18,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.9686143
+"1061",88976797,"Women",18,"Matlab",3,"Stim_NO_Choque_3","New","No collision",1,1.0037536
+"1062",88976797,"Women",18,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",1,1.0008453
+"1063",88976797,"Women",18,"Matlab",5,"Stim_Choque_7","New","Collision",1,0.9048249
+"1064",88976797,"Women",18,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",1,0.9191855
+"1065",88976797,"Women",18,"Matlab",7,"Stim_NO_Choque_4","Old","No collision",1,0.877156
+"1066",88976797,"Women",18,"Matlab",8,"Stim_Choque_2","Old","Collision",1,0.9205935
+"1067",88976797,"Women",18,"Matlab",9,"Stim_Choque_1","New","Collision",1,0.7682766
+"1068",88976797,"Women",18,"Matlab",10,"Stim_Choque_8","Old","Collision",1,0.9386724
+"1069",88976797,"Women",18,"Matlab",11,"Stim_Choque_4","Old","Collision",1,0.9325501
+"1070",88976797,"Women",18,"Matlab",12,"Stim_NO_Choque_7","New","No collision",1,0.8044771
+"1071",28853157,"Men",23,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,3.1198409
+"1072",28853157,"Men",23,"Matlab",4,"Stim_Choque_4","Old","Collision",1,3.8446666
+"1073",28853157,"Men",23,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,2.4466328
+"1074",28853157,"Men",23,"Matlab",6,"Stim_Choque_5","New","Collision",0,3.4927355
+"1075",28853157,"Men",23,"Matlab",7,"Stim_Choque_6","Old","Collision",1,6.5844963
+"1076",28853157,"Men",23,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.8931393
+"1077",28853157,"Men",23,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.9662367
+"1078",28853157,"Men",23,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,2.1020057
+"1079",28853157,"Men",23,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,2.493578
+"1080",28853157,"Men",23,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.7045251
+"1081",75297453,"Women",26,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.4185338
+"1082",75297453,"Women",26,"Matlab",4,"Stim_Choque_4","Old","Collision",1,4.8907691
+"1083",75297453,"Women",26,"Matlab",5,"Stim_NO_Choque_5","New","No collision",0,1.6257182
+"1084",75297453,"Women",26,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.4378597
+"1085",75297453,"Women",26,"Matlab",7,"Stim_Choque_6","Old","Collision",0,4.0812411
+"1086",75297453,"Women",26,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.2684563
+"1087",75297453,"Women",26,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.3932329
+"1088",75297453,"Women",26,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.3651955
+"1089",75297453,"Women",26,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.1930403
+"1090",75297453,"Women",26,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.2014365
+"1091",26242237,"Men",26,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,9.0114206
+"1092",26242237,"Men",26,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.6597639
+"1093",26242237,"Men",26,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,3.0101008
+"1094",26242237,"Men",26,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.694909
+"1095",26242237,"Men",26,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.3833329
+"1096",26242237,"Men",26,"Matlab",8,"Stim_Choque_4","Old","Collision",1,1.6176125
+"1097",26242237,"Men",26,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.4130159
+"1098",26242237,"Men",26,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.4306259
+"1099",26242237,"Men",26,"Matlab",11,"Stim_Choque_6","Old","Collision",0,2.4323819
+"1100",26242237,"Men",26,"Matlab",12,"Stim_Choque_2","Old","Collision",1,0.9465495
+"1101",98847124,"Women",24,"Matlab",3,"Stim_Choque_2","Old","Collision",0,4.4346211
+"1102",98847124,"Women",24,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",1,3.6689928
+"1103",98847124,"Women",24,"Matlab",5,"Stim_NO_Choque_6","Old","No collision",1,2.4978183
+"1104",98847124,"Women",24,"Matlab",6,"Stim_Choque_1","New","Collision",1,2.256724
+"1105",98847124,"Women",24,"Matlab",7,"Stim_NO_Choque_7","New","No collision",1,5.680891
+"1106",98847124,"Women",24,"Matlab",8,"Stim_NO_Choque_5","New","No collision",0,8.5740868
+"1107",98847124,"Women",24,"Matlab",9,"Stim_Choque_5","New","Collision",1,16.1387298
+"1108",98847124,"Women",24,"Matlab",10,"Stim_Choque_7","New","Collision",1,14.0862373
+"1109",98847124,"Women",24,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.360217
+"1110",98847124,"Women",24,"Matlab",12,"Stim_Choque_8","Old","Collision",1,8.6732219
+"1111",39042166,"Men",26,"Matlab",3,"Stim_Choque_2","Old","Collision",1,1.5251743
+"1112",39042166,"Men",26,"Matlab",4,"Stim_Choque_8","Old","Collision",1,1.5446032
+"1113",39042166,"Men",26,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.5576109
+"1114",39042166,"Men",26,"Matlab",6,"Stim_NO_Choque_2","Old","No collision",1,1.3285556
+"1115",39042166,"Men",26,"Matlab",7,"Stim_Choque_5","New","Collision",1,2.045515
+"1116",39042166,"Men",26,"Matlab",8,"Stim_NO_Choque_6","Old","No collision",1,2.4087716
+"1117",39042166,"Men",26,"Matlab",9,"Stim_Choque_6","Old","Collision",1,1.1906137
+"1118",39042166,"Men",26,"Matlab",10,"Stim_NO_Choque_7","New","No collision",1,1.4941064
+"1119",39042166,"Men",26,"Matlab",11,"Stim_NO_Choque_8","Old","No collision",1,2.6392229
+"1120",39042166,"Men",26,"Matlab",12,"Stim_Choque_1","New","Collision",1,2.0573194
+"1121",13540272,"Women",27,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,28.4273585
+"1122",13540272,"Women",27,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.8724485
+"1123",13540272,"Women",27,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.8436313
+"1124",13540272,"Women",27,"Matlab",6,"Stim_Choque_5","New","Collision",1,2.2622114
+"1125",13540272,"Women",27,"Matlab",7,"Stim_Choque_6","Old","Collision",0,26.0014208
+"1126",13540272,"Women",27,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.2854111
+"1127",13540272,"Women",27,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.3963113
+"1128",13540272,"Women",27,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,2.677962
+"1129",13540272,"Women",27,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,1.4386566
+"1130",13540272,"Women",27,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.4119398
+"1131",87066168,"Men",23,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.502571302
+"1132",87066168,"Men",23,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.491309721
+"1133",87066168,"Men",23,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.479481292
+"1134",87066168,"Men",23,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.458873361
+"1135",87066168,"Men",23,"Matlab",7,"Stim_Choque_6","Old","Collision",1,8.552856609
+"1136",87066168,"Men",23,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.215754789
+"1137",87066168,"Men",23,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.049601276
+"1138",87066168,"Men",23,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.402315823
+"1139",87066168,"Men",23,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.071667642
+"1140",87066168,"Men",23,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.828616352
+"1141",95986922,"Men",26,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",1,1.698434698
+"1142",95986922,"Men",26,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.639515919
+"1143",95986922,"Men",26,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.442713987
+"1144",95986922,"Men",26,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.357377219
+"1145",95986922,"Men",26,"Matlab",7,"Stim_Choque_6","Old","Collision",1,2.122119384
+"1146",95986922,"Men",26,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.472365578
+"1147",95986922,"Men",26,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.210335295
+"1148",95986922,"Men",26,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,4.572612633
+"1149",95986922,"Men",26,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",1,1.374372353
+"1150",95986922,"Men",26,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.377346975
+"1151",62686275,"Men",24,"Matlab",3,"Stim_NO_Choque_5","New","No collision",1,1.474791248
+"1152",62686275,"Men",24,"Matlab",4,"Stim_Choque_1","New","Collision",1,1.545040759
+"1153",62686275,"Men",24,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.285696922
+"1154",62686275,"Men",24,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.682850424
+"1155",62686275,"Men",24,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.384397944
+"1156",62686275,"Men",24,"Matlab",8,"Stim_Choque_4","Old","Collision",1,1.64349079
+"1157",62686275,"Men",24,"Matlab",9,"Stim_Choque_3","New","Collision",1,2.078183381
+"1158",62686275,"Men",24,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,1.842812518
+"1159",62686275,"Men",24,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.529591067
+"1160",62686275,"Men",24,"Matlab",12,"Stim_Choque_2","Old","Collision",1,1.228884194
+"1161",92193826,"Men",22,"Matlab",3,"Stim_Choque_2","Old","Collision",0,2.918292579
+"1162",92193826,"Men",22,"Matlab",4,"Stim_NO_Choque_8","Old","No collision",1,1.486413268
+"1163",92193826,"Men",22,"Matlab",5,"Stim_NO_Choque_6","Old","No collision",1,1.529903252
+"1164",92193826,"Men",22,"Matlab",6,"Stim_Choque_1","New","Collision",1,2.159302252
+"1165",92193826,"Men",22,"Matlab",7,"Stim_NO_Choque_7","New","No collision",1,1.433847739
+"1166",92193826,"Men",22,"Matlab",8,"Stim_NO_Choque_5","New","No collision",0,1.221312252
+"1167",92193826,"Men",22,"Matlab",9,"Stim_Choque_5","New","Collision",0,1.441862931
+"1168",92193826,"Men",22,"Matlab",10,"Stim_Choque_7","New","Collision",1,1.800476454
+"1169",92193826,"Men",22,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.289443889
+"1170",92193826,"Men",22,"Matlab",12,"Stim_Choque_8","Old","Collision",1,1.011996559
+"1171",67552782,"Men",23,"Matlab",3,"Stim_NO_Choque_6","Old","No collision",0,4.890698177
+"1172",67552782,"Men",23,"Matlab",4,"Stim_Choque_4","Old","Collision",1,1.497582804
+"1173",67552782,"Men",23,"Matlab",5,"Stim_NO_Choque_5","New","No collision",1,1.615276981
+"1174",67552782,"Men",23,"Matlab",6,"Stim_Choque_5","New","Collision",1,1.230722932
+"1175",67552782,"Men",23,"Matlab",7,"Stim_Choque_6","Old","Collision",1,1.797698596
+"1176",67552782,"Men",23,"Matlab",8,"Stim_NO_Choque_1","New","No collision",1,1.263692766
+"1177",67552782,"Men",23,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.197583067
+"1178",67552782,"Men",23,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",1,3.189141071
+"1179",67552782,"Men",23,"Matlab",11,"Stim_NO_Choque_4","Old","No collision",0,5.226776235
+"1180",67552782,"Men",23,"Matlab",12,"Stim_Choque_1","New","Collision",1,1.715426491
+"1181",78786797,"Men",26,"Matlab",3,"Stim_NO_Choque_5","New","No collision",0,1.293224042
+"1182",78786797,"Men",26,"Matlab",4,"Stim_Choque_1","New","Collision",0,1.083723878
+"1183",78786797,"Men",26,"Matlab",5,"Stim_NO_Choque_1","New","No collision",1,1.378937911
+"1184",78786797,"Men",26,"Matlab",6,"Stim_NO_Choque_4","Old","No collision",1,1.730095847
+"1185",78786797,"Men",26,"Matlab",7,"Stim_NO_Choque_6","Old","No collision",1,1.230161615
+"1186",78786797,"Men",26,"Matlab",8,"Stim_Choque_4","Old","Collision",1,0.939634019
+"1187",78786797,"Men",26,"Matlab",9,"Stim_Choque_3","New","Collision",1,1.127835507
+"1188",78786797,"Men",26,"Matlab",10,"Stim_NO_Choque_2","Old","No collision",0,1.763822924
+"1189",78786797,"Men",26,"Matlab",11,"Stim_Choque_6","Old","Collision",1,1.282263134
+"1190",78786797,"Men",26,"Matlab",12,"Stim_Choque_2","Old","Collision",1,1.122973394
+"1191",88160933,"Men",18,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"1192",88160933,"Men",18,"R",4,"Stim_Choque_8","Old","Collision",1,NA
+"1193",88160933,"Men",18,"R",5,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1194",88160933,"Men",18,"R",6,"Stim_Choque_7","New","Collision",1,NA
+"1195",88160933,"Men",18,"R",7,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1196",88160933,"Men",18,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"1197",88160933,"Men",18,"R",9,"Stim_Choque_4","Old","Collision",0,NA
+"1198",88160933,"Men",18,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1199",88160933,"Men",18,"R",11,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1200",88160933,"Men",18,"R",12,"Stim_NO_Choque_1","New","No collision",1,NA
+"1201",67213592,"Women",18,"R",3,"Stim_Choque_7","New","Collision",1,NA
+"1202",67213592,"Women",18,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"1203",67213592,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1204",67213592,"Women",18,"R",6,"Stim_Choque_1","New","Collision",1,NA
+"1205",67213592,"Women",18,"R",7,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1206",67213592,"Women",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"1207",67213592,"Women",18,"R",9,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1208",67213592,"Women",18,"R",10,"Stim_Choque_5","New","Collision",1,NA
+"1209",67213592,"Women",18,"R",11,"Stim_NO_Choque_1","New","No collision",1,NA
+"1210",67213592,"Women",18,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1211",42257751,"Men",18,"R",3,"Stim_Choque_3","New","Collision",0,NA
+"1212",42257751,"Men",18,"R",4,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1213",42257751,"Men",18,"R",5,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1214",42257751,"Men",18,"R",6,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1215",42257751,"Men",18,"R",7,"Stim_Choque_2","Old","Collision",1,NA
+"1216",42257751,"Men",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1217",42257751,"Men",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"1218",42257751,"Men",18,"R",10,"Stim_Choque_8","Old","Collision",1,NA
+"1219",42257751,"Men",18,"R",11,"Stim_NO_Choque_1","New","No collision",1,NA
+"1220",42257751,"Men",18,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1221",85236150,"Women",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1222",85236150,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1223",85236150,"Women",18,"R",5,"Stim_Choque_3","New","Collision",1,NA
+"1224",85236150,"Women",18,"R",6,"Stim_Choque_2","Old","Collision",0,NA
+"1225",85236150,"Women",18,"R",7,"Stim_NO_Choque_5","New","No collision",1,NA
+"1226",85236150,"Women",18,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"1227",85236150,"Women",18,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1228",85236150,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1229",85236150,"Women",18,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"1230",85236150,"Women",18,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1231",67509448,"Women",18,"R",3,"Stim_NO_Choque_3","New","No collision",1,NA
+"1232",67509448,"Women",18,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"1233",67509448,"Women",18,"R",5,"Stim_Choque_5","New","Collision",1,NA
+"1234",67509448,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1235",67509448,"Women",18,"R",7,"Stim_Choque_8","Old","Collision",1,NA
+"1236",67509448,"Women",18,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"1237",67509448,"Women",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1238",67509448,"Women",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1239",67509448,"Women",18,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"1240",67509448,"Women",18,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1241",74670290,"Women",21,"R",3,"Stim_NO_Choque_1","New","No collision",1,NA
+"1242",74670290,"Women",21,"R",4,"Stim_Choque_8","Old","Collision",1,NA
+"1243",74670290,"Women",21,"R",5,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1244",74670290,"Women",21,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1245",74670290,"Women",21,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1246",74670290,"Women",21,"R",8,"Stim_Choque_4","Old","Collision",1,NA
+"1247",74670290,"Women",21,"R",9,"Stim_NO_Choque_5","New","No collision",1,NA
+"1248",74670290,"Women",21,"R",10,"Stim_Choque_5","New","Collision",1,NA
+"1249",74670290,"Women",21,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1250",74670290,"Women",21,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1251",25575891,"Women",18,"R",3,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1252",25575891,"Women",18,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"1253",25575891,"Women",18,"R",5,"Stim_Choque_1","New","Collision",1,NA
+"1254",25575891,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",0,NA
+"1255",25575891,"Women",18,"R",7,"Stim_Choque_2","Old","Collision",1,NA
+"1256",25575891,"Women",18,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"1257",25575891,"Women",18,"R",9,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1258",25575891,"Women",18,"R",10,"Stim_Choque_7","New","Collision",1,NA
+"1259",25575891,"Women",18,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"1260",25575891,"Women",18,"R",12,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1261",94378774,"Men",18,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1262",94378774,"Men",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1263",94378774,"Men",18,"R",5,"Stim_NO_Choque_7","New","No collision",1,NA
+"1264",94378774,"Men",18,"R",6,"Stim_Choque_6","Old","Collision",1,NA
+"1265",94378774,"Men",18,"R",7,"Stim_Choque_5","New","Collision",1,NA
+"1266",94378774,"Men",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"1267",94378774,"Men",18,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"1268",94378774,"Men",18,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1269",94378774,"Men",18,"R",11,"Stim_Choque_2","Old","Collision",1,NA
+"1270",94378774,"Men",18,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"1271",49255989,"Men",18,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1272",49255989,"Men",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1273",49255989,"Men",18,"R",5,"Stim_Choque_1","New","Collision",1,NA
+"1274",49255989,"Men",18,"R",6,"Stim_Choque_2","Old","Collision",1,NA
+"1275",49255989,"Men",18,"R",7,"Stim_NO_Choque_3","New","No collision",1,NA
+"1276",49255989,"Men",18,"R",8,"Stim_Choque_7","New","Collision",1,NA
+"1277",49255989,"Men",18,"R",9,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1278",49255989,"Men",18,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1279",49255989,"Men",18,"R",11,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1280",49255989,"Men",18,"R",12,"Stim_NO_Choque_1","New","No collision",1,NA
+"1281",65493132,"Men",18,"R",3,"Stim_Choque_1","New","Collision",1,NA
+"1282",65493132,"Men",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1283",65493132,"Men",18,"R",5,"Stim_Choque_7","New","Collision",1,NA
+"1284",65493132,"Men",18,"R",6,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1285",65493132,"Men",18,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"1286",65493132,"Men",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1287",65493132,"Men",18,"R",9,"Stim_Choque_4","Old","Collision",1,NA
+"1288",65493132,"Men",18,"R",10,"Stim_Choque_5","New","Collision",1,NA
+"1289",65493132,"Men",18,"R",11,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1290",65493132,"Men",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"1291",94812647,"Men",18,"R",3,"Stim_Choque_3","New","Collision",1,NA
+"1292",94812647,"Men",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1293",94812647,"Men",18,"R",5,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1294",94812647,"Men",18,"R",6,"Stim_NO_Choque_5","New","No collision",1,NA
+"1295",94812647,"Men",18,"R",7,"Stim_NO_Choque_3","New","No collision",1,NA
+"1296",94812647,"Men",18,"R",8,"Stim_Choque_1","New","Collision",1,NA
+"1297",94812647,"Men",18,"R",9,"Stim_Choque_4","Old","Collision",1,NA
+"1298",94812647,"Men",18,"R",10,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1299",94812647,"Men",18,"R",11,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1300",94812647,"Men",18,"R",12,"Stim_NO_Choque_7","New","No collision",1,NA
+"1301",85391496,"Men",18,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"1302",85391496,"Men",18,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"1303",85391496,"Men",18,"R",5,"Stim_Choque_2","Old","Collision",1,NA
+"1304",85391496,"Men",18,"R",6,"Stim_Choque_3","New","Collision",1,NA
+"1305",85391496,"Men",18,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1306",85391496,"Men",18,"R",8,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1307",85391496,"Men",18,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1308",85391496,"Men",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1309",85391496,"Men",18,"R",11,"Stim_Choque_1","New","Collision",1,NA
+"1310",85391496,"Men",18,"R",12,"Stim_NO_Choque_5","New","No collision",1,NA
+"1311",46053869,"Women",18,"R",3,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1312",46053869,"Women",18,"R",4,"Stim_Choque_5","New","Collision",1,NA
+"1313",46053869,"Women",18,"R",5,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1314",46053869,"Women",18,"R",6,"Stim_Choque_1","New","Collision",0,NA
+"1315",46053869,"Women",18,"R",7,"Stim_Choque_2","Old","Collision",1,NA
+"1316",46053869,"Women",18,"R",8,"Stim_Choque_6","Old","Collision",1,NA
+"1317",46053869,"Women",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1318",46053869,"Women",18,"R",10,"Stim_NO_Choque_3","New","No collision",1,NA
+"1319",46053869,"Women",18,"R",11,"Stim_NO_Choque_1","New","No collision",0,NA
+"1320",46053869,"Women",18,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1321",98321826,"Women",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1322",98321826,"Women",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1323",98321826,"Women",18,"R",5,"Stim_Choque_5","New","Collision",0,NA
+"1324",98321826,"Women",18,"R",6,"Stim_Choque_3","New","Collision",1,NA
+"1325",98321826,"Women",18,"R",7,"Stim_Choque_1","New","Collision",0,NA
+"1326",98321826,"Women",18,"R",8,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1327",98321826,"Women",18,"R",9,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1328",98321826,"Women",18,"R",10,"Stim_Choque_8","Old","Collision",1,NA
+"1329",98321826,"Women",18,"R",11,"Stim_NO_Choque_1","New","No collision",1,NA
+"1330",98321826,"Women",18,"R",12,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1331",83080574,"Women",18,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"1332",83080574,"Women",18,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"1333",83080574,"Women",18,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"1334",83080574,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1335",83080574,"Women",18,"R",7,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1336",83080574,"Women",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1337",83080574,"Women",18,"R",9,"Stim_NO_Choque_3","New","No collision",1,NA
+"1338",83080574,"Women",18,"R",10,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1339",83080574,"Women",18,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"1340",83080574,"Women",18,"R",12,"Stim_Choque_7","New","Collision",1,NA
+"1341",23167130,"Men",18,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"1342",23167130,"Men",18,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"1343",23167130,"Men",18,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"1344",23167130,"Men",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1345",23167130,"Men",18,"R",7,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1346",23167130,"Men",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1347",23167130,"Men",18,"R",9,"Stim_NO_Choque_3","New","No collision",1,NA
+"1348",23167130,"Men",18,"R",10,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1349",23167130,"Men",18,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"1350",23167130,"Men",18,"R",12,"Stim_Choque_7","New","Collision",0,NA
+"1351",77167005,"Women",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1352",77167005,"Women",18,"R",4,"Stim_Choque_1","New","Collision",1,NA
+"1353",77167005,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1354",77167005,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1355",77167005,"Women",18,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1356",77167005,"Women",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1357",77167005,"Women",18,"R",9,"Stim_Choque_8","Old","Collision",1,NA
+"1358",77167005,"Women",18,"R",10,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1359",77167005,"Women",18,"R",11,"Stim_Choque_3","New","Collision",1,NA
+"1360",77167005,"Women",18,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1361",39209774,"Women",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1362",39209774,"Women",18,"R",4,"Stim_Choque_1","New","Collision",0,NA
+"1363",39209774,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1364",39209774,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1365",39209774,"Women",18,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1366",39209774,"Women",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1367",39209774,"Women",18,"R",9,"Stim_Choque_8","Old","Collision",0,NA
+"1368",39209774,"Women",18,"R",10,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1369",39209774,"Women",18,"R",11,"Stim_Choque_3","New","Collision",1,NA
+"1370",39209774,"Women",18,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1371",72662201,"Women",18,"R",3,"Stim_Choque_8","Old","Collision",0,NA
+"1372",72662201,"Women",18,"R",4,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1373",72662201,"Women",18,"R",5,"Stim_Choque_3","New","Collision",1,NA
+"1374",72662201,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1375",72662201,"Women",18,"R",7,"Stim_Choque_6","Old","Collision",0,NA
+"1376",72662201,"Women",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"1377",72662201,"Women",18,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"1378",72662201,"Women",18,"R",10,"Stim_Choque_5","New","Collision",1,NA
+"1379",72662201,"Women",18,"R",11,"Stim_Choque_4","Old","Collision",0,NA
+"1380",72662201,"Women",18,"R",12,"Stim_Choque_7","New","Collision",1,NA
+"1381",99267448,"Women",18,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"1382",99267448,"Women",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1383",99267448,"Women",18,"R",5,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1384",99267448,"Women",18,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"1385",99267448,"Women",18,"R",7,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1386",99267448,"Women",18,"R",8,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1387",99267448,"Women",18,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"1388",99267448,"Women",18,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1389",99267448,"Women",18,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"1390",99267448,"Women",18,"R",12,"Stim_NO_Choque_7","New","No collision",1,NA
+"1391",99317023,"Women",18,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"1392",99317023,"Women",18,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"1393",99317023,"Women",18,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"1394",99317023,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1395",99317023,"Women",18,"R",7,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1396",99317023,"Women",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1397",99317023,"Women",18,"R",9,"Stim_NO_Choque_3","New","No collision",0,NA
+"1398",99317023,"Women",18,"R",10,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1399",99317023,"Women",18,"R",11,"Stim_Choque_5","New","Collision",0,NA
+"1400",99317023,"Women",18,"R",12,"Stim_Choque_7","New","Collision",1,NA
+"1401",43486339,"Men",18,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"1402",43486339,"Men",18,"R",4,"Stim_NO_Choque_5","New","No collision",0,NA
+"1403",43486339,"Men",18,"R",5,"Stim_Choque_6","Old","Collision",0,NA
+"1404",43486339,"Men",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1405",43486339,"Men",18,"R",7,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1406",43486339,"Men",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1407",43486339,"Men",18,"R",9,"Stim_NO_Choque_3","New","No collision",1,NA
+"1408",43486339,"Men",18,"R",10,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1409",43486339,"Men",18,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"1410",43486339,"Men",18,"R",12,"Stim_Choque_7","New","Collision",0,NA
+"1411",60871603,"Women",18,"R",3,"Stim_Choque_6","Old","Collision",1,NA
+"1412",60871603,"Women",18,"R",4,"Stim_Choque_2","Old","Collision",0,NA
+"1413",60871603,"Women",18,"R",5,"Stim_NO_Choque_1","New","No collision",1,NA
+"1414",60871603,"Women",18,"R",6,"Stim_NO_Choque_3","New","No collision",1,NA
+"1415",60871603,"Women",18,"R",7,"Stim_Choque_7","New","Collision",1,NA
+"1416",60871603,"Women",18,"R",8,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1417",60871603,"Women",18,"R",9,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1418",60871603,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1419",60871603,"Women",18,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"1420",60871603,"Women",18,"R",12,"Stim_Choque_5","New","Collision",1,NA
+"1421",18491847,"Women",18,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"1422",18491847,"Women",18,"R",4,"Stim_Choque_3","New","Collision",1,NA
+"1423",18491847,"Women",18,"R",5,"Stim_Choque_1","New","Collision",1,NA
+"1424",18491847,"Women",18,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"1425",18491847,"Women",18,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1426",18491847,"Women",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1427",18491847,"Women",18,"R",9,"Stim_NO_Choque_3","New","No collision",1,NA
+"1428",18491847,"Women",18,"R",10,"Stim_NO_Choque_7","New","No collision",1,NA
+"1429",18491847,"Women",18,"R",11,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1430",18491847,"Women",18,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1431",77458767,"Women",19,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"1432",77458767,"Women",19,"R",4,"Stim_NO_Choque_3","New","No collision",1,NA
+"1433",77458767,"Women",19,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"1434",77458767,"Women",19,"R",6,"Stim_Choque_6","Old","Collision",1,NA
+"1435",77458767,"Women",19,"R",7,"Stim_Choque_8","Old","Collision",1,NA
+"1436",77458767,"Women",19,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1437",77458767,"Women",19,"R",9,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1438",77458767,"Women",19,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1439",77458767,"Women",19,"R",11,"Stim_Choque_1","New","Collision",1,NA
+"1440",77458767,"Women",19,"R",12,"Stim_Choque_5","New","Collision",1,NA
+"1441",10538313,"Women",18,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1442",10538313,"Women",18,"R",4,"Stim_Choque_6","Old","Collision",0,NA
+"1443",10538313,"Women",18,"R",5,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1444",10538313,"Women",18,"R",6,"Stim_Choque_4","Old","Collision",0,NA
+"1445",10538313,"Women",18,"R",7,"Stim_Choque_5","New","Collision",1,NA
+"1446",10538313,"Women",18,"R",8,"Stim_Choque_7","New","Collision",1,NA
+"1447",10538313,"Women",18,"R",9,"Stim_Choque_2","Old","Collision",1,NA
+"1448",10538313,"Women",18,"R",10,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1449",10538313,"Women",18,"R",11,"Stim_NO_Choque_1","New","No collision",1,NA
+"1450",10538313,"Women",18,"R",12,"Stim_Choque_3","New","Collision",1,NA
+"1451",11308776,"Men",22,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1452",11308776,"Men",22,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"1453",11308776,"Men",22,"R",5,"Stim_NO_Choque_1","New","No collision",1,NA
+"1454",11308776,"Men",22,"R",6,"Stim_Choque_2","Old","Collision",1,NA
+"1455",11308776,"Men",22,"R",7,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1456",11308776,"Men",22,"R",8,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1457",11308776,"Men",22,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"1458",11308776,"Men",22,"R",10,"Stim_NO_Choque_5","New","No collision",1,NA
+"1459",11308776,"Men",22,"R",11,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1460",11308776,"Men",22,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1461",74841411,"Women",18,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"1462",74841411,"Women",18,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"1463",74841411,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1464",74841411,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1465",74841411,"Women",18,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1466",74841411,"Women",18,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"1467",74841411,"Women",18,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1468",74841411,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1469",74841411,"Women",18,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"1470",74841411,"Women",18,"R",12,"Stim_Choque_8","Old","Collision",1,NA
+"1471",37817364,"Men",20,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"1472",37817364,"Men",20,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"1473",37817364,"Men",20,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1474",37817364,"Men",20,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1475",37817364,"Men",20,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1476",37817364,"Men",20,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"1477",37817364,"Men",20,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1478",37817364,"Men",20,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1479",37817364,"Men",20,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"1480",37817364,"Men",20,"R",12,"Stim_Choque_8","Old","Collision",1,NA
+"1481",83847800,"Men",18,"R",3,"Stim_Choque_5","New","Collision",1,NA
+"1482",83847800,"Men",18,"R",4,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1483",83847800,"Men",18,"R",5,"Stim_NO_Choque_1","New","No collision",1,NA
+"1484",83847800,"Men",18,"R",6,"Stim_NO_Choque_5","New","No collision",1,NA
+"1485",83847800,"Men",18,"R",7,"Stim_Choque_8","Old","Collision",1,NA
+"1486",83847800,"Men",18,"R",8,"Stim_Choque_4","Old","Collision",1,NA
+"1487",83847800,"Men",18,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1488",83847800,"Men",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1489",83847800,"Men",18,"R",11,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1490",83847800,"Men",18,"R",12,"Stim_Choque_3","New","Collision",1,NA
+"1491",52981066,"Women",18,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"1492",52981066,"Women",18,"R",4,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1493",52981066,"Women",18,"R",5,"Stim_NO_Choque_5","New","No collision",1,NA
+"1494",52981066,"Women",18,"R",6,"Stim_NO_Choque_3","New","No collision",1,NA
+"1495",52981066,"Women",18,"R",7,"Stim_Choque_3","New","Collision",1,NA
+"1496",52981066,"Women",18,"R",8,"Stim_Choque_4","Old","Collision",0,NA
+"1497",52981066,"Women",18,"R",9,"Stim_NO_Choque_7","New","No collision",1,NA
+"1498",52981066,"Women",18,"R",10,"Stim_Choque_5","New","Collision",1,NA
+"1499",52981066,"Women",18,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"1500",52981066,"Women",18,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1501",53610574,"Women",18,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1502",53610574,"Women",18,"R",4,"Stim_Choque_8","Old","Collision",1,NA
+"1503",53610574,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1504",53610574,"Women",18,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"1505",53610574,"Women",18,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"1506",53610574,"Women",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1507",53610574,"Women",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"1508",53610574,"Women",18,"R",10,"Stim_Choque_4","Old","Collision",1,NA
+"1509",53610574,"Women",18,"R",11,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1510",53610574,"Women",18,"R",12,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1511",92142921,"Men",20,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1512",92142921,"Men",20,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"1513",92142921,"Men",20,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"1514",92142921,"Men",20,"R",6,"Stim_Choque_8","Old","Collision",1,NA
+"1515",92142921,"Men",20,"R",7,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1516",92142921,"Men",20,"R",8,"Stim_NO_Choque_1","New","No collision",1,NA
+"1517",92142921,"Men",20,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1518",92142921,"Men",20,"R",10,"Stim_NO_Choque_3","New","No collision",1,NA
+"1519",92142921,"Men",20,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"1520",92142921,"Men",20,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1521",63187069,"Women",18,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"1522",63187069,"Women",18,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"1523",63187069,"Women",18,"R",5,"Stim_Choque_5","New","Collision",1,NA
+"1524",63187069,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1525",63187069,"Women",18,"R",7,"Stim_Choque_2","Old","Collision",0,NA
+"1526",63187069,"Women",18,"R",8,"Stim_Choque_6","Old","Collision",1,NA
+"1527",63187069,"Women",18,"R",9,"Stim_Choque_4","Old","Collision",1,NA
+"1528",63187069,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1529",63187069,"Women",18,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"1530",63187069,"Women",18,"R",12,"Stim_Choque_3","New","Collision",1,NA
+"1531",72388216,"Women",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1532",72388216,"Women",18,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"1533",72388216,"Women",18,"R",5,"Stim_NO_Choque_1","New","No collision",0,NA
+"1534",72388216,"Women",18,"R",6,"Stim_Choque_2","Old","Collision",1,NA
+"1535",72388216,"Women",18,"R",7,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1536",72388216,"Women",18,"R",8,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1537",72388216,"Women",18,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"1538",72388216,"Women",18,"R",10,"Stim_NO_Choque_5","New","No collision",1,NA
+"1539",72388216,"Women",18,"R",11,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1540",72388216,"Women",18,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1541",33665174,"Men",18,"R",3,"Stim_NO_Choque_3","New","No collision",1,NA
+"1542",33665174,"Men",18,"R",4,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1543",33665174,"Men",18,"R",5,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1544",33665174,"Men",18,"R",6,"Stim_Choque_7","New","Collision",0,NA
+"1545",33665174,"Men",18,"R",7,"Stim_Choque_2","Old","Collision",1,NA
+"1546",33665174,"Men",18,"R",8,"Stim_Choque_8","Old","Collision",1,NA
+"1547",33665174,"Men",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1548",33665174,"Men",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1549",33665174,"Men",18,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"1550",33665174,"Men",18,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1551",68887435,"Women",18,"R",3,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1552",68887435,"Women",18,"R",4,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1553",68887435,"Women",18,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"1554",68887435,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1555",68887435,"Women",18,"R",7,"Stim_Choque_3","New","Collision",1,NA
+"1556",68887435,"Women",18,"R",8,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1557",68887435,"Women",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1558",68887435,"Women",18,"R",10,"Stim_NO_Choque_3","New","No collision",1,NA
+"1559",68887435,"Women",18,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"1560",68887435,"Women",18,"R",12,"Stim_Choque_2","Old","Collision",1,NA
+"1561",19066318,"Men",29,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1562",19066318,"Men",29,"R",4,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1563",19066318,"Men",29,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"1564",19066318,"Men",29,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"1565",19066318,"Men",29,"R",7,"Stim_Choque_6","Old","Collision",1,NA
+"1566",19066318,"Men",29,"R",8,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1567",19066318,"Men",29,"R",9,"Stim_Choque_2","Old","Collision",1,NA
+"1568",19066318,"Men",29,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"1569",19066318,"Men",29,"R",11,"Stim_Choque_1","New","Collision",1,NA
+"1570",19066318,"Men",29,"R",12,"Stim_NO_Choque_5","New","No collision",1,NA
+"1571",25578639,"Women",18,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1572",25578639,"Women",18,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"1573",25578639,"Women",18,"R",5,"Stim_Choque_8","Old","Collision",0,NA
+"1574",25578639,"Women",18,"R",6,"Stim_Choque_1","New","Collision",1,NA
+"1575",25578639,"Women",18,"R",7,"Stim_Choque_4","Old","Collision",0,NA
+"1576",25578639,"Women",18,"R",8,"Stim_Choque_6","Old","Collision",1,NA
+"1577",25578639,"Women",18,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1578",25578639,"Women",18,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"1579",25578639,"Women",18,"R",11,"Stim_Choque_3","New","Collision",1,NA
+"1580",25578639,"Women",18,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1581",42069412,"Women",22,"R",3,"Stim_Choque_3","New","Collision",1,NA
+"1582",42069412,"Women",22,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"1583",42069412,"Women",22,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1584",42069412,"Women",22,"R",6,"Stim_Choque_4","Old","Collision",0,NA
+"1585",42069412,"Women",22,"R",7,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1586",42069412,"Women",22,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1587",42069412,"Women",22,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1588",42069412,"Women",22,"R",10,"Stim_NO_Choque_1","New","No collision",0,NA
+"1589",42069412,"Women",22,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"1590",42069412,"Women",22,"R",12,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1591",33961688,"Women",18,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"1592",33961688,"Women",18,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"1593",33961688,"Women",18,"R",5,"Stim_NO_Choque_7","New","No collision",1,NA
+"1594",33961688,"Women",18,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"1595",33961688,"Women",18,"R",7,"Stim_Choque_2","Old","Collision",1,NA
+"1596",33961688,"Women",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"1597",33961688,"Women",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1598",33961688,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1599",33961688,"Women",18,"R",11,"Stim_Choque_1","New","Collision",1,NA
+"1600",33961688,"Women",18,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1601",19709778,"Women",18,"R",3,"Stim_Choque_5","New","Collision",1,NA
+"1602",19709778,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1603",19709778,"Women",18,"R",5,"Stim_Choque_3","New","Collision",1,NA
+"1604",19709778,"Women",18,"R",6,"Stim_NO_Choque_7","New","No collision",1,NA
+"1605",19709778,"Women",18,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1606",19709778,"Women",18,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"1607",19709778,"Women",18,"R",9,"Stim_Choque_4","Old","Collision",1,NA
+"1608",19709778,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1609",19709778,"Women",18,"R",11,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1610",19709778,"Women",18,"R",12,"Stim_Choque_2","Old","Collision",1,NA
+"1611",43446619,"Women",18,"R",3,"Stim_Choque_5","New","Collision",0,NA
+"1612",43446619,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1613",43446619,"Women",18,"R",5,"Stim_Choque_3","New","Collision",1,NA
+"1614",43446619,"Women",18,"R",6,"Stim_NO_Choque_7","New","No collision",1,NA
+"1615",43446619,"Women",18,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1616",43446619,"Women",18,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"1617",43446619,"Women",18,"R",9,"Stim_Choque_4","Old","Collision",1,NA
+"1618",43446619,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1619",43446619,"Women",18,"R",11,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1620",43446619,"Women",18,"R",12,"Stim_Choque_2","Old","Collision",0,NA
+"1621",75309328,"Women",18,"R",3,"Stim_Choque_1","New","Collision",1,NA
+"1622",75309328,"Women",18,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"1623",75309328,"Women",18,"R",5,"Stim_Choque_7","New","Collision",1,NA
+"1624",75309328,"Women",18,"R",6,"Stim_Choque_4","Old","Collision",1,NA
+"1625",75309328,"Women",18,"R",7,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1626",75309328,"Women",18,"R",8,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1627",75309328,"Women",18,"R",9,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1628",75309328,"Women",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1629",75309328,"Women",18,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"1630",75309328,"Women",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"1631",56894373,"Men",18,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"1632",56894373,"Men",18,"R",4,"Stim_Choque_8","Old","Collision",1,NA
+"1633",56894373,"Men",18,"R",5,"Stim_Choque_3","New","Collision",1,NA
+"1634",56894373,"Men",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1635",56894373,"Men",18,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1636",56894373,"Men",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1637",56894373,"Men",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1638",56894373,"Men",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1639",56894373,"Men",18,"R",11,"Stim_Choque_1","New","Collision",1,NA
+"1640",56894373,"Men",18,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1641",61984793,"Men",18,"R",3,"Stim_Choque_7","New","Collision",1,NA
+"1642",61984793,"Men",18,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"1643",61984793,"Men",18,"R",5,"Stim_NO_Choque_1","New","No collision",1,NA
+"1644",61984793,"Men",18,"R",6,"Stim_NO_Choque_5","New","No collision",1,NA
+"1645",61984793,"Men",18,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1646",61984793,"Men",18,"R",8,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1647",61984793,"Men",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1648",61984793,"Men",18,"R",10,"Stim_Choque_8","Old","Collision",1,NA
+"1649",61984793,"Men",18,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"1650",61984793,"Men",18,"R",12,"Stim_Choque_2","Old","Collision",1,NA
+"1651",50045779,"Women",18,"R",3,"Stim_Choque_3","New","Collision",1,NA
+"1652",50045779,"Women",18,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"1653",50045779,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1654",50045779,"Women",18,"R",6,"Stim_Choque_4","Old","Collision",1,NA
+"1655",50045779,"Women",18,"R",7,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1656",50045779,"Women",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1657",50045779,"Women",18,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1658",50045779,"Women",18,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"1659",50045779,"Women",18,"R",11,"Stim_Choque_5","New","Collision",0,NA
+"1660",50045779,"Women",18,"R",12,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1661",55353432,"Women",33,"R",3,"Stim_Choque_5","New","Collision",1,NA
+"1662",55353432,"Women",33,"R",4,"Stim_Choque_2","Old","Collision",1,NA
+"1663",55353432,"Women",33,"R",5,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1664",55353432,"Women",33,"R",6,"Stim_Choque_4","Old","Collision",1,NA
+"1665",55353432,"Women",33,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1666",55353432,"Women",33,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"1667",55353432,"Women",33,"R",9,"Stim_NO_Choque_5","New","No collision",1,NA
+"1668",55353432,"Women",33,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1669",55353432,"Women",33,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"1670",55353432,"Women",33,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1671",86722977,"Women",18,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"1672",86722977,"Women",18,"R",4,"Stim_NO_Choque_3","New","No collision",1,NA
+"1673",86722977,"Women",18,"R",5,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1674",86722977,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1675",86722977,"Women",18,"R",7,"Stim_Choque_1","New","Collision",1,NA
+"1676",86722977,"Women",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1677",86722977,"Women",18,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"1678",86722977,"Women",18,"R",10,"Stim_Choque_4","Old","Collision",0,NA
+"1679",86722977,"Women",18,"R",11,"Stim_Choque_3","New","Collision",1,NA
+"1680",86722977,"Women",18,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1681",32612464,"Men",20,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"1682",32612464,"Men",20,"R",4,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1683",32612464,"Men",20,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"1684",32612464,"Men",20,"R",6,"Stim_NO_Choque_5","New","No collision",1,NA
+"1685",32612464,"Men",20,"R",7,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1686",32612464,"Men",20,"R",8,"Stim_Choque_3","New","Collision",0,NA
+"1687",32612464,"Men",20,"R",9,"Stim_Choque_2","Old","Collision",1,NA
+"1688",32612464,"Men",20,"R",10,"Stim_Choque_7","New","Collision",1,NA
+"1689",32612464,"Men",20,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1690",32612464,"Men",20,"R",12,"Stim_NO_Choque_1","New","No collision",1,NA
+"1691",50151594,"Men",18,"R",3,"Stim_Choque_8","Old","Collision",0,NA
+"1692",50151594,"Men",18,"R",4,"Stim_NO_Choque_3","New","No collision",1,NA
+"1693",50151594,"Men",18,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"1694",50151594,"Men",18,"R",6,"Stim_NO_Choque_5","New","No collision",0,NA
+"1695",50151594,"Men",18,"R",7,"Stim_Choque_1","New","Collision",0,NA
+"1696",50151594,"Men",18,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"1697",50151594,"Men",18,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1698",50151594,"Men",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1699",50151594,"Men",18,"R",11,"Stim_NO_Choque_1","New","No collision",1,NA
+"1700",50151594,"Men",18,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1701",30192894,"Women",18,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"1702",30192894,"Women",18,"R",4,"Stim_Choque_5","New","Collision",1,NA
+"1703",30192894,"Women",18,"R",5,"Stim_Choque_7","New","Collision",1,NA
+"1704",30192894,"Women",18,"R",6,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1705",30192894,"Women",18,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1706",30192894,"Women",18,"R",8,"Stim_Choque_4","Old","Collision",1,NA
+"1707",30192894,"Women",18,"R",9,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1708",30192894,"Women",18,"R",10,"Stim_Choque_8","Old","Collision",1,NA
+"1709",30192894,"Women",18,"R",11,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1710",30192894,"Women",18,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"1711",53886856,"Women",21,"R",3,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1712",53886856,"Women",21,"R",4,"Stim_NO_Choque_1","New","No collision",0,NA
+"1713",53886856,"Women",21,"R",5,"Stim_Choque_1","New","Collision",1,NA
+"1714",53886856,"Women",21,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1715",53886856,"Women",21,"R",7,"Stim_Choque_7","New","Collision",1,NA
+"1716",53886856,"Women",21,"R",8,"Stim_Choque_8","Old","Collision",1,NA
+"1717",53886856,"Women",21,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1718",53886856,"Women",21,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1719",53886856,"Women",21,"R",11,"Stim_NO_Choque_7","New","No collision",1,NA
+"1720",53886856,"Women",21,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"1721",50691892,"Women",20,"R",3,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1722",50691892,"Women",20,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"1723",50691892,"Women",20,"R",5,"Stim_Choque_1","New","Collision",0,NA
+"1724",50691892,"Women",20,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1725",50691892,"Women",20,"R",7,"Stim_Choque_7","New","Collision",1,NA
+"1726",50691892,"Women",20,"R",8,"Stim_Choque_8","Old","Collision",1,NA
+"1727",50691892,"Women",20,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1728",50691892,"Women",20,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1729",50691892,"Women",20,"R",11,"Stim_NO_Choque_7","New","No collision",1,NA
+"1730",50691892,"Women",20,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"1731",98554876,"Women",18,"R",3,"Stim_NO_Choque_3","New","No collision",1,NA
+"1732",98554876,"Women",18,"R",4,"Stim_Choque_5","New","Collision",1,NA
+"1733",98554876,"Women",18,"R",5,"Stim_Choque_2","Old","Collision",1,NA
+"1734",98554876,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1735",98554876,"Women",18,"R",7,"Stim_Choque_1","New","Collision",1,NA
+"1736",98554876,"Women",18,"R",8,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1737",98554876,"Women",18,"R",9,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1738",98554876,"Women",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1739",98554876,"Women",18,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"1740",98554876,"Women",18,"R",12,"Stim_Choque_3","New","Collision",1,NA
+"1741",88400141,"Women",18,"R",3,"Stim_Choque_1","New","Collision",1,NA
+"1742",88400141,"Women",18,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"1743",88400141,"Women",18,"R",5,"Stim_NO_Choque_5","New","No collision",0,NA
+"1744",88400141,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1745",88400141,"Women",18,"R",7,"Stim_Choque_8","Old","Collision",1,NA
+"1746",88400141,"Women",18,"R",8,"Stim_NO_Choque_1","New","No collision",1,NA
+"1747",88400141,"Women",18,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1748",88400141,"Women",18,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1749",88400141,"Women",18,"R",11,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1750",88400141,"Women",18,"R",12,"Stim_Choque_2","Old","Collision",1,NA
+"1751",63851020,"Women",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1752",63851020,"Women",18,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"1753",63851020,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1754",63851020,"Women",18,"R",6,"Stim_Choque_3","New","Collision",0,NA
+"1755",63851020,"Women",18,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1756",63851020,"Women",18,"R",8,"Stim_Choque_8","Old","Collision",1,NA
+"1757",63851020,"Women",18,"R",9,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1758",63851020,"Women",18,"R",10,"Stim_Choque_7","New","Collision",1,NA
+"1759",63851020,"Women",18,"R",11,"Stim_Choque_6","Old","Collision",1,NA
+"1760",63851020,"Women",18,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1761",15654606,"Women",18,"R",3,"Stim_Choque_1","New","Collision",1,NA
+"1762",15654606,"Women",18,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"1763",15654606,"Women",18,"R",5,"Stim_Choque_5","New","Collision",1,NA
+"1764",15654606,"Women",18,"R",6,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1765",15654606,"Women",18,"R",7,"Stim_NO_Choque_5","New","No collision",0,NA
+"1766",15654606,"Women",18,"R",8,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1767",15654606,"Women",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1768",15654606,"Women",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1769",15654606,"Women",18,"R",11,"Stim_Choque_8","Old","Collision",0,NA
+"1770",15654606,"Women",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"1771",74800840,"Men",18,"R",3,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1772",74800840,"Men",18,"R",4,"Stim_NO_Choque_5","New","No collision",0,NA
+"1773",74800840,"Men",18,"R",5,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1774",74800840,"Men",18,"R",6,"Stim_Choque_4","Old","Collision",0,NA
+"1775",74800840,"Men",18,"R",7,"Stim_NO_Choque_1","New","No collision",0,NA
+"1776",74800840,"Men",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1777",74800840,"Men",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"1778",74800840,"Men",18,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1779",74800840,"Men",18,"R",11,"Stim_Choque_5","New","Collision",0,NA
+"1780",74800840,"Men",18,"R",12,"Stim_Choque_2","Old","Collision",0,NA
+"1781",27213393,"Women",18,"R",3,"Stim_NO_Choque_5","New","No collision",0,NA
+"1782",27213393,"Women",18,"R",4,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1783",27213393,"Women",18,"R",5,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1784",27213393,"Women",18,"R",6,"Stim_Choque_4","Old","Collision",1,NA
+"1785",27213393,"Women",18,"R",7,"Stim_Choque_2","Old","Collision",1,NA
+"1786",27213393,"Women",18,"R",8,"Stim_Choque_7","New","Collision",1,NA
+"1787",27213393,"Women",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1788",27213393,"Women",18,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"1789",27213393,"Women",18,"R",11,"Stim_NO_Choque_7","New","No collision",1,NA
+"1790",27213393,"Women",18,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"1791",70932310,"Women",18,"R",3,"Stim_NO_Choque_3","New","No collision",1,NA
+"1792",70932310,"Women",18,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"1793",70932310,"Women",18,"R",5,"Stim_Choque_7","New","Collision",1,NA
+"1794",70932310,"Women",18,"R",6,"Stim_Choque_3","New","Collision",1,NA
+"1795",70932310,"Women",18,"R",7,"Stim_Choque_4","Old","Collision",1,NA
+"1796",70932310,"Women",18,"R",8,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1797",70932310,"Women",18,"R",9,"Stim_Choque_6","Old","Collision",1,NA
+"1798",70932310,"Women",18,"R",10,"Stim_NO_Choque_5","New","No collision",1,NA
+"1799",70932310,"Women",18,"R",11,"Stim_Choque_1","New","Collision",1,NA
+"1800",70932310,"Women",18,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1801",22625932,"Men",18,"R",3,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1802",22625932,"Men",18,"R",4,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1803",22625932,"Men",18,"R",5,"Stim_Choque_8","Old","Collision",0,NA
+"1804",22625932,"Men",18,"R",6,"Stim_Choque_3","New","Collision",1,NA
+"1805",22625932,"Men",18,"R",7,"Stim_NO_Choque_3","New","No collision",1,NA
+"1806",22625932,"Men",18,"R",8,"Stim_NO_Choque_5","New","No collision",0,NA
+"1807",22625932,"Men",18,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"1808",22625932,"Men",18,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"1809",22625932,"Men",18,"R",11,"Stim_Choque_1","New","Collision",0,NA
+"1810",22625932,"Men",18,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1811",16056918,"Women",18,"R",3,"Stim_NO_Choque_1","New","No collision",1,NA
+"1812",16056918,"Women",18,"R",4,"Stim_Choque_3","New","Collision",1,NA
+"1813",16056918,"Women",18,"R",5,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1814",16056918,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1815",16056918,"Women",18,"R",7,"Stim_Choque_4","Old","Collision",0,NA
+"1816",16056918,"Women",18,"R",8,"Stim_Choque_2","Old","Collision",1,NA
+"1817",16056918,"Women",18,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1818",16056918,"Women",18,"R",10,"Stim_Choque_1","New","Collision",1,NA
+"1819",16056918,"Women",18,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1820",16056918,"Women",18,"R",12,"Stim_Choque_8","Old","Collision",1,NA
+"1821",82523620,"Women",18,"R",3,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1822",82523620,"Women",18,"R",4,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1823",82523620,"Women",18,"R",5,"Stim_Choque_8","Old","Collision",1,NA
+"1824",82523620,"Women",18,"R",6,"Stim_Choque_3","New","Collision",1,NA
+"1825",82523620,"Women",18,"R",7,"Stim_NO_Choque_3","New","No collision",1,NA
+"1826",82523620,"Women",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"1827",82523620,"Women",18,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"1828",82523620,"Women",18,"R",10,"Stim_NO_Choque_1","New","No collision",0,NA
+"1829",82523620,"Women",18,"R",11,"Stim_Choque_1","New","Collision",0,NA
+"1830",82523620,"Women",18,"R",12,"Stim_Choque_6","Old","Collision",1,NA
+"1831",32527673,"Women",18,"R",3,"Stim_Choque_1","New","Collision",1,NA
+"1832",32527673,"Women",18,"R",4,"Stim_NO_Choque_3","New","No collision",1,NA
+"1833",32527673,"Women",18,"R",5,"Stim_NO_Choque_1","New","No collision",1,NA
+"1834",32527673,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1835",32527673,"Women",18,"R",7,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1836",32527673,"Women",18,"R",8,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1837",32527673,"Women",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1838",32527673,"Women",18,"R",10,"Stim_Choque_5","New","Collision",1,NA
+"1839",32527673,"Women",18,"R",11,"Stim_Choque_6","Old","Collision",1,NA
+"1840",32527673,"Women",18,"R",12,"Stim_Choque_8","Old","Collision",0,NA
+"1841",86250417,"Women",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"1842",86250417,"Women",18,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"1843",86250417,"Women",18,"R",5,"Stim_Choque_5","New","Collision",1,NA
+"1844",86250417,"Women",18,"R",6,"Stim_Choque_7","New","Collision",1,NA
+"1845",86250417,"Women",18,"R",7,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1846",86250417,"Women",18,"R",8,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1847",86250417,"Women",18,"R",9,"Stim_Choque_2","Old","Collision",1,NA
+"1848",86250417,"Women",18,"R",10,"Stim_Choque_8","Old","Collision",0,NA
+"1849",86250417,"Women",18,"R",11,"Stim_Choque_1","New","Collision",1,NA
+"1850",86250417,"Women",18,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1851",47163428,"Women",18,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"1852",47163428,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",0,NA
+"1853",47163428,"Women",18,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"1854",47163428,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1855",47163428,"Women",18,"R",7,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1856",47163428,"Women",18,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"1857",47163428,"Women",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"1858",47163428,"Women",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"1859",47163428,"Women",18,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"1860",47163428,"Women",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"1861",10935531,"Women",18,"R",3,"Stim_Choque_7","New","Collision",1,NA
+"1862",10935531,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1863",10935531,"Women",18,"R",5,"Stim_Choque_8","Old","Collision",1,NA
+"1864",10935531,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1865",10935531,"Women",18,"R",7,"Stim_Choque_6","Old","Collision",0,NA
+"1866",10935531,"Women",18,"R",8,"Stim_Choque_4","Old","Collision",0,NA
+"1867",10935531,"Women",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1868",10935531,"Women",18,"R",10,"Stim_NO_Choque_5","New","No collision",0,NA
+"1869",10935531,"Women",18,"R",11,"Stim_NO_Choque_3","New","No collision",0,NA
+"1870",10935531,"Women",18,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"1871",62094708,"Men",18,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"1872",62094708,"Men",18,"R",4,"Stim_Choque_2","Old","Collision",1,NA
+"1873",62094708,"Men",18,"R",5,"Stim_Choque_1","New","Collision",1,NA
+"1874",62094708,"Men",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1875",62094708,"Men",18,"R",7,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1876",62094708,"Men",18,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"1877",62094708,"Men",18,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"1878",62094708,"Men",18,"R",10,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1879",62094708,"Men",18,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"1880",62094708,"Men",18,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"1881",15609680,"Women",18,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"1882",15609680,"Women",18,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"1883",15609680,"Women",18,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"1884",15609680,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1885",15609680,"Women",18,"R",7,"Stim_Choque_1","New","Collision",1,NA
+"1886",15609680,"Women",18,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"1887",15609680,"Women",18,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1888",15609680,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1889",15609680,"Women",18,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"1890",15609680,"Women",18,"R",12,"Stim_NO_Choque_5","New","No collision",1,NA
+"1891",78091732,"Men",18,"R",3,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1892",78091732,"Men",18,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"1893",78091732,"Men",18,"R",5,"Stim_NO_Choque_3","New","No collision",1,NA
+"1894",78091732,"Men",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1895",78091732,"Men",18,"R",7,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1896",78091732,"Men",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1897",78091732,"Men",18,"R",9,"Stim_Choque_5","New","Collision",0,NA
+"1898",78091732,"Men",18,"R",10,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1899",78091732,"Men",18,"R",11,"Stim_Choque_6","Old","Collision",1,NA
+"1900",78091732,"Men",18,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"1901",47435913,"Women",18,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"1902",47435913,"Women",18,"R",4,"Stim_Choque_2","Old","Collision",1,NA
+"1903",47435913,"Women",18,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"1904",47435913,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1905",47435913,"Women",18,"R",7,"Stim_Choque_8","Old","Collision",1,NA
+"1906",47435913,"Women",18,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"1907",47435913,"Women",18,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1908",47435913,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1909",47435913,"Women",18,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1910",47435913,"Women",18,"R",12,"Stim_NO_Choque_7","New","No collision",1,NA
+"1911",30396712,"Women",18,"R",3,"Stim_Choque_7","New","Collision",1,NA
+"1912",30396712,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1913",30396712,"Women",18,"R",5,"Stim_Choque_8","Old","Collision",1,NA
+"1914",30396712,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1915",30396712,"Women",18,"R",7,"Stim_Choque_6","Old","Collision",1,NA
+"1916",30396712,"Women",18,"R",8,"Stim_Choque_4","Old","Collision",1,NA
+"1917",30396712,"Women",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1918",30396712,"Women",18,"R",10,"Stim_NO_Choque_5","New","No collision",1,NA
+"1919",30396712,"Women",18,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1920",30396712,"Women",18,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"1921",95104092,"Women",18,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"1922",95104092,"Women",18,"R",4,"Stim_Choque_2","Old","Collision",0,NA
+"1923",95104092,"Women",18,"R",5,"Stim_Choque_1","New","Collision",1,NA
+"1924",95104092,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"1925",95104092,"Women",18,"R",7,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1926",95104092,"Women",18,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"1927",95104092,"Women",18,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"1928",95104092,"Women",18,"R",10,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1929",95104092,"Women",18,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"1930",95104092,"Women",18,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"1931",44845598,"Women",18,"R",3,"Stim_NO_Choque_5","New","No collision",0,NA
+"1932",44845598,"Women",18,"R",4,"Stim_Choque_7","New","Collision",0,NA
+"1933",44845598,"Women",18,"R",5,"Stim_Choque_3","New","Collision",1,NA
+"1934",44845598,"Women",18,"R",6,"Stim_Choque_4","Old","Collision",1,NA
+"1935",44845598,"Women",18,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"1936",44845598,"Women",18,"R",8,"Stim_Choque_8","Old","Collision",1,NA
+"1937",44845598,"Women",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"1938",44845598,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1939",44845598,"Women",18,"R",11,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1940",44845598,"Women",18,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1941",72312337,"Women",18,"R",3,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1942",72312337,"Women",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1943",72312337,"Women",18,"R",5,"Stim_Choque_2","Old","Collision",1,NA
+"1944",72312337,"Women",18,"R",6,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1945",72312337,"Women",18,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1946",72312337,"Women",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"1947",72312337,"Women",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1948",72312337,"Women",18,"R",10,"Stim_Choque_7","New","Collision",1,NA
+"1949",72312337,"Women",18,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1950",72312337,"Women",18,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1951",95951973,"Men",18,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"1952",95951973,"Men",18,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"1953",95951973,"Men",18,"R",5,"Stim_Choque_2","Old","Collision",1,NA
+"1954",95951973,"Men",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1955",95951973,"Men",18,"R",7,"Stim_Choque_7","New","Collision",1,NA
+"1956",95951973,"Men",18,"R",8,"Stim_NO_Choque_1","New","No collision",1,NA
+"1957",95951973,"Men",18,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1958",95951973,"Men",18,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"1959",95951973,"Men",18,"R",11,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1960",95951973,"Men",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"1961",33550235,"Men",18,"R",3,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1962",33550235,"Men",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1963",33550235,"Men",18,"R",5,"Stim_Choque_2","Old","Collision",0,NA
+"1964",33550235,"Men",18,"R",6,"Stim_NO_Choque_8","Old","No collision",0,NA
+"1965",33550235,"Men",18,"R",7,"Stim_NO_Choque_1","New","No collision",1,NA
+"1966",33550235,"Men",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"1967",33550235,"Men",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1968",33550235,"Men",18,"R",10,"Stim_Choque_7","New","Collision",1,NA
+"1969",33550235,"Men",18,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1970",33550235,"Men",18,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1971",20117195,"Women",18,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"1972",20117195,"Women",18,"R",4,"Stim_Choque_2","Old","Collision",1,NA
+"1973",20117195,"Women",18,"R",5,"Stim_Choque_4","Old","Collision",0,NA
+"1974",20117195,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",1,NA
+"1975",20117195,"Women",18,"R",7,"Stim_Choque_8","Old","Collision",1,NA
+"1976",20117195,"Women",18,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"1977",20117195,"Women",18,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1978",20117195,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1979",20117195,"Women",18,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1980",20117195,"Women",18,"R",12,"Stim_NO_Choque_7","New","No collision",1,NA
+"1981",72748271,"Women",18,"R",3,"Stim_Choque_4","Old","Collision",0,NA
+"1982",72748271,"Women",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"1983",72748271,"Women",18,"R",5,"Stim_Choque_5","New","Collision",1,NA
+"1984",72748271,"Women",18,"R",6,"Stim_NO_Choque_2","Old","No collision",0,NA
+"1985",72748271,"Women",18,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"1986",72748271,"Women",18,"R",8,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1987",72748271,"Women",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"1988",72748271,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",0,NA
+"1989",72748271,"Women",18,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"1990",72748271,"Women",18,"R",12,"Stim_Choque_7","New","Collision",1,NA
+"1991",73704153,"Women",18,"R",3,"Stim_NO_Choque_4","Old","No collision",1,NA
+"1992",73704153,"Women",18,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"1993",73704153,"Women",18,"R",5,"Stim_NO_Choque_3","New","No collision",0,NA
+"1994",73704153,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",0,NA
+"1995",73704153,"Women",18,"R",7,"Stim_NO_Choque_8","Old","No collision",1,NA
+"1996",73704153,"Women",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"1997",73704153,"Women",18,"R",9,"Stim_Choque_5","New","Collision",0,NA
+"1998",73704153,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"1999",73704153,"Women",18,"R",11,"Stim_Choque_6","Old","Collision",1,NA
+"2000",73704153,"Women",18,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"2001",64512416,"Men",18,"R",3,"Stim_Choque_1","New","Collision",1,NA
+"2002",64512416,"Men",18,"R",4,"Stim_Choque_5","New","Collision",1,NA
+"2003",64512416,"Men",18,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"2004",64512416,"Men",18,"R",6,"Stim_NO_Choque_3","New","No collision",1,NA
+"2005",64512416,"Men",18,"R",7,"Stim_Choque_2","Old","Collision",1,NA
+"2006",64512416,"Men",18,"R",8,"Stim_NO_Choque_5","New","No collision",0,NA
+"2007",64512416,"Men",18,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"2008",64512416,"Men",18,"R",10,"Stim_Choque_4","Old","Collision",0,NA
+"2009",64512416,"Men",18,"R",11,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2010",64512416,"Men",18,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2011",61605527,"Women",18,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"2012",61605527,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2013",61605527,"Women",18,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"2014",61605527,"Women",18,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"2015",61605527,"Women",18,"R",7,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2016",61605527,"Women",18,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"2017",61605527,"Women",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"2018",61605527,"Women",18,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"2019",61605527,"Women",18,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"2020",61605527,"Women",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"2021",22051040,"Women",18,"R",3,"Stim_NO_Choque_3","New","No collision",1,NA
+"2022",22051040,"Women",18,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"2023",22051040,"Women",18,"R",5,"Stim_NO_Choque_5","New","No collision",1,NA
+"2024",22051040,"Women",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2025",22051040,"Women",18,"R",7,"Stim_Choque_1","New","Collision",1,NA
+"2026",22051040,"Women",18,"R",8,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2027",22051040,"Women",18,"R",9,"Stim_Choque_8","Old","Collision",1,NA
+"2028",22051040,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2029",22051040,"Women",18,"R",11,"Stim_Choque_2","Old","Collision",0,NA
+"2030",22051040,"Women",18,"R",12,"Stim_Choque_7","New","Collision",1,NA
+"2031",14927929,"Women",18,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2032",14927929,"Women",18,"R",4,"Stim_NO_Choque_5","New","No collision",0,NA
+"2033",14927929,"Women",18,"R",5,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2034",14927929,"Women",18,"R",6,"Stim_Choque_6","Old","Collision",0,NA
+"2035",14927929,"Women",18,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"2036",14927929,"Women",18,"R",8,"Stim_Choque_7","New","Collision",1,NA
+"2037",14927929,"Women",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"2038",14927929,"Women",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2039",14927929,"Women",18,"R",11,"Stim_Choque_2","Old","Collision",0,NA
+"2040",14927929,"Women",18,"R",12,"Stim_Choque_5","New","Collision",1,NA
+"2041",39505920,"Men",18,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"2042",39505920,"Men",18,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"2043",39505920,"Men",18,"R",5,"Stim_Choque_5","New","Collision",1,NA
+"2044",39505920,"Men",18,"R",6,"Stim_Choque_6","Old","Collision",1,NA
+"2045",39505920,"Men",18,"R",7,"Stim_Choque_4","Old","Collision",1,NA
+"2046",39505920,"Men",18,"R",8,"Stim_Choque_1","New","Collision",1,NA
+"2047",39505920,"Men",18,"R",9,"Stim_NO_Choque_7","New","No collision",1,NA
+"2048",39505920,"Men",18,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2049",39505920,"Men",18,"R",11,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2050",39505920,"Men",18,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2051",94563819,"Women",18,"R",3,"Stim_Choque_6","Old","Collision",1,NA
+"2052",94563819,"Women",18,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"2053",94563819,"Women",18,"R",5,"Stim_NO_Choque_4","Old","No collision",0,NA
+"2054",94563819,"Women",18,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"2055",94563819,"Women",18,"R",7,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2056",94563819,"Women",18,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"2057",94563819,"Women",18,"R",9,"Stim_Choque_3","New","Collision",1,NA
+"2058",94563819,"Women",18,"R",10,"Stim_Choque_8","Old","Collision",1,NA
+"2059",94563819,"Women",18,"R",11,"Stim_NO_Choque_1","New","No collision",1,NA
+"2060",94563819,"Women",18,"R",12,"Stim_NO_Choque_7","New","No collision",1,NA
+"2061",69452618,"Women",18,"R",3,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2062",69452618,"Women",18,"R",4,"Stim_Choque_2","Old","Collision",1,NA
+"2063",69452618,"Women",18,"R",5,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2064",69452618,"Women",18,"R",6,"Stim_Choque_1","New","Collision",1,NA
+"2065",69452618,"Women",18,"R",7,"Stim_NO_Choque_3","New","No collision",1,NA
+"2066",69452618,"Women",18,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"2067",69452618,"Women",18,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"2068",69452618,"Women",18,"R",10,"Stim_Choque_7","New","Collision",1,NA
+"2069",69452618,"Women",18,"R",11,"Stim_Choque_6","Old","Collision",1,NA
+"2070",69452618,"Women",18,"R",12,"Stim_Choque_4","Old","Collision",1,NA
+"2071",50792640,"Women",18,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"2072",50792640,"Women",18,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2073",50792640,"Women",18,"R",5,"Stim_Choque_8","Old","Collision",0,NA
+"2074",50792640,"Women",18,"R",6,"Stim_NO_Choque_7","New","No collision",1,NA
+"2075",50792640,"Women",18,"R",7,"Stim_NO_Choque_6","Old","No collision",0,NA
+"2076",50792640,"Women",18,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"2077",50792640,"Women",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"2078",50792640,"Women",18,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"2079",50792640,"Women",18,"R",11,"Stim_NO_Choque_5","New","No collision",1,NA
+"2080",50792640,"Women",18,"R",12,"Stim_NO_Choque_2","Old","No collision",0,NA
+"2081",53401738,"Women",18,"R",3,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2082",53401738,"Women",18,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"2083",53401738,"Women",18,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"2084",53401738,"Women",18,"R",6,"Stim_Choque_4","Old","Collision",1,NA
+"2085",53401738,"Women",18,"R",7,"Stim_Choque_5","New","Collision",1,NA
+"2086",53401738,"Women",18,"R",8,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2087",53401738,"Women",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"2088",53401738,"Women",18,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2089",53401738,"Women",18,"R",11,"Stim_Choque_2","Old","Collision",1,NA
+"2090",53401738,"Women",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"2091",61809609,"Men",22,"R",3,"Stim_Choque_3","New","Collision",1,NA
+"2092",61809609,"Men",22,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"2093",61809609,"Men",22,"R",5,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2094",61809609,"Men",22,"R",6,"Stim_Choque_8","Old","Collision",1,NA
+"2095",61809609,"Men",22,"R",7,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2096",61809609,"Men",22,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"2097",61809609,"Men",22,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"2098",61809609,"Men",22,"R",10,"Stim_Choque_2","Old","Collision",1,NA
+"2099",61809609,"Men",22,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"2100",61809609,"Men",22,"R",12,"Stim_Choque_5","New","Collision",1,NA
+"2101",94388418,"Men",24,"R",3,"Stim_Choque_5","New","Collision",1,NA
+"2102",94388418,"Men",24,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"2103",94388418,"Men",24,"R",5,"Stim_NO_Choque_8","Old","No collision",0,NA
+"2104",94388418,"Men",24,"R",6,"Stim_Choque_1","New","Collision",1,NA
+"2105",94388418,"Men",24,"R",7,"Stim_Choque_8","Old","Collision",1,NA
+"2106",94388418,"Men",24,"R",8,"Stim_NO_Choque_2","Old","No collision",0,NA
+"2107",94388418,"Men",24,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"2108",94388418,"Men",24,"R",10,"Stim_NO_Choque_5","New","No collision",1,NA
+"2109",94388418,"Men",24,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"2110",94388418,"Men",24,"R",12,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2111",13299384,"Men",28,"R",3,"Stim_Choque_5","New","Collision",1,NA
+"2112",13299384,"Men",28,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"2113",13299384,"Men",28,"R",5,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2114",13299384,"Men",28,"R",6,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2115",13299384,"Men",28,"R",7,"Stim_Choque_3","New","Collision",1,NA
+"2116",13299384,"Men",28,"R",8,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2117",13299384,"Men",28,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"2118",13299384,"Men",28,"R",10,"Stim_NO_Choque_3","New","No collision",1,NA
+"2119",13299384,"Men",28,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"2120",13299384,"Men",28,"R",12,"Stim_NO_Choque_1","New","No collision",1,NA
+"2121",65629808,"Men",22,"R",3,"Stim_NO_Choque_3","New","No collision",1,NA
+"2122",65629808,"Men",22,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"2123",65629808,"Men",22,"R",5,"Stim_NO_Choque_5","New","No collision",1,NA
+"2124",65629808,"Men",22,"R",6,"Stim_Choque_3","New","Collision",1,NA
+"2125",65629808,"Men",22,"R",7,"Stim_Choque_5","New","Collision",1,NA
+"2126",65629808,"Men",22,"R",8,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2127",65629808,"Men",22,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"2128",65629808,"Men",22,"R",10,"Stim_Choque_4","Old","Collision",1,NA
+"2129",65629808,"Men",22,"R",11,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2130",65629808,"Men",22,"R",12,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2131",62726455,"Men",27,"R",3,"Stim_NO_Choque_4","Old","No collision",0,NA
+"2132",62726455,"Men",27,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"2133",62726455,"Men",27,"R",5,"Stim_NO_Choque_7","New","No collision",1,NA
+"2134",62726455,"Men",27,"R",6,"Stim_Choque_8","Old","Collision",1,NA
+"2135",62726455,"Men",27,"R",7,"Stim_Choque_5","New","Collision",1,NA
+"2136",62726455,"Men",27,"R",8,"Stim_NO_Choque_5","New","No collision",1,NA
+"2137",62726455,"Men",27,"R",9,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2138",62726455,"Men",27,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"2139",62726455,"Men",27,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"2140",62726455,"Men",27,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2141",25506578,"Men",28,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"2142",25506578,"Men",28,"R",4,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2143",25506578,"Men",28,"R",5,"Stim_Choque_3","New","Collision",1,NA
+"2144",25506578,"Men",28,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"2145",25506578,"Men",28,"R",7,"Stim_Choque_6","Old","Collision",1,NA
+"2146",25506578,"Men",28,"R",8,"Stim_NO_Choque_6","Old","No collision",0,NA
+"2147",25506578,"Men",28,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"2148",25506578,"Men",28,"R",10,"Stim_NO_Choque_1","New","No collision",0,NA
+"2149",25506578,"Men",28,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"2150",25506578,"Men",28,"R",12,"Stim_NO_Choque_7","New","No collision",1,NA
+"2151",39311440,"Men",27,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"2152",39311440,"Men",27,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"2153",39311440,"Men",27,"R",5,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2154",39311440,"Men",27,"R",6,"Stim_Choque_1","New","Collision",1,NA
+"2155",39311440,"Men",27,"R",7,"Stim_Choque_3","New","Collision",1,NA
+"2156",39311440,"Men",27,"R",8,"Stim_Choque_8","Old","Collision",1,NA
+"2157",39311440,"Men",27,"R",9,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2158",39311440,"Men",27,"R",10,"Stim_Choque_2","Old","Collision",1,NA
+"2159",39311440,"Men",27,"R",11,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2160",39311440,"Men",27,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"2161",24365629,"Men",25,"R",3,"Stim_Choque_3","New","Collision",1,NA
+"2162",24365629,"Men",25,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"2163",24365629,"Men",25,"R",5,"Stim_Choque_6","Old","Collision",1,NA
+"2164",24365629,"Men",25,"R",6,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2165",24365629,"Men",25,"R",7,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2166",24365629,"Men",25,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"2167",24365629,"Men",25,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2168",24365629,"Men",25,"R",10,"Stim_Choque_2","Old","Collision",1,NA
+"2169",24365629,"Men",25,"R",11,"Stim_NO_Choque_7","New","No collision",1,NA
+"2170",24365629,"Men",25,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"2171",69525606,"Women",31,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"2172",69525606,"Women",31,"R",4,"Stim_Choque_2","Old","Collision",0,NA
+"2173",69525606,"Women",31,"R",5,"Stim_NO_Choque_5","New","No collision",0,NA
+"2174",69525606,"Women",31,"R",6,"Stim_NO_Choque_7","New","No collision",1,NA
+"2175",69525606,"Women",31,"R",7,"Stim_Choque_6","Old","Collision",1,NA
+"2176",69525606,"Women",31,"R",8,"Stim_Choque_5","New","Collision",0,NA
+"2177",69525606,"Women",31,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"2178",69525606,"Women",31,"R",10,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2179",69525606,"Women",31,"R",11,"Stim_NO_Choque_3","New","No collision",1,NA
+"2180",69525606,"Women",31,"R",12,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2181",99524825,"Men",23,"R",3,"Stim_Choque_5","New","Collision",0,NA
+"2182",99524825,"Men",23,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"2183",99524825,"Men",23,"R",5,"Stim_Choque_3","New","Collision",0,NA
+"2184",99524825,"Men",23,"R",6,"Stim_Choque_8","Old","Collision",1,NA
+"2185",99524825,"Men",23,"R",7,"Stim_NO_Choque_1","New","No collision",0,NA
+"2186",99524825,"Men",23,"R",8,"Stim_Choque_1","New","Collision",1,NA
+"2187",99524825,"Men",23,"R",9,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2188",99524825,"Men",23,"R",10,"Stim_NO_Choque_3","New","No collision",0,NA
+"2189",99524825,"Men",23,"R",11,"Stim_NO_Choque_2","Old","No collision",0,NA
+"2190",99524825,"Men",23,"R",12,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2191",88774296,"Men",22,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"2192",88774296,"Men",22,"R",4,"Stim_NO_Choque_7","New","No collision",1,NA
+"2193",88774296,"Men",22,"R",5,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2194",88774296,"Men",22,"R",6,"Stim_Choque_3","New","Collision",1,NA
+"2195",88774296,"Men",22,"R",7,"Stim_Choque_4","Old","Collision",1,NA
+"2196",88774296,"Men",22,"R",8,"Stim_Choque_7","New","Collision",1,NA
+"2197",88774296,"Men",22,"R",9,"Stim_NO_Choque_2","Old","No collision",0,NA
+"2198",88774296,"Men",22,"R",10,"Stim_NO_Choque_3","New","No collision",1,NA
+"2199",88774296,"Men",22,"R",11,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2200",88774296,"Men",22,"R",12,"Stim_Choque_8","Old","Collision",1,NA
+"2201",11231107,"Men",20,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"2202",11231107,"Men",20,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"2203",11231107,"Men",20,"R",5,"Stim_NO_Choque_5","New","No collision",1,NA
+"2204",11231107,"Men",20,"R",6,"Stim_Choque_3","New","Collision",0,NA
+"2205",11231107,"Men",20,"R",7,"Stim_Choque_6","Old","Collision",1,NA
+"2206",11231107,"Men",20,"R",8,"Stim_NO_Choque_8","Old","No collision",0,NA
+"2207",11231107,"Men",20,"R",9,"Stim_Choque_5","New","Collision",0,NA
+"2208",11231107,"Men",20,"R",10,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2209",11231107,"Men",20,"R",11,"Stim_NO_Choque_7","New","No collision",1,NA
+"2210",11231107,"Men",20,"R",12,"Stim_NO_Choque_1","New","No collision",0,NA
+"2211",35084229,"Men",18,"R",3,"Stim_Choque_5","New","Collision",1,NA
+"2212",35084229,"Men",18,"R",4,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2213",35084229,"Men",18,"R",5,"Stim_Choque_8","Old","Collision",1,NA
+"2214",35084229,"Men",18,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2215",35084229,"Men",18,"R",7,"Stim_Choque_7","New","Collision",1,NA
+"2216",35084229,"Men",18,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"2217",35084229,"Men",18,"R",9,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2218",35084229,"Men",18,"R",10,"Stim_Choque_1","New","Collision",1,NA
+"2219",35084229,"Men",18,"R",11,"Stim_NO_Choque_1","New","No collision",1,NA
+"2220",35084229,"Men",18,"R",12,"Stim_NO_Choque_3","New","No collision",1,NA
+"2221",36626363,"Men",25,"R",3,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2222",36626363,"Men",25,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"2223",36626363,"Men",25,"R",5,"Stim_Choque_2","Old","Collision",0,NA
+"2224",36626363,"Men",25,"R",6,"Stim_NO_Choque_8","Old","No collision",0,NA
+"2225",36626363,"Men",25,"R",7,"Stim_Choque_6","Old","Collision",1,NA
+"2226",36626363,"Men",25,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"2227",36626363,"Men",25,"R",9,"Stim_NO_Choque_7","New","No collision",1,NA
+"2228",36626363,"Men",25,"R",10,"Stim_Choque_4","Old","Collision",1,NA
+"2229",36626363,"Men",25,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"2230",36626363,"Men",25,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"2231",40682685,"Men",19,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"2232",40682685,"Men",19,"R",4,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2233",40682685,"Men",19,"R",5,"Stim_NO_Choque_7","New","No collision",1,NA
+"2234",40682685,"Men",19,"R",6,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2235",40682685,"Men",19,"R",7,"Stim_Choque_4","Old","Collision",1,NA
+"2236",40682685,"Men",19,"R",8,"Stim_Choque_1","New","Collision",1,NA
+"2237",40682685,"Men",19,"R",9,"Stim_Choque_5","New","Collision",1,NA
+"2238",40682685,"Men",19,"R",10,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2239",40682685,"Men",19,"R",11,"Stim_Choque_3","New","Collision",1,NA
+"2240",40682685,"Men",19,"R",12,"Stim_NO_Choque_1","New","No collision",1,NA
+"2241",31347123,"Men",19,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2242",31347123,"Men",19,"R",4,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2243",31347123,"Men",19,"R",5,"Stim_Choque_7","New","Collision",1,NA
+"2244",31347123,"Men",19,"R",6,"Stim_NO_Choque_5","New","No collision",1,NA
+"2245",31347123,"Men",19,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"2246",31347123,"Men",19,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"2247",31347123,"Men",19,"R",9,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2248",31347123,"Men",19,"R",10,"Stim_Choque_8","Old","Collision",1,NA
+"2249",31347123,"Men",19,"R",11,"Stim_Choque_6","Old","Collision",1,NA
+"2250",31347123,"Men",19,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"2251",89094209,"Men",19,"R",3,"Stim_Choque_5","New","Collision",1,NA
+"2252",89094209,"Men",19,"R",4,"Stim_Choque_6","Old","Collision",1,NA
+"2253",89094209,"Men",19,"R",5,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2254",89094209,"Men",19,"R",6,"Stim_Choque_8","Old","Collision",0,NA
+"2255",89094209,"Men",19,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"2256",89094209,"Men",19,"R",8,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2257",89094209,"Men",19,"R",9,"Stim_NO_Choque_3","New","No collision",1,NA
+"2258",89094209,"Men",19,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"2259",89094209,"Men",19,"R",11,"Stim_Choque_4","Old","Collision",1,NA
+"2260",89094209,"Men",19,"R",12,"Stim_NO_Choque_6","Old","No collision",0,NA
+"2261",16975789,"Men",23,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"2262",16975789,"Men",23,"R",4,"Stim_Choque_3","New","Collision",1,NA
+"2263",16975789,"Men",23,"R",5,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2264",16975789,"Men",23,"R",6,"Stim_Choque_2","Old","Collision",1,NA
+"2265",16975789,"Men",23,"R",7,"Stim_NO_Choque_5","New","No collision",1,NA
+"2266",16975789,"Men",23,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"2267",16975789,"Men",23,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"2268",16975789,"Men",23,"R",10,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2269",16975789,"Men",23,"R",11,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2270",16975789,"Men",23,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"2271",41063867,"Men",19,"R",3,"Stim_Choque_4","Old","Collision",1,NA
+"2272",41063867,"Men",19,"R",4,"Stim_NO_Choque_5","New","No collision",1,NA
+"2273",41063867,"Men",19,"R",5,"Stim_Choque_8","Old","Collision",1,NA
+"2274",41063867,"Men",19,"R",6,"Stim_Choque_7","New","Collision",1,NA
+"2275",41063867,"Men",19,"R",7,"Stim_NO_Choque_7","New","No collision",1,NA
+"2276",41063867,"Men",19,"R",8,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2277",41063867,"Men",19,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"2278",41063867,"Men",19,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"2279",41063867,"Men",19,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"2280",41063867,"Men",19,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2281",72619390,"Men",19,"R",3,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2282",72619390,"Men",19,"R",4,"Stim_Choque_1","New","Collision",1,NA
+"2283",72619390,"Men",19,"R",5,"Stim_Choque_2","Old","Collision",0,NA
+"2284",72619390,"Men",19,"R",6,"Stim_Choque_4","Old","Collision",0,NA
+"2285",72619390,"Men",19,"R",7,"Stim_NO_Choque_5","New","No collision",1,NA
+"2286",72619390,"Men",19,"R",8,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2287",72619390,"Men",19,"R",9,"Stim_Choque_7","New","Collision",1,NA
+"2288",72619390,"Men",19,"R",10,"Stim_NO_Choque_3","New","No collision",1,NA
+"2289",72619390,"Men",19,"R",11,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2290",72619390,"Men",19,"R",12,"Stim_Choque_3","New","Collision",1,NA
+"2291",85351430,"Men",18,"R",3,"Stim_NO_Choque_7","New","No collision",1,NA
+"2292",85351430,"Men",18,"R",4,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2293",85351430,"Men",18,"R",5,"Stim_NO_Choque_5","New","No collision",1,NA
+"2294",85351430,"Men",18,"R",6,"Stim_Choque_5","New","Collision",1,NA
+"2295",85351430,"Men",18,"R",7,"Stim_NO_Choque_3","New","No collision",1,NA
+"2296",85351430,"Men",18,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"2297",85351430,"Men",18,"R",9,"Stim_Choque_1","New","Collision",1,NA
+"2298",85351430,"Men",18,"R",10,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2299",85351430,"Men",18,"R",11,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2300",85351430,"Men",18,"R",12,"Stim_Choque_2","Old","Collision",1,NA
+"2301",47069762,"Women",22,"R",3,"Stim_Choque_8","Old","Collision",1,NA
+"2302",47069762,"Women",22,"R",4,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2303",47069762,"Women",22,"R",5,"Stim_NO_Choque_7","New","No collision",1,NA
+"2304",47069762,"Women",22,"R",6,"Stim_Choque_7","New","Collision",1,NA
+"2305",47069762,"Women",22,"R",7,"Stim_NO_Choque_5","New","No collision",0,NA
+"2306",47069762,"Women",22,"R",8,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2307",47069762,"Women",22,"R",9,"Stim_NO_Choque_3","New","No collision",1,NA
+"2308",47069762,"Women",22,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2309",47069762,"Women",22,"R",11,"Stim_Choque_5","New","Collision",1,NA
+"2310",47069762,"Women",22,"R",12,"Stim_Choque_2","Old","Collision",1,NA
+"2311",95412154,"Men",30,"R",3,"Stim_NO_Choque_5","New","No collision",1,NA
+"2312",95412154,"Men",30,"R",4,"Stim_Choque_1","New","Collision",1,NA
+"2313",95412154,"Men",30,"R",5,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2314",95412154,"Men",30,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"2315",95412154,"Men",30,"R",7,"Stim_Choque_4","Old","Collision",1,NA
+"2316",95412154,"Men",30,"R",8,"Stim_NO_Choque_3","New","No collision",1,NA
+"2317",95412154,"Men",30,"R",9,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2318",95412154,"Men",30,"R",10,"Stim_Choque_5","New","Collision",1,NA
+"2319",95412154,"Men",30,"R",11,"Stim_Choque_3","New","Collision",1,NA
+"2320",95412154,"Men",30,"R",12,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2321",72941389,"Men",28,"R",3,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2322",72941389,"Men",28,"R",4,"Stim_Choque_1","New","Collision",1,NA
+"2323",72941389,"Men",28,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"2324",72941389,"Men",28,"R",6,"Stim_Choque_8","Old","Collision",1,NA
+"2325",72941389,"Men",28,"R",7,"Stim_Choque_6","Old","Collision",1,NA
+"2326",72941389,"Men",28,"R",8,"Stim_Choque_5","New","Collision",1,NA
+"2327",72941389,"Men",28,"R",9,"Stim_NO_Choque_6","Old","No collision",0,NA
+"2328",72941389,"Men",28,"R",10,"Stim_NO_Choque_8","Old","No collision",1,NA
+"2329",72941389,"Men",28,"R",11,"Stim_Choque_3","New","Collision",1,NA
+"2330",72941389,"Men",28,"R",12,"Stim_NO_Choque_1","New","No collision",1,NA
+"2331",28392178,"Men",29,"R",3,"Stim_NO_Choque_3","New","No collision",1,NA
+"2332",28392178,"Men",29,"R",4,"Stim_Choque_4","Old","Collision",1,NA
+"2333",28392178,"Men",29,"R",5,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2334",28392178,"Men",29,"R",6,"Stim_NO_Choque_5","New","No collision",1,NA
+"2335",28392178,"Men",29,"R",7,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2336",28392178,"Men",29,"R",8,"Stim_Choque_6","Old","Collision",1,NA
+"2337",28392178,"Men",29,"R",9,"Stim_NO_Choque_1","New","No collision",1,NA
+"2338",28392178,"Men",29,"R",10,"Stim_Choque_3","New","Collision",1,NA
+"2339",28392178,"Men",29,"R",11,"Stim_Choque_2","Old","Collision",1,NA
+"2340",28392178,"Men",29,"R",12,"Stim_Choque_7","New","Collision",1,NA
+"2341",89750578,"Women",25,"R",3,"Stim_Choque_3","New","Collision",1,NA
+"2342",89750578,"Women",25,"R",4,"Stim_NO_Choque_1","New","No collision",1,NA
+"2343",89750578,"Women",25,"R",5,"Stim_Choque_1","New","Collision",1,NA
+"2344",89750578,"Women",25,"R",6,"Stim_NO_Choque_3","New","No collision",1,NA
+"2345",89750578,"Women",25,"R",7,"Stim_Choque_5","New","Collision",1,NA
+"2346",89750578,"Women",25,"R",8,"Stim_NO_Choque_7","New","No collision",1,NA
+"2347",89750578,"Women",25,"R",9,"Stim_Choque_8","Old","Collision",1,NA
+"2348",89750578,"Women",25,"R",10,"Stim_Choque_6","Old","Collision",1,NA
+"2349",89750578,"Women",25,"R",11,"Stim_Choque_2","Old","Collision",1,NA
+"2350",89750578,"Women",25,"R",12,"Stim_NO_Choque_4","Old","No collision",0,NA
+"2351",49980533,"Men",28,"R",3,"Stim_Choque_2","Old","Collision",1,NA
+"2352",49980533,"Men",28,"R",4,"Stim_Choque_7","New","Collision",1,NA
+"2353",49980533,"Men",28,"R",5,"Stim_NO_Choque_5","New","No collision",1,NA
+"2354",49980533,"Men",28,"R",6,"Stim_NO_Choque_3","New","No collision",1,NA
+"2355",49980533,"Men",28,"R",7,"Stim_NO_Choque_2","Old","No collision",0,NA
+"2356",49980533,"Men",28,"R",8,"Stim_Choque_3","New","Collision",1,NA
+"2357",49980533,"Men",28,"R",9,"Stim_NO_Choque_4","Old","No collision",1,NA
+"2358",49980533,"Men",28,"R",10,"Stim_NO_Choque_1","New","No collision",1,NA
+"2359",49980533,"Men",28,"R",11,"Stim_Choque_8","Old","Collision",1,NA
+"2360",49980533,"Men",28,"R",12,"Stim_Choque_1","New","Collision",1,NA
+"2361",44495324,"Men",29,"R",3,"Stim_Choque_6","Old","Collision",1,NA
+"2362",44495324,"Men",29,"R",4,"Stim_Choque_2","Old","Collision",1,NA
+"2363",44495324,"Men",29,"R",5,"Stim_Choque_4","Old","Collision",1,NA
+"2364",44495324,"Men",29,"R",6,"Stim_NO_Choque_1","New","No collision",1,NA
+"2365",44495324,"Men",29,"R",7,"Stim_NO_Choque_2","Old","No collision",1,NA
+"2366",44495324,"Men",29,"R",8,"Stim_Choque_1","New","Collision",1,NA
+"2367",44495324,"Men",29,"R",9,"Stim_NO_Choque_6","Old","No collision",1,NA
+"2368",44495324,"Men",29,"R",10,"Stim_NO_Choque_5","New","No collision",1,NA
+"2369",44495324,"Men",29,"R",11,"Stim_Choque_7","New","Collision",1,NA
+"2370",44495324,"Men",29,"R",12,"Stim_NO_Choque_4","Old","No collision",1,NA

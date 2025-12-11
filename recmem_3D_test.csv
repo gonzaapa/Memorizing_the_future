@@ -1,0 +1,1387 @@
+"","id","gender","age","trial","file","showBefore","type","success"
+"1",62346238,"Women",18,0,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"2",62346238,"Women",18,1,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"3",62346238,"Women",18,2,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"4",62346238,"Women",18,3,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"5",62346238,"Women",18,4,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"6",62346238,"Women",18,5,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"7",62346238,"Women",18,6,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"8",62346238,"Women",18,7,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"9",62346238,"Women",18,8,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"10",62346238,"Women",18,9,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"11",62346238,"Women",18,10,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"12",62346238,"Women",18,11,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"13",62346238,"Women",18,12,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"14",62346238,"Women",18,13,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"15",90410958,"Women",22,0,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"16",90410958,"Women",22,1,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"17",90410958,"Women",22,2,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"18",90410958,"Women",22,3,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"19",90410958,"Women",22,4,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"20",90410958,"Women",22,5,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"21",90410958,"Women",22,6,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"22",90410958,"Women",22,7,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"23",90410958,"Women",22,8,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"24",90410958,"Women",22,9,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"25",90410958,"Women",22,10,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"26",90410958,"Women",22,11,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"27",90410958,"Women",22,12,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"28",90410958,"Women",22,13,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"29",75138533,"Men",18,0,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"30",75138533,"Men",18,1,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"31",75138533,"Men",18,2,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"32",75138533,"Men",18,3,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"33",75138533,"Men",18,4,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"34",75138533,"Men",18,5,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"35",75138533,"Men",18,6,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"36",75138533,"Men",18,7,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"37",75138533,"Men",18,8,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"38",75138533,"Men",18,9,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"39",75138533,"Men",18,10,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"40",75138533,"Men",18,11,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"41",75138533,"Men",18,12,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"42",75138533,"Men",18,13,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"43",48745707,"Men",18,0,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"44",48745707,"Men",18,1,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"45",48745707,"Men",18,2,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"46",48745707,"Men",18,3,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"47",48745707,"Men",18,4,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"48",48745707,"Men",18,5,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"49",48745707,"Men",18,6,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"50",48745707,"Men",18,7,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"51",48745707,"Men",18,8,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"52",48745707,"Men",18,9,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"53",48745707,"Men",18,10,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"54",48745707,"Men",18,11,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"55",48745707,"Men",18,12,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"56",48745707,"Men",18,13,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"57",82308070,"Women",18,0,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"58",82308070,"Women",18,1,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"59",82308070,"Women",18,2,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"60",82308070,"Women",18,3,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"61",82308070,"Women",18,4,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"62",82308070,"Women",18,5,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"63",82308070,"Women",18,6,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"64",82308070,"Women",18,7,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"65",82308070,"Women",18,8,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"66",82308070,"Women",18,9,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"67",82308070,"Women",18,10,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"68",82308070,"Women",18,11,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"69",82308070,"Women",18,12,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"70",82308070,"Women",18,13,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"71",96776976,"Women",18,0,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"72",96776976,"Women",18,1,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"73",96776976,"Women",18,2,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"74",96776976,"Women",18,3,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"75",96776976,"Women",18,4,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"76",96776976,"Women",18,5,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"77",96776976,"Women",18,6,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"78",96776976,"Women",18,7,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"79",96776976,"Women",18,8,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"80",96776976,"Women",18,9,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"81",96776976,"Women",18,10,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"82",96776976,"Women",18,11,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"83",96776976,"Women",18,12,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"84",96776976,"Women",18,13,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"85",81445443,"Women",18,0,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"86",81445443,"Women",18,1,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"87",81445443,"Women",18,2,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"88",81445443,"Women",18,3,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"89",81445443,"Women",18,4,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"90",81445443,"Women",18,5,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"91",81445443,"Women",18,6,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"92",81445443,"Women",18,7,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"93",81445443,"Women",18,8,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"94",81445443,"Women",18,9,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"95",81445443,"Women",18,10,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"96",81445443,"Women",18,11,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"97",81445443,"Women",18,12,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"98",81445443,"Women",18,13,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"99",31814005,"Men",18,0,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"100",31814005,"Men",18,1,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"101",31814005,"Men",18,2,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"102",31814005,"Men",18,3,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"103",31814005,"Men",18,4,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"104",31814005,"Men",18,5,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"105",31814005,"Men",18,6,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"106",31814005,"Men",18,7,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"107",31814005,"Men",18,8,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"108",31814005,"Men",18,9,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"109",31814005,"Men",18,10,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"110",31814005,"Men",18,11,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"111",31814005,"Men",18,12,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"112",31814005,"Men",18,13,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"113",79885942,"Women",18,0,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"114",79885942,"Women",18,1,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"115",79885942,"Women",18,2,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"116",79885942,"Women",18,3,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"117",79885942,"Women",18,4,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"118",79885942,"Women",18,5,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"119",79885942,"Women",18,6,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"120",79885942,"Women",18,7,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"121",79885942,"Women",18,8,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"122",79885942,"Women",18,9,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"123",79885942,"Women",18,10,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"124",79885942,"Women",18,11,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"125",79885942,"Women",18,12,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"126",79885942,"Women",18,13,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"127",45891801,"Women",22,0,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"128",45891801,"Women",22,1,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"129",45891801,"Women",22,2,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"130",45891801,"Women",22,3,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"131",45891801,"Women",22,4,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"132",45891801,"Women",22,5,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"133",45891801,"Women",22,6,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"134",45891801,"Women",22,7,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"135",45891801,"Women",22,8,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"136",45891801,"Women",22,9,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"137",45891801,"Women",22,10,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"138",45891801,"Women",22,11,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"139",45891801,"Women",22,12,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"140",45891801,"Women",22,13,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"141",74588360,"Women",18,0,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"142",74588360,"Women",18,1,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"143",74588360,"Women",18,2,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"144",74588360,"Women",18,3,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"145",74588360,"Women",18,4,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"146",74588360,"Women",18,5,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"147",74588360,"Women",18,6,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"148",74588360,"Women",18,7,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"149",74588360,"Women",18,8,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"150",74588360,"Women",18,9,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"151",74588360,"Women",18,10,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"152",74588360,"Women",18,11,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"153",74588360,"Women",18,12,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"154",74588360,"Women",18,13,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"155",13179444,"Women",18,0,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"156",13179444,"Women",18,1,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"157",13179444,"Women",18,2,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"158",13179444,"Women",18,3,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"159",13179444,"Women",18,4,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"160",13179444,"Women",18,5,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"161",13179444,"Women",18,6,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"162",13179444,"Women",18,7,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"163",13179444,"Women",18,8,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"164",13179444,"Women",18,9,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"165",13179444,"Women",18,10,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"166",13179444,"Women",18,11,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"167",13179444,"Women",18,12,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"168",13179444,"Women",18,13,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"169",70105571,"Women",18,0,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"170",70105571,"Women",18,1,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"171",70105571,"Women",18,2,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"172",70105571,"Women",18,3,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"173",70105571,"Women",18,4,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"174",70105571,"Women",18,5,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"175",70105571,"Women",18,6,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"176",70105571,"Women",18,7,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"177",70105571,"Women",18,8,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"178",70105571,"Women",18,9,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"179",70105571,"Women",18,10,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"180",70105571,"Women",18,11,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"181",70105571,"Women",18,12,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"182",70105571,"Women",18,13,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"183",46781659,"Women",18,0,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"184",46781659,"Women",18,1,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"185",46781659,"Women",18,2,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"186",46781659,"Women",18,3,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"187",46781659,"Women",18,4,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"188",46781659,"Women",18,5,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"189",46781659,"Women",18,6,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"190",46781659,"Women",18,7,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"191",46781659,"Women",18,8,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"192",46781659,"Women",18,9,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"193",46781659,"Women",18,10,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"194",46781659,"Women",18,11,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"195",46781659,"Women",18,12,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"196",46781659,"Women",18,13,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"197",29449769,"Women",18,0,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"198",29449769,"Women",18,1,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"199",29449769,"Women",18,2,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"200",29449769,"Women",18,3,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"201",29449769,"Women",18,4,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"202",29449769,"Women",18,5,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"203",29449769,"Women",18,6,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"204",29449769,"Women",18,7,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"205",29449769,"Women",18,8,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"206",29449769,"Women",18,9,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"207",29449769,"Women",18,10,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"208",29449769,"Women",18,11,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"209",29449769,"Women",18,12,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"210",29449769,"Women",18,13,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"211",92689153,"Women",18,0,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"212",92689153,"Women",18,1,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"213",92689153,"Women",18,2,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"214",92689153,"Women",18,3,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"215",92689153,"Women",18,4,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"216",92689153,"Women",18,5,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"217",92689153,"Women",18,6,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"218",92689153,"Women",18,7,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"219",92689153,"Women",18,8,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"220",92689153,"Women",18,9,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"221",92689153,"Women",18,10,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"222",92689153,"Women",18,11,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"223",92689153,"Women",18,12,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"224",92689153,"Women",18,13,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"225",48318782,"Women",24,0,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"226",48318782,"Women",24,1,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"227",48318782,"Women",24,2,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"228",48318782,"Women",24,3,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"229",48318782,"Women",24,4,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"230",48318782,"Women",24,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"231",48318782,"Women",24,6,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"232",48318782,"Women",24,7,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"233",48318782,"Women",24,8,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"234",48318782,"Women",24,9,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"235",48318782,"Women",24,10,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"236",48318782,"Women",24,11,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"237",48318782,"Women",24,12,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"238",48318782,"Women",24,13,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"239",84716864,"Men",19,0,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"240",84716864,"Men",19,1,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"241",84716864,"Men",19,2,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"242",84716864,"Men",19,3,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"243",84716864,"Men",19,4,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"244",84716864,"Men",19,5,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"245",84716864,"Men",19,6,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"246",84716864,"Men",19,7,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"247",84716864,"Men",19,8,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"248",84716864,"Men",19,9,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"249",84716864,"Men",19,10,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"250",84716864,"Men",19,11,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"251",84716864,"Men",19,12,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"252",84716864,"Men",19,13,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"253",57894516,"Men",18,0,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"254",57894516,"Men",18,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"255",57894516,"Men",18,2,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"256",57894516,"Men",18,3,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"257",57894516,"Men",18,4,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"258",57894516,"Men",18,5,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"259",57894516,"Men",18,6,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"260",57894516,"Men",18,7,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"261",57894516,"Men",18,8,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"262",57894516,"Men",18,9,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"263",57894516,"Men",18,10,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"264",57894516,"Men",18,11,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"265",57894516,"Men",18,12,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"266",57894516,"Men",18,13,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"267",90119749,"Women",18,0,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"268",90119749,"Women",18,1,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"269",90119749,"Women",18,2,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"270",90119749,"Women",18,3,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"271",90119749,"Women",18,4,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"272",90119749,"Women",18,5,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"273",90119749,"Women",18,6,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"274",90119749,"Women",18,7,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"275",90119749,"Women",18,8,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"276",90119749,"Women",18,9,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"277",90119749,"Women",18,10,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"278",90119749,"Women",18,11,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"279",90119749,"Women",18,12,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"280",90119749,"Women",18,13,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"281",65186704,"Men",19,0,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"282",65186704,"Men",19,1,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"283",65186704,"Men",19,2,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"284",65186704,"Men",19,3,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"285",65186704,"Men",19,4,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"286",65186704,"Men",19,5,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"287",65186704,"Men",19,6,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"288",65186704,"Men",19,7,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"289",65186704,"Men",19,8,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"290",65186704,"Men",19,9,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"291",65186704,"Men",19,10,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"292",65186704,"Men",19,11,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"293",65186704,"Men",19,12,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"294",65186704,"Men",19,13,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"295",43634987,"Women",18,0,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"296",43634987,"Women",18,1,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"297",43634987,"Women",18,2,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"298",43634987,"Women",18,3,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"299",43634987,"Women",18,4,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"300",43634987,"Women",18,5,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"301",43634987,"Women",18,6,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"302",43634987,"Women",18,7,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"303",43634987,"Women",18,8,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"304",43634987,"Women",18,9,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"305",43634987,"Women",18,10,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"306",43634987,"Women",18,11,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"307",43634987,"Women",18,12,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"308",43634987,"Women",18,13,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"309",31885525,"Men",20,0,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"310",31885525,"Men",20,1,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"311",31885525,"Men",20,2,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"312",31885525,"Men",20,3,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"313",31885525,"Men",20,4,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"314",31885525,"Men",20,5,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"315",31885525,"Men",20,6,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"316",31885525,"Men",20,7,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"317",31885525,"Men",20,8,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"318",31885525,"Men",20,9,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"319",31885525,"Men",20,10,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"320",31885525,"Men",20,11,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"321",31885525,"Men",20,12,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"322",31885525,"Men",20,13,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"323",44141913,"Women",18,0,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"324",44141913,"Women",18,1,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"325",44141913,"Women",18,2,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"326",44141913,"Women",18,3,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"327",44141913,"Women",18,4,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"328",44141913,"Women",18,5,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"329",44141913,"Women",18,6,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"330",44141913,"Women",18,7,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"331",44141913,"Women",18,8,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"332",44141913,"Women",18,9,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"333",44141913,"Women",18,10,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"334",44141913,"Women",18,11,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"335",44141913,"Women",18,12,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"336",44141913,"Women",18,13,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"337",10217531,"Women",18,0,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"338",10217531,"Women",18,1,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"339",10217531,"Women",18,2,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"340",10217531,"Women",18,3,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"341",10217531,"Women",18,4,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"342",10217531,"Women",18,5,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"343",10217531,"Women",18,6,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"344",10217531,"Women",18,7,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"345",10217531,"Women",18,8,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"346",10217531,"Women",18,9,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"347",10217531,"Women",18,10,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"348",10217531,"Women",18,11,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"349",10217531,"Women",18,12,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"350",10217531,"Women",18,13,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"351",95485965,"Women",18,0,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"352",95485965,"Women",18,1,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"353",95485965,"Women",18,2,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"354",95485965,"Women",18,3,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"355",95485965,"Women",18,4,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"356",95485965,"Women",18,5,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"357",95485965,"Women",18,6,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"358",95485965,"Women",18,7,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"359",95485965,"Women",18,8,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"360",95485965,"Women",18,9,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"361",95485965,"Women",18,10,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"362",95485965,"Women",18,11,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"363",95485965,"Women",18,12,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"364",95485965,"Women",18,13,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"365",57476345,"Men",18,0,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"366",57476345,"Men",18,1,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"367",57476345,"Men",18,2,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"368",57476345,"Men",18,3,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"369",57476345,"Men",18,4,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"370",57476345,"Men",18,5,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"371",57476345,"Men",18,6,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"372",57476345,"Men",18,7,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"373",57476345,"Men",18,8,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"374",57476345,"Men",18,9,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"375",57476345,"Men",18,10,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"376",57476345,"Men",18,11,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"377",57476345,"Men",18,12,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"378",57476345,"Men",18,13,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"379",34386134,"Men",18,0,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"380",34386134,"Men",18,1,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"381",34386134,"Men",18,2,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"382",34386134,"Men",18,3,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"383",34386134,"Men",18,4,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"384",34386134,"Men",18,5,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"385",34386134,"Men",18,6,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"386",34386134,"Men",18,7,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"387",34386134,"Men",18,8,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"388",34386134,"Men",18,9,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"389",34386134,"Men",18,10,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"390",34386134,"Men",18,11,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"391",34386134,"Men",18,12,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"392",34386134,"Men",18,13,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"393",11121498,"Women",18,0,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"394",11121498,"Women",18,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"395",11121498,"Women",18,2,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"396",11121498,"Women",18,3,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"397",11121498,"Women",18,4,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"398",11121498,"Women",18,5,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"399",11121498,"Women",18,6,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"400",11121498,"Women",18,7,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"401",11121498,"Women",18,8,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"402",11121498,"Women",18,9,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"403",11121498,"Women",18,10,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"404",11121498,"Women",18,11,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"405",11121498,"Women",18,12,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"406",11121498,"Women",18,13,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"407",85788919,"Women",23,0,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"408",85788919,"Women",23,1,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"409",85788919,"Women",23,2,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"410",85788919,"Women",23,3,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"411",85788919,"Women",23,4,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"412",85788919,"Women",23,5,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"413",85788919,"Women",23,6,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"414",85788919,"Women",23,7,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"415",85788919,"Women",23,8,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"416",85788919,"Women",23,9,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"417",85788919,"Women",23,10,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"418",85788919,"Women",23,11,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"419",85788919,"Women",23,12,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"420",85788919,"Women",23,13,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"421",39642825,"Men",22,0,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"422",39642825,"Men",22,1,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"423",39642825,"Men",22,2,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"424",39642825,"Men",22,3,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"425",39642825,"Men",22,4,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"426",39642825,"Men",22,5,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"427",39642825,"Men",22,6,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"428",39642825,"Men",22,7,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"429",39642825,"Men",22,8,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"430",39642825,"Men",22,9,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"431",39642825,"Men",22,10,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"432",39642825,"Men",22,11,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"433",39642825,"Men",22,12,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"434",39642825,"Men",22,13,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"435",88251233,"Men",22,0,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"436",88251233,"Men",22,1,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"437",88251233,"Men",22,2,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"438",88251233,"Men",22,3,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"439",88251233,"Men",22,4,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"440",88251233,"Men",22,5,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"441",88251233,"Men",22,6,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"442",88251233,"Men",22,7,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"443",88251233,"Men",22,8,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"444",88251233,"Men",22,9,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"445",88251233,"Men",22,10,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"446",88251233,"Men",22,11,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"447",88251233,"Men",22,12,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"448",88251233,"Men",22,13,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"449",13297710,"Women",27,0,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"450",13297710,"Women",27,1,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"451",13297710,"Women",27,2,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"452",13297710,"Women",27,3,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"453",13297710,"Women",27,4,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"454",13297710,"Women",27,5,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"455",13297710,"Women",27,6,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"456",13297710,"Women",27,7,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"457",13297710,"Women",27,8,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"458",13297710,"Women",27,9,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"459",13297710,"Women",27,10,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"460",13297710,"Women",27,11,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"461",13297710,"Women",27,12,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"462",13297710,"Women",27,13,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"463",68707544,"Men",41,0,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"464",68707544,"Men",41,1,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"465",68707544,"Men",41,2,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"466",68707544,"Men",41,3,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"467",68707544,"Men",41,4,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"468",68707544,"Men",41,5,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"469",68707544,"Men",41,6,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"470",68707544,"Men",41,7,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"471",68707544,"Men",41,8,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"472",68707544,"Men",41,9,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"473",68707544,"Men",41,10,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"474",68707544,"Men",41,11,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"475",68707544,"Men",41,12,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"476",68707544,"Men",41,13,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"477",83791877,"Women",23,0,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"478",83791877,"Women",23,1,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"479",83791877,"Women",23,2,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"480",83791877,"Women",23,3,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"481",83791877,"Women",23,4,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"482",83791877,"Women",23,5,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"483",83791877,"Women",23,6,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"484",83791877,"Women",23,7,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"485",83791877,"Women",23,8,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"486",83791877,"Women",23,9,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"487",83791877,"Women",23,10,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"488",83791877,"Women",23,11,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"489",83791877,"Women",23,12,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"490",83791877,"Women",23,13,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"491",52647016,"Women",27,0,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"492",52647016,"Women",27,1,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"493",52647016,"Women",27,2,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"494",52647016,"Women",27,3,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"495",52647016,"Women",27,4,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"496",52647016,"Women",27,5,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"497",52647016,"Women",27,6,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"498",52647016,"Women",27,7,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"499",52647016,"Women",27,8,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"500",52647016,"Women",27,9,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"501",52647016,"Women",27,10,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"502",52647016,"Women",27,11,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"503",52647016,"Women",27,12,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"504",52647016,"Women",27,13,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"505",33857466,"Women",30,0,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"506",33857466,"Women",30,1,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"507",33857466,"Women",30,2,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"508",33857466,"Women",30,3,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"509",33857466,"Women",30,4,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"510",33857466,"Women",30,5,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"511",33857466,"Women",30,6,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"512",33857466,"Women",30,7,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"513",33857466,"Women",30,8,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"514",33857466,"Women",30,9,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"515",33857466,"Women",30,10,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"516",33857466,"Women",30,11,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"517",33857466,"Women",30,12,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"518",33857466,"Women",30,13,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"519",31340006,"Women",29,0,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"520",31340006,"Women",29,1,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"521",31340006,"Women",29,2,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"522",31340006,"Women",29,3,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"523",31340006,"Women",29,4,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"524",31340006,"Women",29,5,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"525",31340006,"Women",29,6,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"526",31340006,"Women",29,7,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"527",31340006,"Women",29,8,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"528",31340006,"Women",29,9,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"529",31340006,"Women",29,10,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"530",31340006,"Women",29,11,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"531",31340006,"Women",29,12,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"532",31340006,"Women",29,13,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"533",69464509,"Women",24,0,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"534",69464509,"Women",24,1,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"535",69464509,"Women",24,2,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"536",69464509,"Women",24,3,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"537",69464509,"Women",24,4,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"538",69464509,"Women",24,5,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"539",69464509,"Women",24,6,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"540",69464509,"Women",24,7,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"541",69464509,"Women",24,8,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"542",69464509,"Women",24,9,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"543",69464509,"Women",24,10,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"544",69464509,"Women",24,11,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"545",69464509,"Women",24,12,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"546",69464509,"Women",24,13,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"547",51156938,"Men",22,0,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"548",51156938,"Men",22,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"549",51156938,"Men",22,2,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"550",51156938,"Men",22,3,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"551",51156938,"Men",22,4,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"552",51156938,"Men",22,5,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"553",51156938,"Men",22,6,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"554",51156938,"Men",22,7,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"555",51156938,"Men",22,8,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"556",51156938,"Men",22,9,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"557",51156938,"Men",22,10,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"558",51156938,"Men",22,11,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"559",51156938,"Men",22,12,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"560",51156938,"Men",22,13,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"561",65278303,"Women",18,0,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"562",65278303,"Women",18,1,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"563",65278303,"Women",18,2,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"564",65278303,"Women",18,3,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"565",65278303,"Women",18,4,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"566",65278303,"Women",18,5,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"567",65278303,"Women",18,6,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"568",65278303,"Women",18,7,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"569",65278303,"Women",18,8,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"570",65278303,"Women",18,9,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"571",65278303,"Women",18,10,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"572",65278303,"Women",18,11,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"573",65278303,"Women",18,12,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"574",65278303,"Women",18,13,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"575",34570123,"Women",20,0,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"576",34570123,"Women",20,1,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"577",34570123,"Women",20,2,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"578",34570123,"Women",20,3,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"579",34570123,"Women",20,4,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"580",34570123,"Women",20,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"581",34570123,"Women",20,6,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"582",34570123,"Women",20,7,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"583",34570123,"Women",20,8,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"584",34570123,"Women",20,9,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"585",34570123,"Women",20,10,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"586",34570123,"Women",20,11,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"587",34570123,"Women",20,12,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"588",34570123,"Women",20,13,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"589",74870877,"Women",21,0,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"590",74870877,"Women",21,1,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"591",74870877,"Women",21,2,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"592",74870877,"Women",21,3,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"593",74870877,"Women",21,4,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"594",74870877,"Women",21,5,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"595",74870877,"Women",21,6,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"596",74870877,"Women",21,7,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"597",74870877,"Women",21,8,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"598",74870877,"Women",21,9,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"599",74870877,"Women",21,10,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"600",74870877,"Women",21,11,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"601",74870877,"Women",21,12,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"602",74870877,"Women",21,13,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"603",86091563,"Men",21,0,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"604",86091563,"Men",21,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"605",86091563,"Men",21,2,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"606",86091563,"Men",21,3,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"607",86091563,"Men",21,4,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"608",86091563,"Men",21,5,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"609",86091563,"Men",21,6,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"610",86091563,"Men",21,7,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"611",86091563,"Men",21,8,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"612",86091563,"Men",21,9,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"613",86091563,"Men",21,10,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"614",86091563,"Men",21,11,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"615",86091563,"Men",21,12,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"616",86091563,"Men",21,13,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"617",19310635,"Men",21,0,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"618",19310635,"Men",21,1,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"619",19310635,"Men",21,2,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"620",19310635,"Men",21,3,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"621",19310635,"Men",21,4,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"622",19310635,"Men",21,5,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"623",19310635,"Men",21,6,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"624",19310635,"Men",21,7,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"625",19310635,"Men",21,8,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"626",19310635,"Men",21,9,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"627",19310635,"Men",21,10,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"628",19310635,"Men",21,11,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"629",19310635,"Men",21,12,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"630",19310635,"Men",21,13,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"631",72626360,"Women",21,0,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"632",72626360,"Women",21,1,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"633",72626360,"Women",21,2,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"634",72626360,"Women",21,3,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"635",72626360,"Women",21,4,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"636",72626360,"Women",21,5,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"637",72626360,"Women",21,6,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"638",72626360,"Women",21,7,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"639",72626360,"Women",21,8,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"640",72626360,"Women",21,9,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"641",72626360,"Women",21,10,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"642",72626360,"Women",21,11,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"643",72626360,"Women",21,12,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"644",72626360,"Women",21,13,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"645",71331142,"Men",21,0,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"646",71331142,"Men",21,1,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"647",71331142,"Men",21,2,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"648",71331142,"Men",21,3,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"649",71331142,"Men",21,4,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"650",71331142,"Men",21,5,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"651",71331142,"Men",21,6,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"652",71331142,"Men",21,7,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"653",71331142,"Men",21,8,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"654",71331142,"Men",21,9,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"655",71331142,"Men",21,10,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"656",71331142,"Men",21,11,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"657",71331142,"Men",21,12,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"658",71331142,"Men",21,13,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"659",95912614,"Men",20,0,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"660",95912614,"Men",20,1,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"661",95912614,"Men",20,2,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"662",95912614,"Men",20,3,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"663",95912614,"Men",20,4,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"664",95912614,"Men",20,5,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"665",95912614,"Men",20,6,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"666",95912614,"Men",20,7,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"667",95912614,"Men",20,8,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"668",95912614,"Men",20,9,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"669",95912614,"Men",20,10,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"670",95912614,"Men",20,11,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"671",95912614,"Men",20,12,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"672",95912614,"Men",20,13,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"673",48933703,"Men",21,0,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"674",48933703,"Men",21,1,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"675",48933703,"Men",21,2,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"676",48933703,"Men",21,3,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"677",48933703,"Men",21,4,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"678",48933703,"Men",21,5,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"679",48933703,"Men",21,6,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"680",48933703,"Men",21,7,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"681",48933703,"Men",21,8,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"682",48933703,"Men",21,9,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"683",48933703,"Men",21,10,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"684",48933703,"Men",21,11,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"685",48933703,"Men",21,12,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"686",48933703,"Men",21,13,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"687",39390208,"Women",21,0,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"688",39390208,"Women",21,1,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"689",39390208,"Women",21,2,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"690",39390208,"Women",21,3,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"691",39390208,"Women",21,4,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"692",39390208,"Women",21,5,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"693",39390208,"Women",21,6,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"694",39390208,"Women",21,7,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"695",39390208,"Women",21,8,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"696",39390208,"Women",21,9,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"697",39390208,"Women",21,10,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"698",39390208,"Women",21,11,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"699",39390208,"Women",21,12,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"700",39390208,"Women",21,13,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"701",81464658,"Men",23,0,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"702",81464658,"Men",23,1,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"703",81464658,"Men",23,2,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"704",81464658,"Men",23,3,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"705",81464658,"Men",23,4,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"706",81464658,"Men",23,5,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"707",81464658,"Men",23,6,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"708",81464658,"Men",23,7,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"709",81464658,"Men",23,8,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"710",81464658,"Men",23,9,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"711",81464658,"Men",23,10,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"712",81464658,"Men",23,11,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"713",81464658,"Men",23,12,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"714",81464658,"Men",23,13,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"715",89252835,"Women",21,0,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"716",89252835,"Women",21,1,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"717",89252835,"Women",21,2,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"718",89252835,"Women",21,3,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"719",89252835,"Women",21,4,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"720",89252835,"Women",21,5,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"721",89252835,"Women",21,6,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"722",89252835,"Women",21,7,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"723",89252835,"Women",21,8,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"724",89252835,"Women",21,9,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"725",89252835,"Women",21,10,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"726",89252835,"Women",21,11,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"727",89252835,"Women",21,12,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"728",89252835,"Women",21,13,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"729",86754471,"Women",21,0,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"730",86754471,"Women",21,1,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"731",86754471,"Women",21,2,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"732",86754471,"Women",21,3,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"733",86754471,"Women",21,4,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"734",86754471,"Women",21,5,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"735",86754471,"Women",21,6,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"736",86754471,"Women",21,7,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"737",86754471,"Women",21,8,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"738",86754471,"Women",21,9,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"739",86754471,"Women",21,10,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"740",86754471,"Women",21,11,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"741",86754471,"Women",21,12,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"742",86754471,"Women",21,13,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"743",97897460,"Women",20,0,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"744",97897460,"Women",20,1,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"745",97897460,"Women",20,2,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"746",97897460,"Women",20,3,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"747",97897460,"Women",20,4,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"748",97897460,"Women",20,5,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"749",97897460,"Women",20,6,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"750",97897460,"Women",20,7,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"751",97897460,"Women",20,8,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"752",97897460,"Women",20,9,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"753",97897460,"Women",20,10,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"754",97897460,"Women",20,11,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"755",97897460,"Women",20,12,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"756",97897460,"Women",20,13,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"757",75737207,"Women",22,0,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"758",75737207,"Women",22,1,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"759",75737207,"Women",22,2,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"760",75737207,"Women",22,3,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"761",75737207,"Women",22,4,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"762",75737207,"Women",22,5,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"763",75737207,"Women",22,6,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"764",75737207,"Women",22,7,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"765",75737207,"Women",22,8,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"766",75737207,"Women",22,9,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"767",75737207,"Women",22,10,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"768",75737207,"Women",22,11,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"769",75737207,"Women",22,12,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"770",75737207,"Women",22,13,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"771",77291172,"Women",21,0,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"772",77291172,"Women",21,1,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"773",77291172,"Women",21,2,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"774",77291172,"Women",21,3,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"775",77291172,"Women",21,4,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"776",77291172,"Women",21,5,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"777",77291172,"Women",21,6,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"778",77291172,"Women",21,7,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"779",77291172,"Women",21,8,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"780",77291172,"Women",21,9,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"781",77291172,"Women",21,10,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"782",77291172,"Women",21,11,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"783",77291172,"Women",21,12,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"784",77291172,"Women",21,13,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"785",41640496,"Men",37,0,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"786",41640496,"Men",37,1,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"787",41640496,"Men",37,2,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"788",41640496,"Men",37,3,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"789",41640496,"Men",37,4,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"790",41640496,"Men",37,5,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"791",41640496,"Men",37,6,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"792",41640496,"Men",37,7,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"793",41640496,"Men",37,8,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"794",41640496,"Men",37,9,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"795",41640496,"Men",37,10,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"796",41640496,"Men",37,11,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"797",41640496,"Men",37,12,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"798",41640496,"Men",37,13,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"799",28082596,"Men",21,0,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"800",28082596,"Men",21,1,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"801",28082596,"Men",21,2,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"802",28082596,"Men",21,3,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"803",28082596,"Men",21,4,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"804",28082596,"Men",21,5,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"805",28082596,"Men",21,6,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"806",28082596,"Men",21,7,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"807",28082596,"Men",21,8,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"808",28082596,"Men",21,9,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"809",28082596,"Men",21,10,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"810",28082596,"Men",21,11,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"811",28082596,"Men",21,12,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"812",28082596,"Men",21,13,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"813",74313210,"Women",21,0,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"814",74313210,"Women",21,1,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"815",74313210,"Women",21,2,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"816",74313210,"Women",21,3,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"817",74313210,"Women",21,4,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"818",74313210,"Women",21,5,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"819",74313210,"Women",21,6,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"820",74313210,"Women",21,7,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"821",74313210,"Women",21,8,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"822",74313210,"Women",21,9,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"823",74313210,"Women",21,10,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"824",74313210,"Women",21,11,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"825",74313210,"Women",21,12,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"826",74313210,"Women",21,13,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"827",41174074,"Women",26,0,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"828",41174074,"Women",26,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"829",41174074,"Women",26,2,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"830",41174074,"Women",26,3,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"831",41174074,"Women",26,4,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"832",41174074,"Women",26,5,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"833",41174074,"Women",26,6,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"834",41174074,"Women",26,7,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"835",41174074,"Women",26,8,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"836",41174074,"Women",26,9,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"837",41174074,"Women",26,10,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"838",41174074,"Women",26,11,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"839",41174074,"Women",26,12,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"840",41174074,"Women",26,13,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"841",54817576,"Women",21,0,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"842",54817576,"Women",21,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"843",54817576,"Women",21,2,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"844",54817576,"Women",21,3,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"845",54817576,"Women",21,4,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"846",54817576,"Women",21,5,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"847",54817576,"Women",21,6,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"848",54817576,"Women",21,7,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"849",54817576,"Women",21,8,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"850",54817576,"Women",21,9,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"851",54817576,"Women",21,10,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"852",54817576,"Women",21,11,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"853",54817576,"Women",21,12,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"854",54817576,"Women",21,13,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"855",46537072,"Women",21,0,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"856",46537072,"Women",21,1,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"857",46537072,"Women",21,2,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"858",46537072,"Women",21,3,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"859",46537072,"Women",21,4,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"860",46537072,"Women",21,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"861",46537072,"Women",21,6,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"862",46537072,"Women",21,7,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"863",46537072,"Women",21,8,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"864",46537072,"Women",21,9,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"865",46537072,"Women",21,10,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"866",46537072,"Women",21,11,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"867",46537072,"Women",21,12,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"868",46537072,"Women",21,13,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"869",90193369,"Women",21,0,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"870",90193369,"Women",21,1,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"871",90193369,"Women",21,2,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"872",90193369,"Women",21,3,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"873",90193369,"Women",21,4,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"874",90193369,"Women",21,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"875",90193369,"Women",21,6,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"876",90193369,"Women",21,7,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"877",90193369,"Women",21,8,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"878",90193369,"Women",21,9,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"879",90193369,"Women",21,10,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"880",90193369,"Women",21,11,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"881",90193369,"Women",21,12,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"882",90193369,"Women",21,13,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"883",27292391,"Women",21,0,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"884",27292391,"Women",21,1,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"885",27292391,"Women",21,2,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"886",27292391,"Women",21,3,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"887",27292391,"Women",21,4,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"888",27292391,"Women",21,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"889",27292391,"Women",21,6,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"890",27292391,"Women",21,7,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"891",27292391,"Women",21,8,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"892",27292391,"Women",21,9,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"893",27292391,"Women",21,10,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"894",27292391,"Women",21,11,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"895",27292391,"Women",21,12,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"896",27292391,"Women",21,13,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"897",45116783,"Men",21,0,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"898",45116783,"Men",21,1,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"899",45116783,"Men",21,2,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"900",45116783,"Men",21,3,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"901",45116783,"Men",21,4,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"902",45116783,"Men",21,5,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"903",45116783,"Men",21,6,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"904",45116783,"Men",21,7,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"905",45116783,"Men",21,8,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"906",45116783,"Men",21,9,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"907",45116783,"Men",21,10,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"908",45116783,"Men",21,11,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"909",45116783,"Men",21,12,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"910",45116783,"Men",21,13,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"911",75956852,"Men",22,0,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"912",75956852,"Men",22,1,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"913",75956852,"Men",22,2,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"914",75956852,"Men",22,3,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"915",75956852,"Men",22,4,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"916",75956852,"Men",22,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"917",75956852,"Men",22,6,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"918",75956852,"Men",22,7,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"919",75956852,"Men",22,8,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"920",75956852,"Men",22,9,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"921",75956852,"Men",22,10,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"922",75956852,"Men",22,11,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"923",75956852,"Men",22,12,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"924",75956852,"Men",22,13,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"925",25678460,"Women",23,0,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"926",25678460,"Women",23,1,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"927",25678460,"Women",23,2,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"928",25678460,"Women",23,3,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"929",25678460,"Women",23,4,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"930",25678460,"Women",23,5,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"931",25678460,"Women",23,6,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"932",25678460,"Women",23,7,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"933",25678460,"Women",23,8,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"934",25678460,"Women",23,9,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"935",25678460,"Women",23,10,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"936",25678460,"Women",23,11,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"937",25678460,"Women",23,12,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"938",25678460,"Women",23,13,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"939",29011128,"Women",23,0,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"940",29011128,"Women",23,1,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"941",29011128,"Women",23,2,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"942",29011128,"Women",23,3,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"943",29011128,"Women",23,4,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"944",29011128,"Women",23,5,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"945",29011128,"Women",23,6,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"946",29011128,"Women",23,7,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"947",29011128,"Women",23,8,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"948",29011128,"Women",23,9,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"949",29011128,"Women",23,10,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"950",29011128,"Women",23,11,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"951",29011128,"Women",23,12,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"952",29011128,"Women",23,13,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"953",23105147,"Men",23,0,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"954",23105147,"Men",23,1,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"955",23105147,"Men",23,2,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"956",23105147,"Men",23,3,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"957",23105147,"Men",23,4,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"958",23105147,"Men",23,5,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"959",23105147,"Men",23,6,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"960",23105147,"Men",23,7,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"961",23105147,"Men",23,8,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"962",23105147,"Men",23,9,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"963",23105147,"Men",23,10,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"964",23105147,"Men",23,11,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"965",23105147,"Men",23,12,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"966",23105147,"Men",23,13,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"967",56051279,"Women",23,0,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"968",56051279,"Women",23,1,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"969",56051279,"Women",23,2,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"970",56051279,"Women",23,3,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"971",56051279,"Women",23,4,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"972",56051279,"Women",23,5,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"973",56051279,"Women",23,6,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"974",56051279,"Women",23,7,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"975",56051279,"Women",23,8,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"976",56051279,"Women",23,9,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"977",56051279,"Women",23,10,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"978",56051279,"Women",23,11,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"979",56051279,"Women",23,12,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"980",56051279,"Women",23,13,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"981",52780321,"Women",19,0,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"982",52780321,"Women",19,1,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"983",52780321,"Women",19,2,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"984",52780321,"Women",19,3,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"985",52780321,"Women",19,4,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"986",52780321,"Women",19,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"987",52780321,"Women",19,6,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"988",52780321,"Women",19,7,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"989",52780321,"Women",19,8,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"990",52780321,"Women",19,9,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"991",52780321,"Women",19,10,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"992",52780321,"Women",19,11,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"993",52780321,"Women",19,12,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"994",52780321,"Women",19,13,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"995",77920486,"Men",24,0,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"996",77920486,"Men",24,1,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"997",77920486,"Men",24,2,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"998",77920486,"Men",24,3,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"999",77920486,"Men",24,4,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1000",77920486,"Men",24,5,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1001",77920486,"Men",24,6,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"1002",77920486,"Men",24,7,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"1003",77920486,"Men",24,8,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"1004",77920486,"Men",24,9,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"1005",77920486,"Men",24,10,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"1006",77920486,"Men",24,11,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"1007",77920486,"Men",24,12,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"1008",77920486,"Men",24,13,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"1009",21840104,"Men",19,0,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"1010",21840104,"Men",19,1,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"1011",21840104,"Men",19,2,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"1012",21840104,"Men",19,3,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"1013",21840104,"Men",19,4,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"1014",21840104,"Men",19,5,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"1015",21840104,"Men",19,6,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1016",21840104,"Men",19,7,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"1017",21840104,"Men",19,8,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"1018",21840104,"Men",19,9,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"1019",21840104,"Men",19,10,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"1020",21840104,"Men",19,11,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1021",21840104,"Men",19,12,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1022",21840104,"Men",19,13,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1023",39009022,"Women",20,0,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"1024",39009022,"Women",20,1,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1025",39009022,"Women",20,2,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1026",39009022,"Women",20,3,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"1027",39009022,"Women",20,4,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"1028",39009022,"Women",20,5,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"1029",39009022,"Women",20,6,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"1030",39009022,"Women",20,7,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"1031",39009022,"Women",20,8,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"1032",39009022,"Women",20,9,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"1033",39009022,"Women",20,10,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"1034",39009022,"Women",20,11,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"1035",39009022,"Women",20,12,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"1036",39009022,"Women",20,13,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"1037",87460582,"Women",20,0,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"1038",87460582,"Women",20,1,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1039",87460582,"Women",20,2,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"1040",87460582,"Women",20,3,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"1041",87460582,"Women",20,4,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"1042",87460582,"Women",20,5,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"1043",87460582,"Women",20,6,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"1044",87460582,"Women",20,7,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"1045",87460582,"Women",20,8,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"1046",87460582,"Women",20,9,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"1047",87460582,"Women",20,10,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"1048",87460582,"Women",20,11,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1049",87460582,"Women",20,12,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1050",87460582,"Women",20,13,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1051",30854331,"Men",31,0,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1052",30854331,"Men",31,1,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1053",30854331,"Men",31,2,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"1054",30854331,"Men",31,3,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"1055",30854331,"Men",31,4,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"1056",30854331,"Men",31,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1057",30854331,"Men",31,6,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"1058",30854331,"Men",31,7,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"1059",30854331,"Men",31,8,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1060",30854331,"Men",31,9,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1061",30854331,"Men",31,10,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"1062",30854331,"Men",31,11,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"1063",30854331,"Men",31,12,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"1064",30854331,"Men",31,13,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1065",10686780,"Men",19,0,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"1066",10686780,"Men",19,1,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1067",10686780,"Men",19,2,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"1068",10686780,"Men",19,3,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"1069",10686780,"Men",19,4,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1070",10686780,"Men",19,5,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"1071",10686780,"Men",19,6,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"1072",10686780,"Men",19,7,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"1073",10686780,"Men",19,8,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1074",10686780,"Men",19,9,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"1075",10686780,"Men",19,10,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"1076",10686780,"Men",19,11,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1077",10686780,"Men",19,12,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"1078",10686780,"Men",19,13,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"1079",18807504,"Women",19,0,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"1080",18807504,"Women",19,1,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"1081",18807504,"Women",19,2,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"1082",18807504,"Women",19,3,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1083",18807504,"Women",19,4,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"1084",18807504,"Women",19,5,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"1085",18807504,"Women",19,6,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"1086",18807504,"Women",19,7,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1087",18807504,"Women",19,8,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"1088",18807504,"Women",19,9,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1089",18807504,"Women",19,10,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"1090",18807504,"Women",19,11,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"1091",18807504,"Women",19,12,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1092",18807504,"Women",19,13,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"1093",59559965,"Women",21,0,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"1094",59559965,"Women",21,1,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1095",59559965,"Women",21,2,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1096",59559965,"Women",21,3,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1097",59559965,"Women",21,4,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1098",59559965,"Women",21,5,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"1099",59559965,"Women",21,6,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"1100",59559965,"Women",21,7,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"1101",59559965,"Women",21,8,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1102",59559965,"Women",21,9,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"1103",59559965,"Women",21,10,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"1104",59559965,"Women",21,11,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"1105",59559965,"Women",21,12,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"1106",59559965,"Women",21,13,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"1107",15979196,"Men",27,0,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"1108",15979196,"Men",27,1,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1109",15979196,"Men",27,2,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1110",15979196,"Men",27,3,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"1111",15979196,"Men",27,4,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"1112",15979196,"Men",27,5,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1113",15979196,"Men",27,6,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"1114",15979196,"Men",27,7,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1115",15979196,"Men",27,8,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"1116",15979196,"Men",27,9,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1117",15979196,"Men",27,10,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1118",15979196,"Men",27,11,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"1119",15979196,"Men",27,12,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"1120",15979196,"Men",27,13,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1121",39034218,"Men",26,0,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1122",39034218,"Men",26,1,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"1123",39034218,"Men",26,2,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"1124",39034218,"Men",26,3,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1125",39034218,"Men",26,4,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"1126",39034218,"Men",26,5,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"1127",39034218,"Men",26,6,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"1128",39034218,"Men",26,7,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"1129",39034218,"Men",26,8,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1130",39034218,"Men",26,9,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"1131",39034218,"Men",26,10,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"1132",39034218,"Men",26,11,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"1133",39034218,"Men",26,12,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"1134",39034218,"Men",26,13,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"1135",95608060,"Men",26,0,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"1136",95608060,"Men",26,1,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1137",95608060,"Men",26,2,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"1138",95608060,"Men",26,3,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"1139",95608060,"Men",26,4,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"1140",95608060,"Men",26,5,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"1141",95608060,"Men",26,6,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"1142",95608060,"Men",26,7,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1143",95608060,"Men",26,8,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"1144",95608060,"Men",26,9,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1145",95608060,"Men",26,10,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1146",95608060,"Men",26,11,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1147",95608060,"Men",26,12,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1148",95608060,"Men",26,13,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"1149",34882872,"Men",26,0,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"1150",34882872,"Men",26,1,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"1151",34882872,"Men",26,2,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"1152",34882872,"Men",26,3,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1153",34882872,"Men",26,4,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1154",34882872,"Men",26,5,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"1155",34882872,"Men",26,6,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"1156",34882872,"Men",26,7,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"1157",34882872,"Men",26,8,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1158",34882872,"Men",26,9,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"1159",34882872,"Men",26,10,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1160",34882872,"Men",26,11,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"1161",34882872,"Men",26,12,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"1162",34882872,"Men",26,13,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1163",67188783,"Men",24,0,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"1164",67188783,"Men",24,1,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1165",67188783,"Men",24,2,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"1166",67188783,"Men",24,3,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"1167",67188783,"Men",24,4,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"1168",67188783,"Men",24,5,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"1169",67188783,"Men",24,6,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"1170",67188783,"Men",24,7,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1171",67188783,"Men",24,8,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1172",67188783,"Men",24,9,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"1173",67188783,"Men",24,10,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"1174",67188783,"Men",24,11,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"1175",67188783,"Men",24,12,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1176",67188783,"Men",24,13,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"1177",94921951,"Men",25,0,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1178",94921951,"Men",25,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"1179",94921951,"Men",25,2,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"1180",94921951,"Men",25,3,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"1181",94921951,"Men",25,4,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"1182",94921951,"Men",25,5,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1183",94921951,"Men",25,6,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1184",94921951,"Men",25,7,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"1185",94921951,"Men",25,8,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1186",94921951,"Men",25,9,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1187",94921951,"Men",25,10,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"1188",94921951,"Men",25,11,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"1189",94921951,"Men",25,12,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1190",94921951,"Men",25,13,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"1191",33186255,"Men",23,0,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"1192",33186255,"Men",23,1,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"1193",33186255,"Men",23,2,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"1194",33186255,"Men",23,3,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"1195",33186255,"Men",23,4,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"1196",33186255,"Men",23,5,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"1197",33186255,"Men",23,6,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"1198",33186255,"Men",23,7,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"1199",33186255,"Men",23,8,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"1200",33186255,"Men",23,9,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1201",33186255,"Men",23,10,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"1202",33186255,"Men",23,11,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"1203",33186255,"Men",23,12,"Stim_NO_Choque_4_Perspect.gif","New","No collision",1
+"1204",33186255,"Men",23,13,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
+"1205",58917704,"Men",23,0,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"1206",58917704,"Men",23,1,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"1207",58917704,"Men",23,2,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"1208",58917704,"Men",23,3,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"1209",58917704,"Men",23,4,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1210",58917704,"Men",23,5,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1211",58917704,"Men",23,6,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"1212",58917704,"Men",23,7,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"1213",58917704,"Men",23,8,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1214",58917704,"Men",23,9,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"1215",58917704,"Men",23,10,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1216",58917704,"Men",23,11,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1217",58917704,"Men",23,12,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"1218",58917704,"Men",23,13,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"1219",50132415,"Men",22,0,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1220",50132415,"Men",22,1,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1221",50132415,"Men",22,2,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"1222",50132415,"Men",22,3,"Stim_Choque_2_Perspect.gif","Old","Collision",1
+"1223",50132415,"Men",22,4,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"1224",50132415,"Men",22,5,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1225",50132415,"Men",22,6,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"1226",50132415,"Men",22,7,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"1227",50132415,"Men",22,8,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1228",50132415,"Men",22,9,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"1229",50132415,"Men",22,10,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"1230",50132415,"Men",22,11,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"1231",50132415,"Men",22,12,"Stim_NO_Choque_2_Perspect.gif","New","No collision",0
+"1232",50132415,"Men",22,13,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"1233",34792926,"Men",26,0,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"1234",34792926,"Men",26,1,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"1235",34792926,"Men",26,2,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1236",34792926,"Men",26,3,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"1237",34792926,"Men",26,4,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1238",34792926,"Men",26,5,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"1239",34792926,"Men",26,6,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"1240",34792926,"Men",26,7,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1241",34792926,"Men",26,8,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1242",34792926,"Men",26,9,"Stim_NO_Choque_6_Perspect.gif","New","No collision",0
+"1243",34792926,"Men",26,10,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1244",34792926,"Men",26,11,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"1245",34792926,"Men",26,12,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1246",34792926,"Men",26,13,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"1247",78030515,"Men",23,0,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"1248",78030515,"Men",23,1,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1249",78030515,"Men",23,2,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"1250",78030515,"Men",23,3,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"1251",78030515,"Men",23,4,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1252",78030515,"Men",23,5,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1253",78030515,"Men",23,6,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1254",78030515,"Men",23,7,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",1
+"1255",78030515,"Men",23,8,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1256",78030515,"Men",23,9,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1257",78030515,"Men",23,10,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"1258",78030515,"Men",23,11,"Stim_Choque_8_Perspect.gif","Old","Collision",1
+"1259",78030515,"Men",23,12,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1260",78030515,"Men",23,13,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1261",16218806,"Men",20,0,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1262",16218806,"Men",20,1,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"1263",16218806,"Men",20,2,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1264",16218806,"Men",20,3,"Stim_Choque_8_Perspect.gif","New","Collision",1
+"1265",16218806,"Men",20,4,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1266",16218806,"Men",20,5,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1267",16218806,"Men",20,6,"Stim_Choque_3_Perspect.gif","New","Collision",1
+"1268",16218806,"Men",20,7,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"1269",16218806,"Men",20,8,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"1270",16218806,"Men",20,9,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"1271",16218806,"Men",20,10,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"1272",16218806,"Men",20,11,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"1273",16218806,"Men",20,12,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1274",16218806,"Men",20,13,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1275",48072448,"Men",26,0,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"1276",48072448,"Men",26,1,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1277",48072448,"Men",26,2,"Stim_Choque_4_Perspect.gif","Old","Collision",0
+"1278",48072448,"Men",26,3,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1279",48072448,"Men",26,4,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1280",48072448,"Men",26,5,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1281",48072448,"Men",26,6,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1282",48072448,"Men",26,7,"Stim_Choque_1_Perspect.gif","Old","Collision",0
+"1283",48072448,"Men",26,8,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1284",48072448,"Men",26,9,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"1285",48072448,"Men",26,10,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"1286",48072448,"Men",26,11,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1287",48072448,"Men",26,12,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"1288",48072448,"Men",26,13,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"1289",48789281,"Men",27,0,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1290",48789281,"Men",27,1,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"1291",48789281,"Men",27,2,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1292",48789281,"Men",27,3,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",0
+"1293",48789281,"Men",27,4,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"1294",48789281,"Men",27,5,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1295",48789281,"Men",27,6,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1296",48789281,"Men",27,7,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1297",48789281,"Men",27,8,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1298",48789281,"Men",27,9,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"1299",48789281,"Men",27,10,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"1300",48789281,"Men",27,11,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"1301",48789281,"Men",27,12,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"1302",48789281,"Men",27,13,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1303",39231118,"Men",20,0,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1304",39231118,"Men",20,1,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1305",39231118,"Men",20,2,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"1306",39231118,"Men",20,3,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"1307",39231118,"Men",20,4,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"1308",39231118,"Men",20,5,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"1309",39231118,"Men",20,6,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"1310",39231118,"Men",20,7,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",1
+"1311",39231118,"Men",20,8,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1312",39231118,"Men",20,9,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"1313",39231118,"Men",20,10,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1314",39231118,"Men",20,11,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"1315",39231118,"Men",20,12,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"1316",39231118,"Men",20,13,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"1317",84133574,"Men",31,0,"Stim_NO_Choque_3_Perspect.gif","New","No collision",1
+"1318",84133574,"Men",31,1,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"1319",84133574,"Men",31,2,"Stim_Choque_7_Perspect.gif","New","Collision",0
+"1320",84133574,"Men",31,3,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1321",84133574,"Men",31,4,"Stim_NO_Choque_5_Perspect.gif","New","No collision",1
+"1322",84133574,"Men",31,5,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",1
+"1323",84133574,"Men",31,6,"Stim_Choque_6_Perspect.gif","Old","Collision",1
+"1324",84133574,"Men",31,7,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1325",84133574,"Men",31,8,"Stim_Choque_2_Perspect.gif","New","Collision",0
+"1326",84133574,"Men",31,9,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"1327",84133574,"Men",31,10,"Stim_Choque_5_Perspect.gif","Old","Collision",1
+"1328",84133574,"Men",31,11,"Stim_NO_Choque_1_Perspect.gif","New","No collision",1
+"1329",84133574,"Men",31,12,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"1330",84133574,"Men",31,13,"Stim_Choque_4_Perspect.gif","New","Collision",0
+"1331",32216284,"Men",25,0,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",0
+"1332",32216284,"Men",25,1,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",0
+"1333",32216284,"Men",25,2,"Stim_Choque_6_Perspect.gif","New","Collision",1
+"1334",32216284,"Men",25,3,"Stim_NO_Choque_7_Perspect.gif","New","No collision",0
+"1335",32216284,"Men",25,4,"Stim_NO_Choque_1_Perspect.gif","New","No collision",0
+"1336",32216284,"Men",25,5,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1337",32216284,"Men",25,6,"Stim_Choque_5_Perspect.gif","New","Collision",1
+"1338",32216284,"Men",25,7,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"1339",32216284,"Men",25,8,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1340",32216284,"Men",25,9,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"1341",32216284,"Men",25,10,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1342",32216284,"Men",25,11,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1343",32216284,"Men",25,12,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1344",32216284,"Men",25,13,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1345",87631538,"Men",27,0,"Stim_Choque_7_Perspect.gif","Old","Collision",1
+"1346",87631538,"Men",27,1,"Stim_Choque_8_Perspect.gif","New","Collision",0
+"1347",87631538,"Men",27,2,"Stim_NO_Choque_1_Perspect.gif","Old","No collision",0
+"1348",87631538,"Men",27,3,"Stim_NO_Choque_2_Perspect.gif","Old","No collision",1
+"1349",87631538,"Men",27,4,"Stim_NO_Choque_6_Perspect.gif","New","No collision",1
+"1350",87631538,"Men",27,5,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1351",87631538,"Men",27,6,"Stim_Choque_1_Perspect.gif","New","Collision",1
+"1352",87631538,"Men",27,7,"Stim_Choque_3_Perspect.gif","Old","Collision",0
+"1353",87631538,"Men",27,8,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"1354",87631538,"Men",27,9,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"1355",87631538,"Men",27,10,"Stim_NO_Choque_8_Perspect.gif","Old","No collision",0
+"1356",87631538,"Men",27,11,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",0
+"1357",87631538,"Men",27,12,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1358",87631538,"Men",27,13,"Stim_Choque_6_Perspect.gif","Old","Collision",0
+"1359",24249955,"Men",18,0,"Stim_NO_Choque_3_Perspect.gif","New","No collision",0
+"1360",24249955,"Men",18,1,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",0
+"1361",24249955,"Men",18,2,"Stim_Choque_1_Perspect.gif","Old","Collision",1
+"1362",24249955,"Men",18,3,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1363",24249955,"Men",18,4,"Stim_NO_Choque_5_Perspect.gif","New","No collision",0
+"1364",24249955,"Men",18,5,"Stim_Choque_3_Perspect.gif","Old","Collision",1
+"1365",24249955,"Men",18,6,"Stim_NO_Choque_7_Perspect.gif","Old","No collision",0
+"1366",24249955,"Men",18,7,"Stim_NO_Choque_8_Perspect.gif","New","No collision",0
+"1367",24249955,"Men",18,8,"Stim_Choque_7_Perspect.gif","New","Collision",1
+"1368",24249955,"Men",18,9,"Stim_NO_Choque_4_Perspect.gif","Old","No collision",1
+"1369",24249955,"Men",18,10,"Stim_Choque_8_Perspect.gif","Old","Collision",0
+"1370",24249955,"Men",18,11,"Stim_Choque_5_Perspect.gif","Old","Collision",0
+"1371",24249955,"Men",18,12,"Stim_Choque_4_Perspect.gif","New","Collision",1
+"1372",24249955,"Men",18,13,"Stim_Choque_2_Perspect.gif","New","Collision",1
+"1373",43717525,"Men",26,0,"Stim_Choque_7_Perspect.gif","Old","Collision",0
+"1374",43717525,"Men",26,1,"Stim_NO_Choque_7_Perspect.gif","New","No collision",1
+"1375",43717525,"Men",26,2,"Stim_Choque_6_Perspect.gif","New","Collision",0
+"1376",43717525,"Men",26,3,"Stim_NO_Choque_4_Perspect.gif","New","No collision",0
+"1377",43717525,"Men",26,4,"Stim_Choque_4_Perspect.gif","Old","Collision",1
+"1378",43717525,"Men",26,5,"Stim_NO_Choque_3_Perspect.gif","Old","No collision",1
+"1379",43717525,"Men",26,6,"Stim_NO_Choque_6_Perspect.gif","Old","No collision",1
+"1380",43717525,"Men",26,7,"Stim_Choque_2_Perspect.gif","Old","Collision",0
+"1381",43717525,"Men",26,8,"Stim_Choque_1_Perspect.gif","New","Collision",0
+"1382",43717525,"Men",26,9,"Stim_Choque_3_Perspect.gif","New","Collision",0
+"1383",43717525,"Men",26,10,"Stim_NO_Choque_5_Perspect.gif","Old","No collision",1
+"1384",43717525,"Men",26,11,"Stim_Choque_5_Perspect.gif","New","Collision",0
+"1385",43717525,"Men",26,12,"Stim_NO_Choque_2_Perspect.gif","New","No collision",1
+"1386",43717525,"Men",26,13,"Stim_NO_Choque_8_Perspect.gif","New","No collision",1
